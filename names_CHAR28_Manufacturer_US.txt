@@ -10,7 +10,7 @@ Archie:             Acorn Archimedes
 Atari800:           Atari 800XL/65XE/130XE
 AtariST:            Atari ST/STE
                    |                  |         |
-Atom: Acorn Atom				
+Atom:               Acorn Atom				
 BBCMicro:           BBC Micro B/Master 128
 BK0011M:            Electronika BK-0011M
 C16:                Commodore 16 & Plus/4
