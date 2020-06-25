@@ -1,84 +1,95 @@
-Altair8800: MITS Altair 8800
-Amstrad: Amstrad CPC 664/6128
-ao486: IBM 386-Compatible
-Apogee: Apogee BK-01
-Apple-I: Apple I
-Apple-II: Apple IIe
-Aquarius: Mattel Aquarius
-Archie: Acorn Archimedes
-Atari800: Atari 800XL/65XE/130XE
-AtariST: Atari ST/STE
-Atom: Acorn Atom				
-BBCMicro: BBC Micro B/Master 128
-BK0011M: Electronika BK-0011M
-C16: Commodore 16 & Plus/4
-C64: Commodore 64
-CoCo3: Tandy TRS-80 Color Comp. 3					   
-EDSAC: EDSAC
-Electron: Acorn Electron
-F68kMiSTer: Sharp X68000
-Galaksija: Galaksija
-Jupiter: Jupiter Ace
-MacPlus: Apple Macintosh Plus
-Minimig: Commodore Amiga
-mister_coco: Tandy TRS-80 Color Comp. 3
-MSX: MSX/MSX2/MSX2+/TurboR
-MultiComp: MultiComp (Z80/6502/6809)
-ORAO: Velebit Informatika Orao
-Oric: Oric-1/Atmos
-PDP1: DEC PDP-1
-PET2001: Commodore PET 2001
-QL: Sinclair QL
+                   |                  |         |
+Altair8800:         MITS Altair 8800
+Amstrad:            Amstrad CPC 664/6128
+ao486:              IBM 386-Compatible
+Apogee:             Apogee BK-01
+Apple-I:            Apple I
+Apple-II:           Apple IIe
+Aquarius:           Mattel Aquarius
+Archie:             Acorn Archimedes
+Atari800:           Atari 800XL/65XE/130XE
+AtariST:            Atari ST/STE
+                   |                  |         |
+Atom:               Acorn Atom				
+BBCMicro:           BBC Micro B/Master 128
+BK0011M:            Electronika BK-0011M
+C16:                Commodore 16 & Plus/4
+C64:                Commodore 64
+CoCo3:              Tandy TRS-80 Color Comp. 3					   
+EDSAC:              EDSAC
+Electron:           Acorn Electron
+F68kMiSTer:         Sharp X68000
+Galaksija:          Galaksija
+                   |                  |         |
+Jupiter:            Jupiter Ace
+MacPlus:            Apple Macintosh Plus
+Minimig:            Commodore Amiga
+mister_coco:        Tandy TRS-80 Color Comp. 3
+MSX:                MSX/MSX2/MSX2+/TurboR
+MultiComp:          MultiComp (Z80/6502/6809)
+ORAO:               Velebit Informatika Orao
+Oric:               Oric-1/Atmos
+PDP1:               DEC PDP-1
+PET2001:            Commodore PET 2001
+                   |                  |         |
+QL:                 Sinclair QL
 release-MiSTerDemu: NEC PC-8801
-SAMCoupe: SAM Coupe
-SharpMZ: Sharp MZ Series
-Specialist: Specialist/MX
-SS: Sun SparcStation (NeXT)
-Ti994a: Texas Instruments TI-99/4A
-TRS-80: Tandy TRS-80 Model I
-TSConf: ZX Evolution (TS-Config)
-Vector-06C: Vector-06C
-VIC20: Commodore VIC-20
-X68000: Sharp X68000
-ZX-Spectrum: Sinclair ZX Spectrum
-ZX81: Sinclair ZX81
+SAMCoupe:           SAM Coupe
+SharpMZ:            Sharp MZ Series
+Specialist:         Specialist/MX
+SS:                 Sun SparcStation (NeXT)
+Ti994a:             Texas Instruments TI-99/4A
+TRS-80:             Tandy TRS-80 Model I
+TSConf:             ZX Evolution (TS-Config)
+Vector-06C:         Vector-06C
+                   |                  |         |
+VIC20:              Commodore VIC-20
+X68000:             Sharp X68000
+ZX-Spectrum:        Sinclair ZX Spectrum
+ZX81:               Sinclair ZX81
 
-Astrocade: Bally Astrocade
-Atari2600: Atari 2600
-Atari5200: Atari 5200
-Atari7800: Atari 7800					 
-AY-3-8500: GI Pong (AY-3-8500)
-C2650: Arcadia 2001 & VC 4000
-ColecoVision: ColecoVision & SG-1000
-Gameboy: Nintendo Game Boy/Color
-GBA: Nintendo Game Boy Advance
-Genesis: SEGA Mega Drive
-Intv: Mattel Intellivision
-Jaguar: Atari Jaguar
-MegaCD: SEGA Mega-CD
-NeoGeo: SNK Neo Geo MVS/AES
-NES: Nintendo NES
-Odyssey2: Magnavox Odyssey2
-SMS: SEGA Master System/Game Gear
-SNES: Nintendo Super NES
-TurboGrafx16: NEC PC Engine/CD
-Vectrex: GCE Vectrex
 
-Chip8: CHIP-8
-Arduboy: Arduboy
-FlappyBird: Flappy Bird
-GameOfLife: Conway's Game of Life
-Hack: Nand2Tetris Hack Computer
+                   |                  |         |
+Astrocade:          Bally Astrocade
+Atari2600:          Atari 2600
+Atari5200:          Atari 5200
+Atari7800:          Atari 7800					 
+AY-3-8500:          GI Pong (AY-3-8500)
+C2650:              Arcadia 2001 & VC 4000
+ColecoVision:       ColecoVision & SG-1000
+Gameboy:            Nintendo Game Boy/Color
+GBA:                Nintendo Game Boy Advance
+Genesis:            SEGA Mega Drive
+                   |                  |         |
+Intv:               Mattel Intellivision
+Jaguar:             Atari Jaguar
+MegaCD:             SEGA Mega-CD
+NeoGeo:             SNK Neo Geo MVS/AES
+NES:                Nintendo NES
+Odyssey2:           Magnavox Odyssey2
+PICO:               Sega Pico
+SMS:                SEGA Master System/Game Gear
+SNES:               Nintendo Super NES
+TurboGrafx16:       NEC PC Engine/CD
+Vectrex:            GCE Vectrex
 
-memtest: SDRAM Test
+                   |                  |         |
+Chip8:              CHIP-8
+Arduboy:            Arduboy
+FlappyBird:         Flappy Bird
+GameOfLife:         Conway's Game of Life
+Hack:               Nand2Tetris Hack Computer
 
-Gameboy_LLAPI: Nintendo GB/GBC (LLAPI)
-GBA_LLAPI: Nintendo GBA (LLAPI)
-Genesis_LLAPI: SEGA Mega Drive (LLAPI)
-MegaCD_LLAPI: SEGA Mega-CD (LLAPI)
-NeoGeo_LLAPI: SNK Neo Geo (LLAPI)
-NES_LLAPI: Nintendo NES (LLAPI)
-Pacman_LLAPI: Pac-Man (LLAPI)
-SMS_LLAPI: SEGA Master System (LLAPI)
-SNES_LLAPI: Nintendo SNES (LLAPI)
+memtest:            SDRAM Test
+
+                   |                  |         |
+Gameboy_LLAPI:      Nintendo GB/GBC (LLAPI)
+GBA_LLAPI:          Nintendo GBA (LLAPI)
+Genesis_LLAPI:      SEGA Mega Drive (LLAPI)
+MegaCD_LLAPI:       SEGA Mega-CD (LLAPI)
+NeoGeo_LLAPI:       SNK Neo Geo (LLAPI)
+NES_LLAPI:          Nintendo NES (LLAPI)
+Pacman_LLAPI:       Pac-Man (LLAPI)
+SMS_LLAPI:          SEGA Master System (LLAPI)
+SNES_LLAPI:         Nintendo SNES (LLAPI)
 TurboGrafx16_LLAPI: NEC PC Engine/CD (LLAPI)
