@@ -1,5 +1,6 @@
 1. Take Manufacturer first.
-2. If Manufacturer has more than 6 char, abbreviate with 4 first letters plus '.' (Ex: Nint. for Nintendo)
+2. If Manufacturer has more than 6 char, abbreviate with 4 first letters plus '.' (Ex: Nint. for Nintendo).
+    Exception is done for "Nint Super Famicom", to avoid doing "Nint. SFC" as it only missed one char.
 3. Then take system name.
 4. If system name has variants that don't fit, remove the ones that don't fit. 
    The not fitting ones would be mentioned with "/..." if those are more than one. If "/..." doesn't fit either, omit entirely.
