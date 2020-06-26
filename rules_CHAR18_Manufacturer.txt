@@ -1,0 +1,14 @@
+1. Take Manufacturer first.
+2. If Manufacturer has more than 6 char, abbreviate with 4 first letters plus '.' (Ex: Nint. for Nintendo)
+3. Then take system name.
+4. If system name has variants that don't fit, remove the ones that don't fit. 
+   The not fitting ones would be mentioned with "/..." if those are more than one. If "/..." doesn't fit either, omit entirely.
+   If the non fitting variant is just one, try to include with an abbreviation or if that doesn't work, remove it.
+
+   If system name does not fit abbreviate it with:
+    a) acronym if possible (GBA)
+    b) shortened descriptive word (TGFX16/CD) if that wasn't possible.
+    c) core name if previous options weren't possible.
+    d) abbreviation of core name if neither were possible.
+
+5. If the core is a fork (LLAPI), save a char by using #, and try to fit the word describing the fork over system name.

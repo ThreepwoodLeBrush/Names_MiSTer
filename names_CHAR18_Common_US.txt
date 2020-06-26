@@ -1,13 +1,13 @@
                    |                  |         |
 Altair8800:         Altair 8800
 Amstrad:            Amstrad CPC
-ao486:              IBM 386
+ao486:              IBM 386-Compatible
 Apogee:             Apogee BK-01
 Apple-I:            Apple I
 Apple-II:           Apple IIe
 Aquarius:           Mattel Aquarius
 Archie:             Acorn Archimedes
-Atari800:           Atari 800XL
+Atari800:           Atari 800XL/...
 AtariST:            Atari ST/STE
                    |                  |         |
 Atom:               Acorn Atom				
@@ -82,13 +82,13 @@ Hack:               Nand2Tetris Hack
 memtest:            SDRAM Test
 
                    |                  |         |
-Gameboy_LLAPI:      GB/GBC (LLAPI)
-GBA_LLAPI:          GBA (LLAPI)
-Genesis_LLAPI:      Genesis (LLAPI)
-MegaCD_LLAPI:       SEGA CD (LLAPI)
-NeoGeo_LLAPI:       Neo Geo (LLAPI)
-NES_LLAPI:          NES (LLAPI)
-Pacman_LLAPI:       Pac-Man (LLAPI)
-SMS_LLAPI:          SMS (LLAPI)
-SNES_LLAPI:         SNES (LLAPI)
-TurboGrafx16_LLAPI: TG-16/CD (LLAPI)
+Gameboy_LLAPI:      GB/GBC #LLAPI
+GBA_LLAPI:          GBA #LLAPI
+Genesis_LLAPI:      Genesis #LLAPI
+MegaCD_LLAPI:       SEGA CD #LLAPI
+NeoGeo_LLAPI:       Neo Geo #LLAPI
+NES_LLAPI:          NES #LLAPI
+Pacman_LLAPI:       Pac-Man #LLAPI
+SMS_LLAPI:          SMS #LLAPI
+SNES_LLAPI:         SNES #LLAPI
+TurboGrafx16_LLAPI: TGFX-16/CD #LLAPI
