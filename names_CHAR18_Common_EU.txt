@@ -92,3 +92,109 @@ Pacman_LLAPI:       Pac-Man #LLAPI
 SMS_LLAPI:          SMS #LLAPI
 SNES_LLAPI:         SNES #LLAPI
 TurboGrafx16_LLAPI: PC Engine #LLAPI
+
+
+
+
+
+
+
+
+
+
+
+
+asteroids:          Asteroids
+arkanoid:           Arkanoid
+ataritetris:        Atari Tetris
+asteroidsdeluxe:    Asteroids Deluxe
+                   |                  |         |
+bagman:             Bagman
+astrocade:          Astrocade
+MCR1:               MCR-1
+MCR2:               MCR-2
+mcr3:               MCR-3
+MCR3Mono:           MCR-3 Monoboard
+mcr3scroll:         MCR-3 Scroll
+berzerk:            Berzerk
+canyonbomber:       Canyon Bomber
+                   |                  |         |
+burningrubber:      Burning Rubber
+burgertime:         Burger Time
+bombjack:           Bomb Jack
+BlackWidow:         Black Widow
+CrazyBalloon:       Crazy Balloon
+cosmicavenger:      Cosmic Avenger
+computerspace:      Computer Space
+centipede:          Centipede
+CrazyKong:          Crazy Kong
+                   |                  |         |
+crazyclimber:       Crazy Climber
+digdug:             Dig Dug
+defender:           Defender
+donkeykong:         Donkey Kong
+dominos:            Dominos
+frenzy:             Frenzy
+foodfight:          Food Fight
+dorodon:            Dorodon
+donkeykongjunior:   Donkey Kong Jr.
+                   |                  |         |
+galaga:             Galaga
+galaxian:           Galaxian
+gng:                Ghosts 'n Goblins
+gaplus:             Gaplus
+MarioBros:          Mario Bros
+lunarlander:        Lunar Lander
+ladybug:            Lady Bug
+iremm62:            Irem M62
+moonpatrol:         Moon Patrol
+                   |                  |         |
+druaga:             Druaga
+ninjakun:           Ninja Kun
+pengo:              Pengo
+pacman:             Pac-Man
+pooyan:             Pooyan
+Pong:               Pong
+pleiads:            Pleiads
+phoenix:            Phoenix
+riverpatrol:        River Patrol
+                   |                  |         |
+rallyx:             Rally-X
+popeye:             Popeye
+robotron:           Robotron
+rshnatk:            Rush'n Attack
+scramble:           Scramble
+solomonskey:        Solomon's Key
+snapjack:           Snap Jack
+silverland:         Silver Land
+superbreakout:      Super Breakout
+                   |                  |         |
+sprint2:            Sprint 2
+sprint1:            Sprint 1
+ultratank:          Ultra Tank
+traverseusa:        Traverse USA
+timepilot:          Time Pilot
+tecmo:              Tecmo 1st Gen
+xevious:            Xevious
+zaxxon:             Zaxxon
+zigzag:             Zig Zag
+
+                   |                  |         |
+jt1942:             1942
+jtbtiger:           Black Tiger
+jtbiocom:           Bionic Commando
+jt1943:             1943
+jtcommando:         Commando 
+jtf1dream:          F1-Dream
+jtdd2:              Double Dragon 2
+jtdd:               Double Dragon
+                   |                  |         |
+jtcps1:             CPS-1
+jtvulgus:           Vulgus
+jttora:             Tiger Road
+jtsectionz:         Section Z
+jtgunsmoke:         Gun.Smoke
+
+PenguinKunWars:     Penguin-Kun Wars       
+segasys1:           SEGA System 1 
+gyruss:             Gyruss 
