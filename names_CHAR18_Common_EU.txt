@@ -111,10 +111,10 @@ asteroidsdeluxe:    Asteroids Deluxe
                    |                  |         |
 bagman:             Bagman
 astrocade:          Astrocade
-MCR1:               MCR-1
-MCR2:               MCR-2
+mcr1:               MCR-1
+mcr2:               MCR-2
 mcr3:               MCR-3
-MCR3Mono:           MCR-3 Monoboard
+mcr3mono:           MCR-3 Monoboard
 mcr3scroll:         MCR-3 Scroll
 berzerk:            Berzerk
 canyonbomber:       Canyon Bomber
@@ -127,7 +127,7 @@ CrazyBalloon:       Crazy Balloon
 cosmicavenger:      Cosmic Avenger
 computerspace:      Computer Space
 centipede:          Centipede
-CrazyKong:          Crazy Kong
+crazykong:          Crazy Kong
                    |                  |         |
 crazyclimber:       Crazy Climber
 digdug:             Dig Dug
