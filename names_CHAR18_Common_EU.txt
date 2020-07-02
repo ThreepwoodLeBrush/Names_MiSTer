@@ -102,96 +102,96 @@ TurboGrafx16_LLAPI: PC Engine #LLAPI
 
 
 
-
-Arkanoid:           Arkanoid      
-Asteroids:          Asteroids      
-AsteroidsDeluxe:    Asteroids Deluxe              
-AtariTetris:        Atari Tetris          
-Bagman:             Bagman  
-Berzerk:            Berzerk      
-BlackWidow:         Black Widow      
-BombJack:           Bomb Jack      
-BurgerTime:         Burger Time      
-                   |                  |         |
-BurningRubber:      Burning Rubber          
-CanyonBomber:       Canyon Bomber          
-Centipede:          Centipede      
-ComputerSpace:      Computer Space          
-CosmicAvenger:      Cosmic Avenger          
-CrazyBalloon:       Crazy Balloon          
-CrazyClimber:       Crazy Climber          
-CrazyKong:          Crazy Kong      
-Defender:           Defender      
-DigDug:             Dig Dug  
-                   |                  |         |
-Dominos:            Dominos      
-DonkeyKong:         Donkey Kong      
-DonkeyKongJunior:   Donkey Kong Jr.
-Dorodon:            Dorodon      
-Druaga:             Druaga  
-FoodFight:          Food Fight      
-Frenzy:             Frenzy  
-Galaga:             Galaga  
-Galaxian:           Galaxian      
-Gaplus:             Gaplus  
-                   |                  |         |
-GnG:                GnG (old)  
-Gyruss:             Gyruss  
+                   |                     |
+Arkanoid:           Taito - Arkanoid      
+Asteroids:          Atari - Asteroids      
+AsteroidsDeluxe:    Atari - Asteroids Deluxe              
+AtariTetris:        Atari - Tetris          
+Bagman:             Valadon Aut. - Bagman  
+Berzerk:            Stern Elect. - Berzerk      
+BlackWidow:         Atari - Black Widow      
+BombJack:           Tehkan - Bomb Jack      
+BurgerTime:         Data East - Burger Time      
+                   |                     |
+BurningRubber:      Data East - Burning Rubber          
+CanyonBomber:       Atari - Canyon Bomber          
+Centipede:          Atari - Centipede      
+ComputerSpace:      Syzygy Engr. Computer Space          
+CosmicAvenger:      Universal - Cosmic Avenger          
+CrazyBalloon:       Taito - Crazy Balloon          
+CrazyClimber:       Nichibutsu - Crazy Climber          
+CrazyKong:          Falcon - Crazy Kong      
+Defender:           Williams, Inc. Defender      
+DigDug:             Namco - Dig Dug  
+                   |                     |
+Dominos:            Atari - Dominos      
+DonkeyKong:         Nintendo - Donkey Kong      
+DonkeyKongJunior:   Nintendo - Donkey Kong Jr.
+Dorodon:            UPL Co. - Dorodon      
+Druaga:             Namco - Tower of Druaga  
+FoodFight:          GCC - Food Fight      
+Frenzy:             Stern Elect. - Frenzy  
+Galaga:             Namco - Galaga  
+Galaxian:           Namco - Galaxian      
+Gaplus:             Namco - Gaplus  
+                   |                     |
+GnG:                Capcom - GnG -old-  
+Gyruss:             Konami - Gyruss  
 IremM62:            Irem M62      
-jt1942:             1942  
-jt1943:             1943  
-jtbiocom:           Bionic Commando      
-jtbtiger:           Black Tiger      
-jtcommando:         Commando      
-jtcps1:             CPS-1  
-jtdd:               Double Dragon  
-                   |                  |         |
-jtdd2:              Double Dragon 2  
-jtf1dream:          F-1 Dream      
-jtgng:              Ghosts 'n Goblins
-jtgunsmoke:         Gun.Smoke      
-jtpopeye:           Popeye (JT)
-jtsectionz:         Section Z      
-jttora:             Tiger Road  
-jtvulgus:           Vulgus      
-LadyBug:            Lady Bug      
-LunarLander:        Lunar Lander   
-                   |                  |         |
-MarioBros:          Mario Bros      
-MCR1:               MCR-1  
-MCR2:               MCR-2  
-MCR3:               MCR-3  
-MCR3Mono:           MCR-3 Monoboard
-MCR3Scroll:         MCR-3 Scroll      
-MoonPatrol:         Moon Patrol      
-NinjaKun:           Ninja Kun      
-Pacman:             Pac-Man  
-Pengo:              Pengo  
-                   |                  |         |
-PenguinKunWars:     Penguin-Kun Wars          
-Phoenix:            Phoenix      
-Pleiads:            Pleiades      
-Pong:               Pong  
-Pooyan:             Pooyan  
-Popeye:             Popeye  
-RallyX:             Rally-X  
-RiverPatrol:        River Patrol          
-Robotron:           Robotron      
-RshnAtk:            Green Beret      
-                   |                  |         |
-Scramble:           Scramble      
+jt1942:             Capcom - 1942  
+jt1943:             Capcom - 1943  
+jtbiocom:           Capcom - Bionic Commando      
+jtbtiger:           Capcom - Black Tiger      
+jtcommando:         Capcom - Commando      
+jtcps1:             Capcom CPS-1  
+jtdd:               Technos - Double Dragon  
+                   |                     |
+jtdd2:              Technos - Double Dragon 2  
+jtf1dream:          Capcom - F-1 Dream      
+jtgng:              Capcom - Ghosts 'n Goblins
+jtgunsmoke:         Capcom - Gun.Smoke      
+jtpopeye:           Nintendo - Popeye -JT-
+jtsectionz:         Capcom - Section Z      
+jttora:             Capcom - Tiger Road  
+jtvulgus:           Capcom - Vulgus      
+LadyBug:            Universal - Lady Bug      
+LunarLander:        Atari - Lunar Lander   
+                   |                     |
+MarioBros:          Nintendo - Mario Bros      
+MCR1:               Bally Midway MCR-1  
+MCR2:               Bally Midway MCR-2  
+MCR3:               Bally Midway MCR-3  
+MCR3Mono:           Bally Midway MCR-3 Monoboard
+MCR3Scroll:         Bally Midway MCR-3 Scroll      
+MoonPatrol:         Irem - Moon Patrol      
+NinjaKun:           UPL - Ninja Kun      
+Pacman:             Namco - Pac-Man  
+Pengo:              Coreland - Pengo  
+                   |                     |
+PenguinKunWars:     UPL - Penguin-Kun Wars          
+Phoenix:            Centuri - Phoenix      
+Pleiads:            Centuri - Pleiades      
+Pong:               Atari - Pong  
+Pooyan:             Stern Elect. - Pooyan  
+Popeye:             Nintendo - Popeye  
+RallyX:             Namco - Rally-X  
+RiverPatrol:        Orca - River Patrol          
+Robotron:           Vid Kidz - Robotron      
+RshnAtk:            Konami - Green Beret      
+                   |                     |
+Scramble:           Konami - Scramble      
 SEGASYS1:           SEGA System 1       
-SilverLand:         Silver Land      
-SnapJack:           Snap Jack      
-SolomonsKey:        Solomon's Key          
-Sprint1:            Sprint 1      
-Sprint2:            Sprint 2      
-SuperBreakout:      Super Breakout          
-Tecmo:              Tecmo  
-TimePilot:          Time Pilot      
-                   |                  |         |
-TraverseUSA:        Traverse USA          
-Ultratank:          Ultra Tank      
-Xevious:            Xevious      
-Zaxxon:             Zaxxon  
-ZigZag:             Zig Zag  
+SilverLand:         Falcon - Silver Land      
+SnapJack:           Universal - Snap Jack      
+SolomonsKey:        Tecmo - Solomon's Key          
+Sprint1:            Atari - Sprint 1      
+Sprint2:            Atari - Sprint 2      
+SuperBreakout:      Atari - Super Breakout          
+Tecmo:              Tecmo 1st Gen
+TimePilot:          Konami - Time Pilot      
+                   |                     |
+TraverseUSA:        Irem - Traverse USA          
+Ultratank:          Kee Games - Ultra Tank      
+Xevious:            Namco - Xevious      
+Zaxxon:             SEGA - Zaxxon  
+ZigZag:             LAX - Zig Zag  

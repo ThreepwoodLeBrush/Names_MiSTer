@@ -107,40 +107,41 @@ TurboGrafx16_LLAPI: NEC TGFX16 #LLAPI
 
 
 
-                   |                  |         |
+
+                   |                     |
 Arkanoid:           Taito - Arkanoid      
 Asteroids:          Atari - Asteroids      
-AsteroidsDeluxe:    Atari - Astero. DX
+AsteroidsDeluxe:    Atari - Asteroids Deluxe              
 AtariTetris:        Atari - Tetris          
-Bagman:             Valad.- Bagman  
-Berzerk:            Stern - Berzerk      
+Bagman:             Valadon Aut. - Bagman  
+Berzerk:            Stern Elect. - Berzerk      
 BlackWidow:         Atari - Black Widow      
 BombJack:           Tehkan - Bomb Jack      
-BurgerTime:         Data E.- Burger Time      
-                   |                  |         |
-BurningRubber:      Data E.- Burning Rubber          
+BurgerTime:         Data East - Burger Time      
+                   |                     |
+BurningRubber:      Data East - Burning Rubber          
 CanyonBomber:       Atari - Canyon Bomber          
 Centipede:          Atari - Centipede      
-ComputerSpace:      Syzygy - Comp. Space          
-CosmicAvenger:      Univer - Cosmic Avenger          
+ComputerSpace:      Syzygy Engr. Computer Space          
+CosmicAvenger:      Universal - Cosmic Avenger          
 CrazyBalloon:       Taito - Crazy Balloon          
-CrazyClimber:       Nichi.- Crazy Climber          
+CrazyClimber:       Nichibutsu - Crazy Climber          
 CrazyKong:          Falcon - Crazy Kong      
-Defender:           Willi.- Defender      
+Defender:           Williams, Inc. Defender      
 DigDug:             Namco - Dig Dug  
-                   |                  |         |
+                   |                     |
 Dominos:            Atari - Dominos      
-DonkeyKong:         Nint.- Donkey Kong      
-DonkeyKongJunior:   Nint.- Donkey Kong Jr.
+DonkeyKong:         Nintendo - Donkey Kong      
+DonkeyKongJunior:   Nintendo - Donkey Kong Jr.
 Dorodon:            UPL Co. - Dorodon      
-Druaga:             Namco - Druaga  
+Druaga:             Namco - Tower of Druaga  
 FoodFight:          GCC - Food Fight      
-Frenzy:             Stern - Frenzy  
+Frenzy:             Stern Elect. - Frenzy  
 Galaga:             Namco - Galaga  
 Galaxian:           Namco - Galaxian      
 Gaplus:             Namco - Gaplus  
-                   |                  |         |
-GnG:                Capcom - GnG (old)  
+                   |                     |
+GnG:                Capcom - GnG -old-  
 Gyruss:             Konami - Gyruss  
 IremM62:            Irem M62      
 jt1942:             Capcom - 1942  
@@ -149,41 +150,41 @@ jtbiocom:           Capcom - Bionic Commando
 jtbtiger:           Capcom - Black Tiger      
 jtcommando:         Capcom - Commando      
 jtcps1:             Capcom CPS-1  
-jtdd:               Technōs - DD  
-                   |                  |         |
-jtdd2:              Technōs - DD 2  
+jtdd:               Technos - Double Dragon  
+                   |                     |
+jtdd2:              Technos - Double Dragon 2  
 jtf1dream:          Capcom - F-1 Dream      
 jtgng:              Capcom - Ghosts 'n Goblins
 jtgunsmoke:         Capcom - Gun.Smoke      
-jtpopeye:           Nint.- Popeye (JT)
+jtpopeye:           Nintendo - Popeye -JT-
 jtsectionz:         Capcom - Section Z      
 jttora:             Capcom - Tiger Road  
 jtvulgus:           Capcom - Vulgus      
 LadyBug:            Universal - Lady Bug      
 LunarLander:        Atari - Lunar Lander   
-                   |                  |         |
-MarioBros:          Nint.- Mario Bros      
-MCR1:               Bally MCR-1  
-MCR2:               Bally MCR-2  
-MCR3:               Bally MCR-3  
-MCR3Mono:           Bally MCR-3 Mono.
-MCR3Scroll:         Bally MCR-3 Scroll      
+                   |                     |
+MarioBros:          Nintendo - Mario Bros      
+MCR1:               Bally Midway MCR-1  
+MCR2:               Bally Midway MCR-2  
+MCR3:               Bally Midway MCR-3  
+MCR3Mono:           Bally Midway MCR-3 Monoboard
+MCR3Scroll:         Bally Midway MCR-3 Scroll      
 MoonPatrol:         Irem - Moon Patrol      
 NinjaKun:           UPL - Ninja Kun      
 Pacman:             Namco - Pac-Man  
 Pengo:              Coreland - Pengo  
-                   |                  |         |
+                   |                     |
 PenguinKunWars:     UPL - Penguin-Kun Wars          
 Phoenix:            Centuri - Phoenix      
 Pleiads:            Centuri - Pleiades      
 Pong:               Atari - Pong  
-Pooyan:             Stern - Electronics Pooyan  
-Popeye:             Nint.- Popeye  
+Pooyan:             Stern Elect. - Pooyan  
+Popeye:             Nintendo - Popeye  
 RallyX:             Namco - Rally-X  
 RiverPatrol:        Orca - River Patrol          
 Robotron:           Vid Kidz - Robotron      
 RshnAtk:            Konami - Rush'n Attack      
-                   |                  |         |
+                   |                     |
 Scramble:           Konami - Scramble      
 SEGASYS1:           SEGA System 1       
 SilverLand:         Falcon - Silver Land      
@@ -194,8 +195,8 @@ Sprint2:            Atari - Sprint 2
 SuperBreakout:      Atari - Super Breakout          
 Tecmo:              Tecmo 1st Gen
 TimePilot:          Konami - Time Pilot      
-                   |                  |         |
-TraverseUSA:        Irem - MotoRace USA         
+                   |                     |
+TraverseUSA:        Irem - MotoRace USA          
 Ultratank:          Kee Games - Ultra Tank      
 Xevious:            Namco - Xevious      
 Zaxxon:             SEGA - Zaxxon  

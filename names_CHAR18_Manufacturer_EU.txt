@@ -145,9 +145,9 @@ jtbiocom:           Capcom - Bionic Commando
 jtbtiger:           Capcom - Black Tiger      
 jtcommando:         Capcom - Commando      
 jtcps1:             Capcom CPS-1  
-jtdd:               Technōs - DD  
+jtdd:               Technos - DD  
                    |                  |         |
-jtdd2:              Technōs - DD 2  
+jtdd2:              Technos - DD 2  
 jtf1dream:          Capcom - F-1 Dream      
 jtgng:              Capcom - Ghosts 'n Goblins
 jtgunsmoke:         Capcom - Gun.Smoke      

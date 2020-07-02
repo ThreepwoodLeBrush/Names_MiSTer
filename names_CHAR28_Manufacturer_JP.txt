@@ -102,17 +102,17 @@ TurboGrafx16_LLAPI: NEC PC Engine/CD (LLAPI)
 
 
 
-                   |                  |         |
+                   |                     |
 Arkanoid:           Taito - Arkanoid      
 Asteroids:          Atari - Asteroids      
 AsteroidsDeluxe:    Atari - Asteroids Deluxe              
 AtariTetris:        Atari - Tetris          
-Bagman:             Valadon Automation - Bagman  
-Berzerk:            Stern Electronics - Berzerk      
+Bagman:             Valadon Aut. - Bagman  
+Berzerk:            Stern Elecr. - Berzerk      
 BlackWidow:         Atari - Black Widow      
 BombJack:           Tehkan - Bomb Jack      
 BurgerTime:         Data East - Burger Time      
-                   |                  |         |
+                   |                     |
 BurningRubber:      Data East - Burning Rubber          
 CanyonBomber:       Atari - Canyon Bomber          
 Centipede:          Atari - Centipede      
@@ -123,7 +123,7 @@ CrazyClimber:       Nichibutsu - Crazy Climber
 CrazyKong:          Falcon - Crazy Kong      
 Defender:           Williams, Inc. Defender      
 DigDug:             Namco - Dig Dug  
-                   |                  |         |
+                   |                     |
 Dominos:            Atari - Dominos      
 DonkeyKong:         Nintendo - Donkey Kong      
 DonkeyKongJunior:   Nintendo - Donkey Kong Jr.
@@ -134,7 +134,7 @@ Frenzy:             Stern Electronics - Frenzy
 Galaga:             Namco - Galaga  
 Galaxian:           Namco - Galaxian      
 Gaplus:             Namco - Gaplus  
-                   |                  |         |
+                   |                     |
 GnG:                Capcom - GnG (old)  
 Gyruss:             Konami - Gyruss  
 IremM62:            Irem M62      
@@ -144,9 +144,9 @@ jtbiocom:           Capcom - Bionic Commando
 jtbtiger:           Capcom - Black Tiger      
 jtcommando:         Capcom - Commando      
 jtcps1:             Capcom CPS-1  
-jtdd:               Technōs - Double Dragon  
-                   |                  |         |
-jtdd2:              Technōs - Double Dragon 2  
+jtdd:               Technos - Double Dragon  
+                   |                     |
+jtdd2:              Technos - Double Dragon 2  
 jtf1dream:          Capcom - F-1 Dream      
 jtgng:              Capcom - Ghosts 'n Goblins
 jtgunsmoke:         Capcom - Gun.Smoke      
@@ -156,7 +156,7 @@ jttora:             Capcom - Tiger Road
 jtvulgus:           Capcom - Vulgus      
 LadyBug:            Universal - Lady Bug      
 LunarLander:        Atari - Lunar Lander   
-                   |                  |         |
+                   |                     |
 MarioBros:          Nintendo - Mario Bros      
 MCR1:               Bally Midway MCR-1  
 MCR2:               Bally Midway MCR-2  
@@ -167,18 +167,18 @@ MoonPatrol:         Irem - Moon Patrol
 NinjaKun:           UPL - Ninja Kun      
 Pacman:             Namco - Pac-Man  
 Pengo:              Coreland - Pengo  
-                   |                  |         |
+                   |                     |
 PenguinKunWars:     UPL - Penguin-Kun Wars          
 Phoenix:            Centuri - Phoenix      
 Pleiads:            Centuri - Pleiades      
 Pong:               Atari - Pong  
-Pooyan:             Stern - Electronics Pooyan  
+Pooyan:             Stern Elec. - Pooyan  
 Popeye:             Nintendo - Popeye  
 RallyX:             Namco - Rally-X  
 RiverPatrol:        Orca - River Patrol          
 Robotron:           Vid Kidz - Robotron      
 RshnAtk:            Konami - Green Beret      
-                   |                  |         |
+                   |                     |
 Scramble:           Konami - Scramble      
 SEGASYS1:           SEGA System 1       
 SilverLand:         Falcon - Silver Land      
@@ -189,7 +189,7 @@ Sprint2:            Atari - Sprint 2
 SuperBreakout:      Atari - Super Breakout          
 Tecmo:              Tecmo 1st Gen
 TimePilot:          Konami - Time Pilot      
-                   |                  |         |
+                   |                     |
 TraverseUSA:        Irem - Zippy Race          
 Ultratank:          Kee Games - Ultra Tank      
 Xevious:            Namco - Xevious      
