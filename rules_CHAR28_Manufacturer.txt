@@ -1,0 +1,6 @@
+1. First Write Manufacturer
+2. Second Write System name
+
+In case of Arcade:
+a) If the core is a generic system, keep name from previous steps.
+b) If the core is for a single game, add "-" and then the game name.

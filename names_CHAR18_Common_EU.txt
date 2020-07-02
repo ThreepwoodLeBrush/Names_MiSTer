@@ -103,98 +103,95 @@ TurboGrafx16_LLAPI: PC Engine #LLAPI
 
 
 
-
-asteroids:          Asteroids
-arkanoid:           Arkanoid
-ataritetris:        Atari Tetris
-asteroidsdeluxe:    Asteroids Deluxe
+Arkanoid:           Arkanoid      
+Asteroids:          Asteroids      
+AsteroidsDeluxe:    Asteroids Deluxe              
+AtariTetris:        Atari Tetris          
+Bagman:             Bagman  
+Berzerk:            Berzerk      
+BlackWidow:         Black Widow      
+BombJack:           Bomb Jack      
+BurgerTime:         Burger Time      
                    |                  |         |
-bagman:             Bagman
-astrocade:          Astrocade
-mcr1:               MCR-1
-mcr2:               MCR-2
-mcr3:               MCR-3
-mcr3mono:           MCR-3 Monoboard
-mcr3scroll:         MCR-3 Scroll
-berzerk:            Berzerk
-canyonbomber:       Canyon Bomber
+BurningRubber:      Burning Rubber          
+CanyonBomber:       Canyon Bomber          
+Centipede:          Centipede      
+ComputerSpace:      Computer Space          
+CosmicAvenger:      Cosmic Avenger          
+CrazyBalloon:       Crazy Balloon          
+CrazyClimber:       Crazy Climber          
+CrazyKong:          Crazy Kong      
+Defender:           Defender      
+DigDug:             Dig Dug  
                    |                  |         |
-burningrubber:      Burning Rubber
-burgertime:         Burger Time
-bombjack:           Bomb Jack
-BlackWidow:         Black Widow
-CrazyBalloon:       Crazy Balloon
-cosmicavenger:      Cosmic Avenger
-computerspace:      Computer Space
-centipede:          Centipede
-crazykong:          Crazy Kong
+Dominos:            Dominos      
+DonkeyKong:         Donkey Kong      
+DonkeyKongJunior:   Donkey Kong Jr.
+Dorodon:            Dorodon      
+Druaga:             Druaga  
+FoodFight:          Food Fight      
+Frenzy:             Frenzy  
+Galaga:             Galaga  
+Galaxian:           Galaxian      
+Gaplus:             Gaplus  
                    |                  |         |
-crazyclimber:       Crazy Climber
-digdug:             Dig Dug
-defender:           Defender
-donkeykong:         Donkey Kong
-dominos:            Dominos
-frenzy:             Frenzy
-foodfight:          Food Fight
-dorodon:            Dorodon
-donkeykongjunior:   Donkey Kong Jr.
+GnG:                GnG (old)  
+Gyruss:             Gyruss  
+IremM62:            Irem M62      
+jt1942:             1942  
+jt1943:             1943  
+jtbiocom:           Bionic Commando      
+jtbtiger:           Black Tiger      
+jtcommando:         Commando      
+jtcps1:             CPS-1  
+jtdd:               Double Dragon  
                    |                  |         |
-galaga:             Galaga
-galaxian:           Galaxian
-gng:                Ghosts 'n Goblins
-gaplus:             Gaplus
-MarioBros:          Mario Bros
-lunarlander:        Lunar Lander
-ladybug:            Lady Bug
-iremm62:            Irem M62
-moonpatrol:         Moon Patrol
+jtdd2:              Double Dragon 2  
+jtf1dream:          F-1 Dream      
+jtgng:              Ghosts 'n Goblins
+jtgunsmoke:         Gun.Smoke      
+jtpopeye:           Popeye (JT)
+jtsectionz:         Section Z      
+jttora:             Tiger Road  
+jtvulgus:           Vulgus      
+LadyBug:            Lady Bug      
+LunarLander:        Lunar Lander   
                    |                  |         |
-druaga:             Druaga
-ninjakun:           Ninja Kun
-pengo:              Pengo
-pacman:             Pac-Man
-pooyan:             Pooyan
-Pong:               Pong
-pleiads:            Pleiads
-phoenix:            Phoenix
-riverpatrol:        River Patrol
+MarioBros:          Mario Bros      
+MCR1:               MCR-1  
+MCR2:               MCR-2  
+MCR3:               MCR-3  
+MCR3Mono:           MCR-3 Monoboard
+MCR3Scroll:         MCR-3 Scroll      
+MoonPatrol:         Moon Patrol      
+NinjaKun:           Ninja Kun      
+Pacman:             Pac-Man  
+Pengo:              Pengo  
                    |                  |         |
-rallyx:             Rally-X
-popeye:             Popeye
-robotron:           Robotron
-rshnatk:            Rush'n Attack
-scramble:           Scramble
-solomonskey:        Solomon's Key
-snapjack:           Snap Jack
-silverland:         Silver Land
-superbreakout:      Super Breakout
+PenguinKunWars:     Penguin-Kun Wars          
+Phoenix:            Phoenix      
+Pleiads:            Pleiades      
+Pong:               Pong  
+Pooyan:             Pooyan  
+Popeye:             Popeye  
+RallyX:             Rally-X  
+RiverPatrol:        River Patrol          
+Robotron:           Robotron      
+RshnAtk:            Green Beret      
                    |                  |         |
-sprint2:            Sprint 2
-sprint1:            Sprint 1
-ultratank:          Ultra Tank
-traverseusa:        Traverse USA
-timepilot:          Time Pilot
-tecmo:              Tecmo 1st Gen
-xevious:            Xevious
-zaxxon:             Zaxxon
-zigzag:             Zig Zag
-
+Scramble:           Scramble      
+SEGASYS1:           SEGA System 1       
+SilverLand:         Silver Land      
+SnapJack:           Snap Jack      
+SolomonsKey:        Solomon's Key          
+Sprint1:            Sprint 1      
+Sprint2:            Sprint 2      
+SuperBreakout:      Super Breakout          
+Tecmo:              Tecmo  
+TimePilot:          Time Pilot      
                    |                  |         |
-jt1942:             1942
-jtbtiger:           Black Tiger
-jtbiocom:           Bionic Commando
-jt1943:             1943
-jtcommando:         Commando 
-jtf1dream:          F1-Dream
-jtdd2:              Double Dragon 2
-jtdd:               Double Dragon
-                   |                  |         |
-jtcps1:             CPS-1
-jtvulgus:           Vulgus
-jttora:             Tiger Road
-jtsectionz:         Section Z
-jtgunsmoke:         Gun.Smoke
-
-PenguinKunWars:     Penguin-Kun Wars       
-segasys1:           SEGA System 1 
-gyruss:             Gyruss 
+TraverseUSA:        Traverse USA          
+Ultratank:          Ultra Tank      
+Xevious:            Xevious      
+Zaxxon:             Zaxxon  
+ZigZag:             Zig Zag  
