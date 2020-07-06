@@ -18,11 +18,10 @@ The filenames are made up from "names_[CHAR18 or CHAR28 or FULL]_[sorting]_[coun
 ### Char Code
 * CHAR18: Maximum system name length is 18 characters to fit without scrolling when Date Codes are ON.
 * CHAR28: Maximum system name length is 28 characters to fit without scrolling when Date Codes are OFF.
-* FULL: Contains full information and will cause scrolling.
 
 ### Sort Code
 * Manufacturer: Will prepend the system name with a manufacturer name to group them by manufacturer where available.
-* Year: Will prepend the system name with a release year to create a timeline of systems.
+* Common: This variant uses commonly used names for systems, like only "Amiga" for the Commodore Amiga, but "Commodore 64" for said system. These variants are often shorter while still being instantly recognizable.
 
 ### Country / Continent
 ISO 3166-1 alpha-2 Codes and Country Codes, like JP, US, EU, are used to append a region code to files that contain region specific naming of systems.
