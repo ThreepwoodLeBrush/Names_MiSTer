@@ -11,7 +11,7 @@ Atari800:           Atari 800XL/...
 AtariST:            Atari ST/STE
                    |                  |         |
 Atom:               Acorn Atom				
-BBCMicro:           BBC Micro / Master
+BBCMicro:           BBC Micro/Master
 BK0011M:            Elec. BK-0011M
 C16:                Comm. 16 & Plus/4
 C64:                Comm. 64
@@ -22,6 +22,7 @@ F68kMiSTer:         Sharp X68000
 Galaksija:          Galaksija
                    |                  |         |
 Jupiter:            Jupiter Ace
+Laser310:           VTech Laser 350
 MacPlus:            Apple Mac Plus
 Minimig:            Comm. Amiga
 mister_coco:        Tandy TRS-80 CoCo3
