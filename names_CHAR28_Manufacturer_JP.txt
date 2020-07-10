@@ -57,7 +57,7 @@ Atari5200:          Atari 5200
 Atari7800:          Atari 7800					 
 AY-3-8500:          GI Pong (AY-3-8500)
 C2650:              Arcadia 2001 & VC 4000
-ColecoVision:       ColecoVision & SG-1000
+ColecoVision:       ColecoVision & SEGA SG-1000
 Gameboy:            Nintendo Game Boy/Color
 GBA:                Nintendo Game Boy Advance
 Genesis:            SEGA Mega Drive
