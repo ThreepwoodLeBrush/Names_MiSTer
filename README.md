@@ -18,6 +18,7 @@ The filenames are made up from "names_[CHAR18 or CHAR28 or FULL]_[sorting]_[coun
 ### Char Code
 * CHAR18: Maximum system name length is 18 characters to fit without scrolling when Date Codes are ON.
 * CHAR28: Maximum system name length is 28 characters to fit without scrolling when Date Codes are OFF.
+* CHAR54: Maximum system name length is 54 characters to fit two lines without scrolling when Date Codes are OFF.
 
 ### Sort Code
 * Manufacturer: Will prepend the system name with a manufacturer name to group them by manufacturer where available.
