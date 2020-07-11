@@ -68,6 +68,7 @@ MegaCD:             Mega-CD
 NeoGeo:             Neo Geo MVS/AES
 NES:                Famicom
 Odyssey2:           Magnavox Odyssey2
+PICO:               Kids Computer Pico
 SMS:                Master System & GG
 SNES:               Super Famicom
 TurboGrafx16:       PC Engine/CD
