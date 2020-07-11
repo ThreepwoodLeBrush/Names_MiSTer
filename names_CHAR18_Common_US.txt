@@ -71,7 +71,7 @@ Odyssey2:           Magnavox Odyssey2
 PICO:               Kids Computer Pico
 SMS:                Master System
 SNES:               Super NES
-TurboGrafx16:       TurboGrafx-16/CD
+TurboGrafx16:       Turbo Duo
 Vectrex:            Vectrex
 
                    |                  |         |
