@@ -68,10 +68,10 @@ MegaCD:             SEGA Mega-CD
 NeoGeo:             SNK Neo Geo MVS/AES
 NES:                Nintendo NES
 Odyssey2:           Magnavox Odyssey2
-PICO:               Sega Pico
+PICO:               SEGA Pico
 SMS:                SEGA Master System/Game Gear
 SNES:               Nintendo Super NES
-TurboGrafx16:       NEC PC Engine/CD
+TurboGrafx16:       NEC PC Engine Duo
 Vectrex:            GCE Vectrex
 
                    |                  |         |
