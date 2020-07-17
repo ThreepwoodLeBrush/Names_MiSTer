@@ -61,6 +61,7 @@ ColecoVision:       ColecoVision
 Gameboy:            Game Boy/Color
 GBA:                Game Boy Advance
 Genesis:            SEGA Mega Drive
+GnW:				Game & Watch
                    |                  |         |
 Intv:               Intellivision
 Jaguar:             Atari Jaguar

@@ -61,6 +61,7 @@ ColecoVision:       ColecoVision
 Gameboy:            Nint. GB / GBC
 GBA:                Nint. GBA
 Genesis:            SEGA Genesis
+GnW:				Nint. Game & Watch
                    |                  |         |
 Intv:               Mattel Intelliv.
 Jaguar:             Atari Jaguar
