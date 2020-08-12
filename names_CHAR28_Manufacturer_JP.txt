@@ -94,7 +94,7 @@ NES_LLAPI:          Nintendo Famicom (LLAPI)
 Pacman_LLAPI:       Pac-Man (LLAPI)
 SMS_LLAPI:          SEGA Master System (LLAPI)
 SNES_LLAPI:         Nintendo SFC (LLAPI)
-TurboGrafx16_LLAPI: NEC PC Engine/CD (LLAPI)
+TurboGrafx16_LLAPI: NEC PC Engine Duo (LLAPI)
 
 
 
