@@ -77,6 +77,7 @@ TurboGrafx16:       Turbo Duo
 Vectrex:            Vectrex
 
                    |                  |         |
+Chess:              Chess
 Chip8:              CHIP-8
 Arduboy:            Arduboy
 FlappyBird:         Flappy Bird
