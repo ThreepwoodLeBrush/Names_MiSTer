@@ -59,6 +59,7 @@ Atari7800:          Atari 7800
 AY-3-8500:          GI Pong (AY-3-8500)
 C2650:              Arcadia 2001 & VC 4000
 ColecoVision:       ColecoVision & SEGA SG-1000
+EpochGalaxyII:      Epoch Galaxy II
 Gameboy:            Nintendo Game Boy                   Game Boy Color
 GBA:                Nintendo Game Boy Advance
 Genesis:            SEGA Mega Drive
@@ -77,9 +78,9 @@ TurboGrafx16:       NEC PC Engine Duo              SuperGrafx
 Vectrex:            GCE Vectrex
 
                    |                  |         |                         |
+Arduboy:            Arduboy
 Chess:              Chess
 Chip8:              CHIP-8
-Arduboy:            Arduboy
 FlappyBird:         Flappy Bird
 GameOfLife:         Conway's Game of Life
 Hack:               Nand2Tetris Hack Computer
