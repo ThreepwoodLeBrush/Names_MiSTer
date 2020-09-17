@@ -59,7 +59,6 @@ Atari7800:          Atari 7800
 AY-3-8500:          AY-3-8500
 C2650:              Arcadia 2001
 ColecoVision:       ColecoVision
-EpochGalaxyII:      Galaxy II
 Gameboy:            Game Boy/Color
 GBA:                Game Boy Advance
 Genesis:            Mega Drive
@@ -77,6 +76,8 @@ SNES:               Super Famicom
 TurboGrafx16:       PC Engine Duo
 Vectrex:            Vectrex
 
+EpochGalaxyII:      Galaxy II
+TomyScramble:       Tomy Scramble
                    |                  |         |
 Arduboy:            Arduboy
 Chess:              Chess

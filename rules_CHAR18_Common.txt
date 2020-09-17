@@ -1,7 +1,7 @@
 1. Manufacturer first if they apply (see next item).
 2. Manufacturers are included ONLY when they seemed to belong to the system name. For example Atari 2600 or Commodore 64.
     Refer to official documentation of the system, to refer how it was commonly named.
-    If official documentation is missing o unclear, refer to the title of its page on Wikipedia english version (or japanese in case of JP).
+    If official documentation is missing or unclear, refer to the title of its page on Wikipedia english version (or japanese in case of JP).
     If according to official documentation and wikipedia, the manufacturer name was commonly used, but doesn't fit (Texas Instruments), remove it.
 3. Then system name.
 4. If system name has variants that don't fit, remove the ones that don't fit. 
