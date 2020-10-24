@@ -1,4 +1,4 @@
-                   |                  |         |
+                   |                  |         |                         |
 Altair8800:         MITS Altair 8800
 Amstrad:            Amst. CPC 664/6128
 Amstrad-PCW:        Amstrad PCW
@@ -10,7 +10,7 @@ Aquarius:           Mattel Aquarius
 Archie:             Acorn Archimedes
 Atari800:           Atari 800XL/...
 AtariST:            Atari ST/STE
-                   |                  |         |
+                   |                  |         |                         |
 Atom:               Acorn Atom				
 BBCMicro:           BBC Micro/Master
 BK0011M:            Elec. BK-0011M
@@ -21,7 +21,7 @@ EDSAC:              EDSAC
 Electron:           Acorn Electron
 F68kMiSTer:         Sharp X68000
 Galaksija:          Galaksija
-                   |                  |         |
+                   |                  |         |                         |
 Jupiter:            Jupiter Ace
 Laser310:           VTech Laser 350
 MacPlus:            Apple Mac Plus
@@ -33,7 +33,7 @@ ORAO:               Vele. Orao
 Oric:               Oric-1/Atmos
 PDP1:               DEC PDP-1
 PET2001:            Comm. PET 2001
-                   |                  |         |
+                   |                  |         |                         |
 QL:                 Sinc. QL
 release-MiSTerDemu: NEC PC-8801
 SAMCoupe:           SAM Coupe
@@ -44,14 +44,14 @@ Ti994a:             Texa. TI-99/4A
 TRS-80:             Tandy TRS-80
 TSConf:             ZX Evo. TS-Config
 Vector-06C:         Vector-06C
-                   |                  |         |
+                   |                  |         |                         |
 VIC20:              Comm. VIC-20
 X68000:             Sharp X68000
 ZX-Spectrum:        Sinc. ZX Spectrum
 ZX81:               Sinc. ZX81
 
 
-                   |                  |         |
+                   |                  |         |                         |
 Astrocade:          Bally Astrocade
 Atari2600:          Atari 2600
 Atari5200:          Atari 5200
@@ -63,7 +63,7 @@ Gameboy:            Nint. GB / GBC
 GBA:                Nint. GBA
 Genesis:            SEGA Mega Drive
 GnW:				Nint. Game & Watch
-                   |                  |         |
+                   |                  |         |                         |
 Intv:               Mattel Intelliv.
 Jaguar:             Atari Jaguar
 MegaCD:             SEGA Mega-CD
@@ -75,8 +75,7 @@ SMS:                SEGA Mark III & GG
 SNES:               Nint Super Famicom
 TurboGrafx16:       NEC PC Engine/CD
 Vectrex:            GCE Vectrex
-
-                   |                  |         |
+                   |                  |         |                         |
 EpochGalaxyII:      Epoch Galaxy II
 TomyScramble:       Tomy Scramble
 
@@ -89,7 +88,7 @@ Hack:               Nand2Tetris Hack
 
 memtest:            SDRAM Test
 
-                   |                  |         |
+                   |                  |         |                         |
 Gameboy_LLAPI:      Nint. GB/C #LLAPI
 GBA_LLAPI:          Nint. GBA #LLAPI
 Genesis_LLAPI:      SEGA MD #LLAPI
@@ -105,17 +104,7 @@ TurboGrafx16_LLAPI: NEC PCE/CD #LLAPI
 
 
 
-
-
-
-
-
-
-
-
-
-
-                   |                     |
+                   |                  |         |                         |
 Arkanoid:           Taito - Arkanoid      
 Asteroids:          Atari - Asteroids      
 AsteroidsDeluxe:    Atari - Asteroids Deluxe              
@@ -125,7 +114,7 @@ Berzerk:            Stern Elect. - Berzerk
 BlackWidow:         Atari - Black Widow      
 BombJack:           Tehkan - Bomb Jack      
 BurgerTime:         Data East - Burger Time      
-                   |                     |
+                   |                  |         |                         |
 BurningRubber:      Data East - Burning Rubber          
 CanyonBomber:       Atari - Canyon Bomber          
 Centipede:          Atari - Centipede      
@@ -136,7 +125,7 @@ CrazyClimber:       Nichibutsu - Crazy Climber
 CrazyKong:          Falcon - Crazy Kong      
 Defender:           Williams, Inc. Defender      
 DigDug:             Namco - Dig Dug  
-                   |                     |
+                   |                  |         |                         |
 Dominos:            Atari - Dominos      
 DonkeyKong:         Nintendo - Donkey Kong      
 DonkeyKongJunior:   Nintendo - Donkey Kong Jr.
@@ -147,7 +136,7 @@ Frenzy:             Stern Elect. - Frenzy
 Galaga:             Namco - Galaga  
 Galaxian:           Namco - Galaxian      
 Gaplus:             Namco - Gaplus  
-                   |                     |
+                   |                  |         |                         |
 GnG:                Capcom - GnG -old-  
 Gyruss:             Konami - Gyruss  
 IremM62:            Irem M62      
@@ -158,7 +147,7 @@ jtbtiger:           Capcom - Black Tiger
 jtcommando:         Capcom - Commando      
 jtcps1:             Capcom CPS-1  
 jtdd:               Technos - Double Dragon  
-                   |                     |
+                   |                  |         |                         |
 jtdd2:              Technos - Double Dragon 2  
 jtf1dream:          Capcom - F-1 Dream      
 jtgng:              Capcom - Ghosts 'n Goblins
@@ -169,7 +158,7 @@ jttora:             Capcom - Tiger Road
 jtvulgus:           Capcom - Vulgus      
 LadyBug:            Universal - Lady Bug      
 LunarLander:        Atari - Lunar Lander   
-                   |                     |
+                   |                  |         |                         |
 MarioBros:          Nintendo - Mario Bros      
 MCR1:               Bally Midway MCR-1  
 MCR2:               Bally Midway MCR-2  
@@ -180,7 +169,7 @@ MoonPatrol:         Irem - Moon Patrol
 NinjaKun:           UPL - Ninja Kun      
 Pacman:             Namco - Pac-Man  
 Pengo:              Coreland - Pengo  
-                   |                     |
+                   |                  |         |                         |
 PenguinKunWars:     UPL - Penguin-Kun Wars          
 Phoenix:            Centuri - Phoenix      
 Pleiads:            Centuri - Pleiades      
@@ -191,7 +180,7 @@ RallyX:             Namco - Rally-X
 RiverPatrol:        Orca - River Patrol          
 Robotron:           Vid Kidz - Robotron      
 RshnAtk:            Konami - Green Beret      
-                   |                     |
+                   |                  |         |                         |
 Scramble:           Konami - Scramble      
 SEGASYS1:           SEGA System 1       
 SilverLand:         Falcon - Silver Land      
@@ -202,7 +191,7 @@ Sprint2:            Atari - Sprint 2
 SuperBreakout:      Atari - Super Breakout          
 Tecmo:              Tecmo 1st Gen
 TimePilot:          Konami - Time Pilot      
-                   |                     |
+                   |                  |         |                         |
 TraverseUSA:        Irem - Zippy Race          
 Ultratank:          Kee Games - Ultra Tank      
 Xevious:            Namco - Xevious      

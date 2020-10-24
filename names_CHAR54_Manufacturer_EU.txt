@@ -75,7 +75,6 @@ SMS:                SEGA Master System              Game Gear
 SNES:               Nintendo Super NES
 TurboGrafx16:       NEC PC Engine Duo              SuperGrafx
 Vectrex:            GCE Vectrex
-
                    |                  |         |                         |
 EpochGalaxyII:      Epoch Galaxy II
 TomyScramble:       Tomytronic Scramble
@@ -100,12 +99,6 @@ Pacman_LLAPI:       Pac-Man (LLAPI)
 SMS_LLAPI:          SEGA Master System (LLAPI)
 SNES_LLAPI:         Nintendo SNES (LLAPI)
 TurboGrafx16_LLAPI: NEC PC Engine Duo (LLAPI)
-
-
-
-
-
-
 
 
 
