@@ -85,6 +85,7 @@ Chip8:              CHIP-8
 FlappyBird:         Flappy Bird
 GameOfLife:         Conway's Game of Life
 Hack:               Nand2Tetris Hack Computer
+SuperJacob:         SuperJacob Homebrew Core
 
 memtest:            SDRAM Test
 
