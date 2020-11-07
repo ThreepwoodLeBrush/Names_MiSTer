@@ -164,7 +164,7 @@ jtsarms:            Capcom - Side Arms
 jtsf:               Capcom - Street Fighter
 jtsectionz:         Capcom - Section Z      
 jttora:             Capcom - Tiger Road  
-jtrojan:            Capcom - Trojan
+jttrojan:           Capcom - Trojan
 jtvulgus:           Capcom - Vulgus      
 LadyBug:            Universal - Lady Bug      
 LunarLander:        Atari - Lunar Lander   
