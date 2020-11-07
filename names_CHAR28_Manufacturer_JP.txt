@@ -138,24 +138,33 @@ Galaga:             Namco - Galaga
 Galaxian:           Namco - Galaxian      
 Gaplus:             Namco - Gaplus  
                    |                  |         |                         |
-GnG:                Capcom - GnG (old)  
+GnG:                Capcom - GnG -old-  
 Gyruss:             Konami - Gyruss  
 IremM62:            Irem M62      
 jt1942:             Capcom - 1942  
 jt1943:             Capcom - 1943  
 jtbiocom:           Capcom - Bionic Commando      
 jtbtiger:           Capcom - Black Tiger      
+jtbubl:             Taito - Bubble Bobble
 jtcommando:         Capcom - Commando      
+jtcomsc:            Konami - Combat School
+jtcontra:           Konami - Contra
 jtcps1:             Capcom CPS-1  
+jtcps15:            Capcom CPS-1.5
 jtdd:               Technos - Double Dragon  
                    |                  |         |                         |
 jtdd2:              Technos - Double Dragon 2  
 jtf1dream:          Capcom - F-1 Dream      
 jtgng:              Capcom - Ghosts 'n Goblins
 jtgunsmoke:         Capcom - Gun.Smoke      
-jtpopeye:           Nintendo - Popeye (JT)
+jthige:             Capcom - Higemaru
+jtlabrun:           Konami - Labyrinth Runner
+jtpopeye:           Nintendo - Popeye -JT-
+jtsarms:            Capcom - Side Arms
+jtsf:               Capcom - Street Fighter
 jtsectionz:         Capcom - Section Z      
 jttora:             Capcom - Tiger Road  
+jtrojan:            Capcom - Trojan
 jtvulgus:           Capcom - Vulgus      
 LadyBug:            Universal - Lady Bug      
 LunarLander:        Atari - Lunar Lander   
