@@ -1,4 +1,5 @@
                    |                  |         |                         |
+Alice:              Matra Alice 4k
 Altair8800:         MITS Altair 8800
 Amstrad:            Amst. CPC 664/6128
 Amstrad-PCW:        Amstrad PCW

@@ -1,4 +1,5 @@
                    |                  |         |                         |
+Alice:              Tandy MC-10
 Altair8800:         Altair 8800
 Amstrad:            Amstrad CPC
 Amstrad-PCW:        Amstrad PCW

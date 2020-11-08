@@ -1,4 +1,5 @@
                    |                  |         |                         |
+Alice:              Tandy TRS-80 MC-10
 Altair8800:         MITS Altair 8800
 Amstrad:            Amstrad CPC 664/6128
 Amstrad-PCW:        Amstrad PCW
