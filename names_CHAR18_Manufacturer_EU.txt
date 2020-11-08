@@ -70,7 +70,7 @@ Jaguar:             Atari Jaguar
 MegaCD:             SEGA Mega-CD
 NeoGeo:             SNK Neo Geo
 NES:                Nint. NES
-Odyssey2:           Magn. Odyssey2
+Odyssey2:           Philips Videopac
 PICO:               SEGA Pico
 SMS:                SEGA Master System
 SNES:               Nint. Super NES

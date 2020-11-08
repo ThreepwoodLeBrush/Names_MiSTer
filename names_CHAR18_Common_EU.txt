@@ -70,7 +70,7 @@ Jaguar:             Atari Jaguar
 MegaCD:             Mega-CD
 NeoGeo:             Neo Geo MVS/AES
 NES:                NES
-Odyssey2:           Magnavox Odyssey2
+Odyssey2:           Videopac G7000
 PICO:               Kids Computer Pico
 SMS:                Master System
 SNES:               Super NES
