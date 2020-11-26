@@ -17,6 +17,7 @@ BBCMicro:           BBC Micro/Master
 BK0011M:            BK0011M
 C16:                Commodore 16
 C64:                Commodore 64
+CoCo2:              Dragon 32
 CoCo3:              TRS-80 CoCo 3					   
 EDSAC:              EDSAC
 Electron:           Acorn Electron
