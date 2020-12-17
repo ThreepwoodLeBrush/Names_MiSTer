@@ -27,6 +27,7 @@ Galaksija:          Galaksija
 Jupiter:            Jupiter Ace
 Laser310:           VTech Laser 350
 MacPlus:            Apple Mac Plus
+Memotech-MTX:       Memotech MTX
 Minimig:            Comm. Amiga
 mister_coco:        Tandy TRS-80 CoCo3
 MSX:                MSX
