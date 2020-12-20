@@ -1,5 +1,5 @@
                    |                  |         |                         |
-Alice:              Alice 4k
+AliceMC10:          Alice 4k
 Altair8800:         Altair 8800
 Amstrad:            Amstrad CPC
 Amstrad-PCW:        Amstrad PCW
