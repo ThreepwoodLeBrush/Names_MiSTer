@@ -91,6 +91,7 @@ Hack:               Nand2Tetris Hack
 SuperJacob:         SuperJacob
 
 memtest:            SDRAM Test
+ADCTest:            ADC Input Test
 
                    |                  |         |                         |
 Gameboy_LLAPI:      GB/GBC #LLAPI
