@@ -32,11 +32,12 @@ Minimig:            Comm. Amiga
 mister_coco:        Tandy TRS-80 CoCo3
 MSX:                MSX
 MultiComp:          MultiComp Z80/...
-ORAO:               Vele. Orao
+ORAO:               Velebit Orao
 Oric:               Oric-1/Atmos
 PDP1:               DEC PDP-1
 PET2001:            Comm. PET 2001
                    |                  |         |                         |
+PMD85:              Tesla PMD 85
 QL:                 Sinc. QL
 release-MiSTerDemu: NEC PC-8801
 SAMCoupe:           SAM Coupe

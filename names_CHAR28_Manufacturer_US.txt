@@ -37,6 +37,7 @@ Oric:               Oric-1/Atmos
 PDP1:               DEC PDP-1
 PET2001:            Commodore PET 2001
                    |                  |         |                         |
+PMD85:              Tesla PMD 85
 QL:                 Sinclair QL
 release-MiSTerDemu: NEC PC-8801
 SAMCoupe:           SAM Coupe
