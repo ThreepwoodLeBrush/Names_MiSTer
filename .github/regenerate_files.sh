@@ -15,7 +15,7 @@ echo
 
 echo "Regenerating Names CSV:"
 echo
-./scripts/generate_names_txt_files.py
+./scripts/generate_names_csv.py
 echo
 echo
 
