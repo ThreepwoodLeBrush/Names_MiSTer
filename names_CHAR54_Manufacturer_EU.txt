@@ -183,7 +183,7 @@ MCR3:               Bally Midway MCR-3
 MCR3Mono:           Bally Midway MCR-3 Monoboard
 MCR3Scroll:         Bally Midway MCR-3 Scroll
 MoonPatrol:         Irem - Moon Patrol
-NinjaKun:           UPL - Ninja Kun
+NinjaKun:           UPL - Ninja-kun: Adventure   of Devil Castle
 Pacman:             Namco - Pac-Man
 Pengo:              Coreland - Pengo
 PenguinKunWars:     UPL - Penguin-Kun Wars
