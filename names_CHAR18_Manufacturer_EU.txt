@@ -3,7 +3,7 @@ AliceMC10:          Matra Alice 4k
 Altair8800:         MITS Altair 8800
 Amstrad:            Amst. CPC 664/6128
 Amstrad-PCW:        Amstrad PCW
-ao486:              IBM 386-Compatible
+ao486:              IBM PC (486SX)
 Apogee:             Apogee BK-01
 Apple-I:            Apple I
 Apple-II:           Apple IIe

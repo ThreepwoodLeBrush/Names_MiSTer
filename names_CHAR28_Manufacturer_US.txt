@@ -3,7 +3,7 @@ AliceMC10:          Tandy TRS-80 MC-10
 Altair8800:         MITS Altair 8800
 Amstrad:            Amstrad CPC 664/6128
 Amstrad-PCW:        Amstrad PCW
-ao486:              IBM 386-Compatible
+ao486:              IBM PC Compatible (486SX)
 Apogee:             Apogee BK-01
 Apple-I:            Apple I
 Apple-II:           Apple IIe
