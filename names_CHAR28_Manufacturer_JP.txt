@@ -96,7 +96,7 @@ Genesis_LLAPI:      SEGA Mega Drive (LLAPI)
 MegaCD_LLAPI:       SEGA Mega-CD (LLAPI)
 NeoGeo_LLAPI:       SNK Neo Geo (LLAPI)
 NES_LLAPI:          Nintendo Famicom (LLAPI)
-Pacman_LLAPI:       Pac-Man (LLAPI)
+Pacman_LLAPI:       Puck Man (LLAPI)
                    |                  |         |                         |
 SMS_LLAPI:          SEGA Master System (LLAPI)
 SNES_LLAPI:         Nintendo SFC (LLAPI)
@@ -184,7 +184,7 @@ MCR3Mono:           Bally Midway MCR-3 Monoboard
 MCR3Scroll:         Bally Midway MCR-3 Scroll
 MoonPatrol:         Irem - Moon Patrol
 NinjaKun:           UPL - Ninja Kun
-Pacman:             Namco - Pac-Man
+Pacman:             Namco - Puck Man
 Pengo:              Coreland - Pengo
 PenguinKunWars:     UPL - Penguin-Kun Wars
 Phoenix:            Centuri - Phoenix
