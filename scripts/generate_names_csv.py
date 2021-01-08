@@ -161,7 +161,7 @@ class NamesCsvGenerator:
             if term in temp_terms:
                 term = temp_terms[term]
             else:
-                temp_terms[term] = file.strip(self.options["stip_from_reference"])
+                temp_terms[term] = "{}:{}".format(core, file.replace(self.options["stip_from_reference"], ""))
             row.append(self.format_name(term, file))
         return row
 
