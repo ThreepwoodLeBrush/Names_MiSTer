@@ -167,7 +167,7 @@ jthige:             Capcom - Pirate Ship         Higemaru
 jtlabrun:           Konami - Labyrinth Runner
 jtpopeye:           Nintendo - Popeye -JT-
                    |                  |         |                         |
-jtsarms:            Capcom - Side Arms
+jtsarms:            Capcom - Hyper Dyne          Side Arms
 jtsf:               Capcom - Street Fighter
 jtsectionz:         Capcom - Section Z
 jttora:             Capcom - Tiger Road
