@@ -163,7 +163,7 @@ jtdd2:              Technos - Double Dragon 2
 jtf1dream:          Capcom - F-1 Dream
 jtgng:              Capcom - Ghosts 'n Goblins
 jtgunsmoke:         Capcom - Gun.Smoke
-jthige:             Capcom - Higemaru
+jthige:             Capcom - Pirate Ship         Higemaru
 jtlabrun:           Konami - Labyrinth Runner
 jtpopeye:           Nintendo - Popeye -JT-
                    |                  |         |                         |
