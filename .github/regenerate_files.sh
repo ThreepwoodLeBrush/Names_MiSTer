@@ -6,7 +6,7 @@ set -euo pipefail
 export GIT_MERGE_AUTOEDIT=no
 git config --global user.email "theypsilon@gmail.com"
 git config --global user.name "The CI/CD Bot"
-git config --global core.autocrlf input
+git config --global core.autocrlf true
 
 echo "Regenerating Names TXT files:"
 echo
