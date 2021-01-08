@@ -149,7 +149,7 @@ Gyruss:             Konami - Gyruss
 IremM62:            Irem M62
 jt1942:             Capcom - 1942
 jt1943:             Capcom - 1943
-jtbiocom:           Capcom - Bionic Commando
+jtbiocom:           Capcom - Top Secret
 jtbtiger:           Capcom - Black Dragon
 jtbubl:             Taito - Bubble Bobble
 jtcommando:         Capcom - Commando
