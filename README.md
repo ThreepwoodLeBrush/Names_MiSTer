@@ -6,6 +6,8 @@ By default MiSTer displays the filenames of the individual core files (*.rbf). I
 
 If a new core is installed via updater, that does not have a substitute name in the names.txt yet, then it will appear in the list of systems with its rbf-filename. The other cores that have a match in names.txt will still be represented by their substitute names.
 
+Many thanks to https://github.com/theypsilon for creating scripts that make the maintenance of these name-files a lot easier. He also had the initial idea to put the names.txt-files up here on github so they can be downloaded via updater-script.
+
 ## Quickstart
 1. Download the file with the desired region, sorting and maximum name length (18, 28 or full)
 2. Rename the file to "names.txt"
@@ -13,7 +15,7 @@ If a new core is installed via updater, that does not have a substitute name in 
 4. [Optional] In MiSTer.ini set 'rbf_hide_datecode=1' to disable Date codes of cores in the MiSTer main menu (F2 toggles the display of Date Codes). This allows up to 28 characters to be displayed without scrolling.
 
 ## Syntax
-The filenames are made up from "names_[CHAR18 or CHAR28 or FULL]_[sorting]_[country/continent].txt" and must be renamed to "names.txt" to be used.
+The filenames are made up from "names_[CHAR18 or CHAR28 or CHAR54]_[sorting]_[country/continent].txt" and must be renamed to "names.txt" to be used.
 
 ### Char Code
 * CHAR18: Maximum system name length is 18 characters to fit without scrolling when Date Codes are ON.
