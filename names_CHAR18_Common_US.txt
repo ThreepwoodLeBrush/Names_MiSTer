@@ -158,6 +158,7 @@ jtcontra:           Konami - Contra
                    |                  |         |                         |
 jtcps1:             Capcom CPS-1
 jtcps15:            Capcom CPS-1.5
+jtcps2:             Capcom CPS-2
 jtdd:               Technos - Double Dragon
 jtdd2:              Technos - Double Dragon 2
 jtf1dream:          Capcom - F-1 Dream
@@ -165,8 +166,8 @@ jtgng:              Capcom - Ghosts 'n Goblins
 jtgunsmoke:         Capcom - Gun.Smoke
 jthige:             Capcom - Higemaru
 jtlabrun:           Konami - Labyrinth Runner
-jtpopeye:           Nintendo - Popeye -JT-
                    |                  |         |                         |
+jtpopeye:           Nintendo - Popeye -JT-
 jtsarms:            Capcom - Side Arms
 jtsf:               Capcom - Street Fighter
 jtsectionz:         Capcom - Section Z
@@ -176,8 +177,8 @@ jtvulgus:           Capcom - Vulgus
 LadyBug:            Universal - Lady Bug
 LunarLander:        Atari - Lunar Lander
 MarioBros:          Nintendo - Mario Bros
-MCR1:               Bally Midway MCR-1
                    |                  |         |                         |
+MCR1:               Bally Midway MCR-1
 MCR2:               Bally Midway MCR-2
 MCR3:               Bally Midway MCR-3
 MCR3Mono:           Bally Midway MCR-3 Monoboard
@@ -187,8 +188,8 @@ NinjaKun:           UPL - Ninja Kun
 Pacman:             Namco - Pac-Man
 Pengo:              Coreland - Pengo
 PenguinKunWars:     UPL - Penguin-Kun Wars
-Phoenix:            Centuri - Phoenix
                    |                  |         |                         |
+Phoenix:            Centuri - Phoenix
 Pleiads:            Centuri - Pleiades
 Pong:               Atari - Pong
 Pooyan:             Stern Elect. - Pooyan
@@ -198,8 +199,8 @@ RiverPatrol:        Orca - River Patrol
 Robotron:           Vid Kidz - Robotron
 RshnAtk:            Konami - Rush'n Attack
 Scramble:           Konami - Scramble
-SEGASYS1:           SEGA System 1
                    |                  |         |                         |
+SEGASYS1:           SEGA System 1
 SilverLand:         Falcon - Silver Land
 SnapJack:           Universal - Snap Jack
 SolomonsKey:        Tecmo - Solomon's Key
@@ -209,8 +210,8 @@ SuperBreakout:      Atari - Super Breakout
 Tecmo:              Tecmo 1st Gen
 TimePilot:          Konami - Time Pilot
 TraverseUSA:        Irem - MotoRace USA
-Ultratank:          Kee Games - Ultra Tank
                    |                  |         |                         |
+Ultratank:          Kee Games - Ultra Tank
 Xevious:            Namco - Xevious
 Zaxxon:             SEGA - Zaxxon
 ZigZag:             LAX - Zig Zag
