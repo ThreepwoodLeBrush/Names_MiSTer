@@ -25,24 +25,25 @@ Electron:           Acorn Electron
 F68kMiSTer:         X68000
 Galaksija:          Galaksija
 Jupiter:            Jupiter Ace
+KC87:               Robotron KC 87
 Laser310:           Laser 350/500/700
 MacPlus:            Macintosh Plus
 Memotech-MTX:       Memotech MTX
 Minimig:            Amiga
 mister_coco:        TRS-80 CoCo 3
-MSX:                MSX
                    |                  |         |                         |
+MSX:                MSX
 MultiComp:          MultiComp
 ORAO:               Orao
 Oric:               Oric
 PDP1:               PDP-1
 PET2001:            Commodore PET 2001
-PMD85:              PMD 85
+PMD85:              PMD 85-2A
 QL:                 Sinclair QL
 release-MiSTerDemu: PC-8801
 SAMCoupe:           SAM Coupe
-SharpMZ:            Sharp MZ
                    |                  |         |                         |
+SharpMZ:            Sharp MZ
 Specialist:         Specialist/MX
 SS:                 SPARCstation
 Ti994a:             TI-99/4A
@@ -52,8 +53,8 @@ Vector-06C:         Vector-06C
 VIC20:              Commodore VIC-20
 X68000:             X68000
 ZX-Spectrum:        ZX Spectrum
-ZX81:               ZX81
                    |                  |         |                         |
+ZX81:               ZX81
 Astrocade:          Bally Astrocade
 Atari2600:          Atari 2600
 Atari5200:          Atari 5200
@@ -63,8 +64,8 @@ C2650:              Arcadia 2001
 ColecoVision:       ColecoVision
 Gameboy:            Game Boy/Color
 GBA:                Game Boy Advance
-Genesis:            Mega Drive
                    |                  |         |                         |
+Genesis:            Mega Drive
 GnW:                Game & Watch
 Intv:               Intellivision
 Jaguar:             Atari Jaguar
@@ -74,8 +75,8 @@ NES:                Famicom
 Odyssey2:           Magnavox Odyssey2
 PICO:               Kids Computer Pico
 SMS:                Master System & GG
-SNES:               Super Famicom
                    |                  |         |                         |
+SNES:               Super Famicom
 TurboGrafx16:       PC Engine Duo
 Vectrex:            Vectrex
 EpochGalaxyII:      Galaxy II
@@ -85,8 +86,8 @@ Chess:              Chess
 Chip8:              CHIP-8
 FlappyBird:         Flappy Bird
 GameOfLife:         Game of Life
-Hack:               Nand2Tetris Hack
                    |                  |         |                         |
+Hack:               Nand2Tetris Hack
 SuperJacob:         SuperJacob
 memtest:            SDRAM Test
 ADCTest:            ADC Input Test
@@ -96,8 +97,8 @@ Genesis_LLAPI:      Mega Drive #LLAPI
 MegaCD_LLAPI:       Mega-CD #LLAPI
 NeoGeo_LLAPI:       Neo Geo #LLAPI
 NES_LLAPI:          Famicom #LLAPI
-Pacman_LLAPI:       Puck Man #LLAPI
                    |                  |         |                         |
+Pacman_LLAPI:       Puck Man #LLAPI
 SMS_LLAPI:          MS & GG #LLAPI
 SNES_LLAPI:         SFC #LLAPI
 TurboGrafx16_LLAPI: PC Engine #LLAPI

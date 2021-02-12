@@ -25,24 +25,25 @@ Electron:           Acorn Electron
 F68kMiSTer:         Sharp X68000
 Galaksija:          Galaksija
 Jupiter:            Jupiter Ace
+KC87:               Kleincomputer robotron KC 87
 Laser310:           VTech Laser 350/500/700
 MacPlus:            Apple Macintosh Plus
 Memotech-MTX:       Memotech MTX
 Minimig:            Commodore Amiga
 mister_coco:        Tandy TRS-80 Color Comp. 3
-MSX:                MSX/MSX2/MSX2+/TurboR
                    |                  |         |                         |
+MSX:                MSX/MSX2/MSX2+/TurboR
 MultiComp:          MultiComp (Z80/6502/6809)
 ORAO:               Velebit Informatika Orao
 Oric:               Oric-1/Atmos
 PDP1:               DEC PDP-1
 PET2001:            Commodore PET 2001
-PMD85:              Tesla PMD 85
+PMD85:              Tesla PMD 85-2A
 QL:                 Sinclair QL
 release-MiSTerDemu: NEC PC-8801
 SAMCoupe:           SAM Coupe
-SharpMZ:            Sharp MZ Series
                    |                  |         |                         |
+SharpMZ:            Sharp MZ Series
 Specialist:         Specialist/MX
 SS:                 Sun SparcStation (NeXT)
 Ti994a:             Texas Instruments TI-99/4A
@@ -52,8 +53,8 @@ Vector-06C:         Vector-06C
 VIC20:              Commodore VIC-20
 X68000:             Sharp X68000
 ZX-Spectrum:        Sinclair ZX Spectrum
-ZX81:               Sinclair ZX81
                    |                  |         |                         |
+ZX81:               Sinclair ZX81
 Astrocade:          Bally Astrocade
 Atari2600:          Atari 2600
 Atari5200:          Atari 5200
@@ -63,8 +64,8 @@ C2650:              Arcadia 2001 & VC 4000
 ColecoVision:       ColecoVision & SEGA SG-1000
 Gameboy:            Nintendo Game Boy/Color
 GBA:                Nintendo Game Boy Advance
-Genesis:            SEGA Mega Drive
                    |                  |         |                         |
+Genesis:            SEGA Mega Drive
 GnW:                Nintendo Game & Watch
 Intv:               Mattel Intellivision
 Jaguar:             Atari Jaguar
@@ -74,8 +75,8 @@ NES:                Nintendo Famicom
 Odyssey2:           Magnavox Odyssey2
 PICO:               SEGA Pico
 SMS:                SEGA Mark III & Game Gear
-SNES:               Nintendo Super Famicom
                    |                  |         |                         |
+SNES:               Nintendo Super Famicom
 TurboGrafx16:       NEC PC Engine Duo
 Vectrex:            GCE Vectrex
 EpochGalaxyII:      Epoch Galaxy II
@@ -85,8 +86,8 @@ Chess:              Chess
 Chip8:              CHIP-8
 FlappyBird:         Flappy Bird
 GameOfLife:         Conway's Game of Life
-Hack:               Nand2Tetris Hack Computer
                    |                  |         |                         |
+Hack:               Nand2Tetris Hack Computer
 SuperJacob:         SuperJacob Homebrew Core
 memtest:            SDRAM Test
 ADCTest:            ADC Input and Signal Test
@@ -96,8 +97,8 @@ Genesis_LLAPI:      SEGA Mega Drive (LLAPI)
 MegaCD_LLAPI:       SEGA Mega-CD (LLAPI)
 NeoGeo_LLAPI:       SNK Neo Geo (LLAPI)
 NES_LLAPI:          Nintendo Famicom (LLAPI)
-Pacman_LLAPI:       Puck Man (LLAPI)
                    |                  |         |                         |
+Pacman_LLAPI:       Puck Man (LLAPI)
 SMS_LLAPI:          SEGA Master System (LLAPI)
 SNES_LLAPI:         Nintendo SFC (LLAPI)
 TurboGrafx16_LLAPI: NEC PC Engine Duo (LLAPI)
