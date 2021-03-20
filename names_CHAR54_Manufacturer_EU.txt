@@ -55,16 +55,18 @@ X68000:             Sharp X68000
 ZX-Spectrum:        Sinclair ZX Spectrum
                    |                  |         |                         |
 ZX81:               Sinclair ZX81
+ZXNext:             ZX Spectrum Next
 Astrocade:          Bally Astrocade
 Atari2600:          Atari 2600
 Atari5200:          Atari 5200
 Atari7800:          Atari 7800
+AtariLynx:          Atari Lynx
 AY-3-8500:          GI Pong (AY-3-8500)
 C2650:              Arcadia 2001 & VC 4000
 ColecoVision:       ColecoVision & SEGA SG-1000
+                   |                  |         |                         |
 Gameboy:            Nintendo Game Boy                   Game Boy Color
 GBA:                Nintendo Game Boy Advance
-                   |                  |         |                         |
 Genesis:            SEGA Mega Drive
 GnW:                Nintendo Game & Watch
 Intv:               Mattel Intellivision
@@ -73,9 +75,9 @@ MegaCD:             SEGA Mega-CD
 NeoGeo:             SNK Neo Geo MVS/AES
 NES:                Nintendo NES                 Famicom Disk System
 Odyssey2:           Philips Videopac G7000
+                   |                  |         |                         |
 PICO:               SEGA Pico
 SMS:                SEGA Master System              Game Gear
-                   |                  |         |                         |
 SNES:               Nintendo Super NES
 TurboGrafx16:       NEC PC Engine Duo              SuperGrafx
 Vectrex:            GCE Vectrex
@@ -84,9 +86,9 @@ TomyScramble:       Tomytronic Scramble
 Arduboy:            Arduboy
 Chess:              Chess
 Chip8:              CHIP-8
+                   |                  |         |                         |
 FlappyBird:         Flappy Bird
 GameOfLife:         Conway's Game of Life
-                   |                  |         |                         |
 Hack:               Nand2Tetris Hack Computer
 SuperJacob:         SuperJacob Homebrew Core
 memtest:            SDRAM Test
@@ -95,9 +97,9 @@ Gameboy_LLAPI:      Nintendo GB/GBC (LLAPI)
 GBA_LLAPI:          Nintendo GBA (LLAPI)
 Genesis_LLAPI:      SEGA Mega Drive (LLAPI)
 MegaCD_LLAPI:       SEGA Mega-CD (LLAPI)
+                   |                  |         |                         |
 NeoGeo_LLAPI:       SNK Neo Geo (LLAPI)
 NES_LLAPI:          Nintendo NES (LLAPI)
-                   |                  |         |                         |
 Pacman_LLAPI:       Pac-Man (LLAPI)
 SMS_LLAPI:          SEGA Master System (LLAPI)
 SNES_LLAPI:         Nintendo SNES (LLAPI)

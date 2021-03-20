@@ -55,16 +55,18 @@ X68000:             X68000
 ZX-Spectrum:        ZX Spectrum
                    |                  |         |                         |
 ZX81:               ZX81
+ZXNext:             ZX Spectrum Next
 Astrocade:          Bally Astrocade
 Atari2600:          Atari 2600
 Atari5200:          Atari 5200
 Atari7800:          Atari 7800
+AtariLynx:          Atari Lynx
 AY-3-8500:          AY-3-8500
 C2650:              Arcadia 2001
 ColecoVision:       ColecoVision
+                   |                  |         |                         |
 Gameboy:            Game Boy/Color
 GBA:                Game Boy Advance
-                   |                  |         |                         |
 Genesis:            Genesis
 GnW:                Game & Watch
 Intv:               Intellivision
@@ -73,9 +75,9 @@ MegaCD:             SEGA CD
 NeoGeo:             Neo Geo MVS/AES
 NES:                NES
 Odyssey2:           Magnavox Odyssey2
+                   |                  |         |                         |
 PICO:               Kids Computer Pico
 SMS:                Master System
-                   |                  |         |                         |
 SNES:               Super NES
 TurboGrafx16:       Turbo Duo
 Vectrex:            Vectrex
@@ -84,9 +86,9 @@ TomyScramble:       Tomy Scramble
 Arduboy:            Arduboy
 Chess:              Chess
 Chip8:              CHIP-8
+                   |                  |         |                         |
 FlappyBird:         Flappy Bird
 GameOfLife:         Game of Life
-                   |                  |         |                         |
 Hack:               Nand2Tetris Hack
 SuperJacob:         SuperJacob
 memtest:            SDRAM Test
@@ -95,9 +97,9 @@ Gameboy_LLAPI:      GB/GBC #LLAPI
 GBA_LLAPI:          GBA #LLAPI
 Genesis_LLAPI:      Genesis #LLAPI
 MegaCD_LLAPI:       SEGA CD #LLAPI
+                   |                  |         |                         |
 NeoGeo_LLAPI:       Neo Geo #LLAPI
 NES_LLAPI:          NES #LLAPI
-                   |                  |         |                         |
 Pacman_LLAPI:       Pac-Man #LLAPI
 SMS_LLAPI:          SMS #LLAPI
 SNES_LLAPI:         SNES #LLAPI

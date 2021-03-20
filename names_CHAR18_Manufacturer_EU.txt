@@ -55,16 +55,18 @@ X68000:             Sharp X68000
 ZX-Spectrum:        Sinc. ZX Spectrum
                    |                  |         |                         |
 ZX81:               Sinc. ZX81
+ZXNext:             ZX Spectrum Next
 Astrocade:          Bally Astrocade
 Atari2600:          Atari 2600
 Atari5200:          Atari 5200
 Atari7800:          Atari 7800
+AtariLynx:          Atari Lynx
 AY-3-8500:          GI Pong AY-3-8500
 C2650:              Arcadia 2001
 ColecoVision:       ColecoVision
+                   |                  |         |                         |
 Gameboy:            Nint. GB / GBC
 GBA:                Nint. GBA
-                   |                  |         |                         |
 Genesis:            SEGA Mega Drive
 GnW:                Nint. Game & Watch
 Intv:               Mattel Intelliv.
@@ -73,9 +75,9 @@ MegaCD:             SEGA Mega-CD
 NeoGeo:             SNK Neo Geo
 NES:                Nint. NES
 Odyssey2:           Philips Videopac
+                   |                  |         |                         |
 PICO:               SEGA Pico
 SMS:                SEGA Master System
-                   |                  |         |                         |
 SNES:               Nint. Super NES
 TurboGrafx16:       NEC PC Engine/CD
 Vectrex:            GCE Vectrex
@@ -84,9 +86,9 @@ TomyScramble:       Tomy Scramble
 Arduboy:            Arduboy
 Chess:              Chess
 Chip8:              CHIP-8
+                   |                  |         |                         |
 FlappyBird:         Flappy Bird
 GameOfLife:         Game of Life
-                   |                  |         |                         |
 Hack:               Nand2Tetris Hack
 SuperJacob:         SuperJacob
 memtest:            SDRAM Test
@@ -95,9 +97,9 @@ Gameboy_LLAPI:      Nint. GB/C #LLAPI
 GBA_LLAPI:          Nint. GBA #LLAPI
 Genesis_LLAPI:      SEGA MD #LLAPI
 MegaCD_LLAPI:       SEGA MegaCD #LLAPI
+                   |                  |         |                         |
 NeoGeo_LLAPI:       SNK Neo Geo #LLAPI
 NES_LLAPI:          Nint. NES #LLAPI
-                   |                  |         |                         |
 Pacman_LLAPI:       Pac-Man #LLAPI
 SMS_LLAPI:          SEGA MS #LLAPI
 SNES_LLAPI:         Nint. SNES #LLAPI
