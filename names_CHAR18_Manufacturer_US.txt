@@ -46,14 +46,16 @@ SAMCoupe:           SAM Coupe
 SharpMZ:            Sharp MZ Series
 Specialist:         Specialist/MX
 SS:                 Sun SparcStation
+Svi328:             Spec. SV-328
 Ti994a:             Texa. TI-99/4A
 TRS-80:             Tandy TRS-80
 TSConf:             ZX Evo. TS-Config
 Vector-06C:         Vector-06C
 VIC20:              Comm. VIC-20
 X68000:             Sharp X68000
-ZX-Spectrum:        Sinc. ZX Spectrum
                    |                  |         |                         |
+ZX-Spectrum:        Sinc. ZX Spectrum
+ZX48:               Sinc. ZX48
 ZX81:               Sinc. ZX81
 ZXNext:             ZX Spectrum Next
 Astrocade:          Bally Astrocade
@@ -62,9 +64,9 @@ Atari5200:          Atari 5200
 Atari7800:          Atari 7800
 AtariLynx:          Atari Lynx
 AY-3-8500:          GI Pong AY-3-8500
+                   |                  |         |                         |
 C2650:              Arcadia 2001
 ColecoVision:       ColecoVision
-                   |                  |         |                         |
 Gameboy:            Nint. GB / GBC
 GBA:                Nint. GBA
 Genesis:            SEGA Genesis
@@ -73,9 +75,9 @@ Intv:               Mattel Intelliv.
 Jaguar:             Atari Jaguar
 MegaCD:             SEGA CD
 NeoGeo:             SNK Neo Geo
+                   |                  |         |                         |
 NES:                Nint. NES
 Odyssey2:           Magn. Odyssey2
-                   |                  |         |                         |
 PICO:               SEGA Pico
 SMS:                SEGA Master System
 SNES:               Nint. Super NES
@@ -84,9 +86,9 @@ Vectrex:            GCE Vectrex
 EpochGalaxyII:      Epoch Galaxy II
 TomyScramble:       Tomy Scramble
 Arduboy:            Arduboy
+                   |                  |         |                         |
 Chess:              Chess
 Chip8:              CHIP-8
-                   |                  |         |                         |
 FlappyBird:         Flappy Bird
 GameOfLife:         Game of Life
 Hack:               Nand2Tetris Hack
@@ -95,9 +97,9 @@ memtest:            SDRAM Test
 ADCTest:            ADC Input Test
 Gameboy_LLAPI:      Nint. GB/C #LLAPI
 GBA_LLAPI:          Nint. GBA #LLAPI
+                   |                  |         |                         |
 Genesis_LLAPI:      SEGA Gen #LLAPI
 MegaCD_LLAPI:       SEGA CD #LLAPI
-                   |                  |         |                         |
 NeoGeo_LLAPI:       SNK Neo Geo #LLAPI
 NES_LLAPI:          Nint. NES #LLAPI
 Pacman_LLAPI:       Pac-Man #LLAPI
