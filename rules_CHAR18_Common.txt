@@ -4,7 +4,7 @@
     If official documentation is missing or unclear, refer to the title of its page on Wikipedia english version (or japanese in case of JP).
     If according to official documentation and wikipedia, the manufacturer name was commonly used, but doesn't fit (Texas Instruments), remove it.
 3. Then system name.
-4. If system name has variants that don't fit, remove the ones that don't fit. 
+4. If system name has variants that don't fit, remove the ones that don't fit.
    The not fitting ones would be mentioned with "/..." if those are more than one. If "/..." doesn't fit either, omit entirely.
    If the non fitting variant is just one, try to include with an abbreviation or if that doesn't work, remove it.
 
