@@ -55,7 +55,7 @@ VIC20:              Commodore VIC-20
 X68000:             X68000
                    |                  |         |                         |
 ZX-Spectrum:        ZX Spectrum
-ZX48:               ZX48
+zx48:               ZX48
 ZX81:               ZX81
 ZXNext:             ZX Spectrum Next
 Astrocade:          Bally Astrocade

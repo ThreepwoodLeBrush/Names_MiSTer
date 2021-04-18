@@ -55,7 +55,7 @@ VIC20:              Commodore VIC-20
 X68000:             Sharp X68000
                    |                  |         |                         |
 ZX-Spectrum:        Sinclair ZX Spectrum
-ZX48:               Sinclair ZX48
+zx48:               ZX48:28_Manufacturer_EU
 ZX81:               Sinclair ZX81
 ZXNext:             ZX Spectrum Next
 Astrocade:          Bally Astrocade
