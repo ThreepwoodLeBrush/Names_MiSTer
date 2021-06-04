@@ -41,8 +41,9 @@ PET2001:            Comm. PET 2001
 PMD85:              Tesla PMD 85-2A
 QL:                 Sinc. QL
 release-MiSTerDemu: NEC PC-8801
-SAMCoupe:           SAM Coupe
+RX78:               Bandai RX-78
                    |                  |         |                         |
+SAMCoupe:           SAM Coupe
 SharpMZ:            Sharp MZ Series
 Specialist:         Specialist/MX
 SS:                 Sun SparcStation
@@ -52,8 +53,8 @@ TRS-80:             Tandy TRS-80
 TSConf:             ZX Evo. TS-Config
 Vector-06C:         Vector-06C
 VIC20:              Comm. VIC-20
-X68000:             Sharp X68000
                    |                  |         |                         |
+X68000:             Sharp X68000
 ZX-Spectrum:        Sinc. ZX Spectrum
 zx48:               ZX48:18_Manufacturer_EU
 ZX81:               Sinc. ZX81
@@ -63,8 +64,8 @@ Atari2600:          Atari 2600
 Atari5200:          Atari 5200
 Atari7800:          Atari 7800
 AtariLynx:          Atari Lynx
-AY-3-8500:          GI Pong AY-3-8500
                    |                  |         |                         |
+AY-3-8500:          GI Pong AY-3-8500
 C2650:              Arcadia 2001
 ColecoVision:       ColecoVision
 Gameboy:            Nint. GB / GBC
@@ -74,8 +75,8 @@ GnW:                Nint. Game & Watch
 Intv:               Mattel Intelliv.
 Jaguar:             Atari Jaguar
 MegaCD:             SEGA Mega-CD
-NeoGeo:             SNK Neo Geo
                    |                  |         |                         |
+NeoGeo:             SNK Neo Geo
 NES:                Nint. Famicom
 Odyssey2:           Magn. Odyssey2
 PICO:               SEGA Pico
@@ -85,8 +86,8 @@ TurboGrafx16:       NEC PC Engine/CD
 Vectrex:            GCE Vectrex
 EpochGalaxyII:      Epoch Galaxy II
 TomyScramble:       Tomy Scramble
-Arduboy:            Arduboy
                    |                  |         |                         |
+Arduboy:            Arduboy
 Chess:              Chess
 Chip8:              CHIP-8
 FlappyBird:         Flappy Bird
@@ -96,8 +97,8 @@ SuperJacob:         SuperJacob
 memtest:            SDRAM Test
 ADCTest:            ADC Input Test
 Gameboy_LLAPI:      Nint. GB/C #LLAPI
-GBA_LLAPI:          Nint. GBA #LLAPI
                    |                  |         |                         |
+GBA_LLAPI:          Nint. GBA #LLAPI
 Genesis_LLAPI:      SEGA MD #LLAPI
 MegaCD_LLAPI:       SEGA MegaCD #LLAPI
 NeoGeo_LLAPI:       SNK Neo Geo #LLAPI

@@ -41,8 +41,9 @@ PET2001:            Commodore PET 2001
 PMD85:              PMD 85-2A
 QL:                 Sinclair QL
 release-MiSTerDemu: PC-8801
-SAMCoupe:           SAM Coupe
+RX78:               RX-78 Gundam
                    |                  |         |                         |
+SAMCoupe:           SAM Coupe
 SharpMZ:            Sharp MZ
 Specialist:         Specialist/MX
 SS:                 SPARCstation
@@ -52,8 +53,8 @@ TRS-80:             TRS-80
 TSConf:             TS-Config
 Vector-06C:         Vector-06C
 VIC20:              Commodore VIC-20
-X68000:             X68000
                    |                  |         |                         |
+X68000:             X68000
 ZX-Spectrum:        ZX Spectrum
 zx48:               ZX48:18_Common_EU
 ZX81:               ZX81
@@ -63,8 +64,8 @@ Atari2600:          Atari 2600
 Atari5200:          Atari 5200
 Atari7800:          Atari 7800
 AtariLynx:          Atari Lynx
-AY-3-8500:          AY-3-8500
                    |                  |         |                         |
+AY-3-8500:          AY-3-8500
 C2650:              Arcadia 2001
 ColecoVision:       ColecoVision
 Gameboy:            Game Boy/Color
@@ -74,8 +75,8 @@ GnW:                Game & Watch
 Intv:               Intellivision
 Jaguar:             Atari Jaguar
 MegaCD:             Mega-CD
-NeoGeo:             Neo Geo MVS/AES
                    |                  |         |                         |
+NeoGeo:             Neo Geo MVS/AES
 NES:                Famicom
 Odyssey2:           Magnavox Odyssey2
 PICO:               Kids Computer Pico
@@ -85,8 +86,8 @@ TurboGrafx16:       PC Engine Duo
 Vectrex:            Vectrex
 EpochGalaxyII:      Galaxy II
 TomyScramble:       Tomy Scramble
-Arduboy:            Arduboy
                    |                  |         |                         |
+Arduboy:            Arduboy
 Chess:              Chess
 Chip8:              CHIP-8
 FlappyBird:         Flappy Bird
@@ -96,8 +97,8 @@ SuperJacob:         SuperJacob
 memtest:            SDRAM Test
 ADCTest:            ADC Input Test
 Gameboy_LLAPI:      GB/GBC #LLAPI
-GBA_LLAPI:          GBA #LLAPI
                    |                  |         |                         |
+GBA_LLAPI:          GBA #LLAPI
 Genesis_LLAPI:      Mega Drive #LLAPI
 MegaCD_LLAPI:       Mega-CD #LLAPI
 NeoGeo_LLAPI:       Neo Geo #LLAPI
