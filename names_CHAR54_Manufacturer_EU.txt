@@ -174,16 +174,18 @@ jthige:             Capcom - Pirate Ship         Higemaru
 jtlabrun:           Konami - Labyrinth Runner
                    |                  |         |                         |
 jtpopeye:           Nintendo - Popeye -JT-
+jtrumble:           Capcom - Speed Rumbler
 jtsarms:            Capcom - Hyper Dyne          Side Arms
 jtsf:               Capcom - Street Fighter
 jtsectionz:         Capcom - Section Z
+jts16:              SEGA System 16
 jttora:             Capcom - Tiger Road
 jttrojan:           Capcom - Trojan
 jtvulgus:           Capcom - Vulgus
 LadyBug:            Universal - Lady Bug
+                   |                  |         |                         |
 LunarLander:        Atari - Lunar Lander
 MarioBros:          Nintendo - Mario Bros
-                   |                  |         |                         |
 MCR1:               Bally Midway MCR-1
 MCR2:               Bally Midway MCR-2
 MCR3:               Bally Midway MCR-3
@@ -192,9 +194,9 @@ MCR3Scroll:         Bally Midway MCR-3 Scroll
 MoonPatrol:         Irem - Moon Patrol
 NinjaKun:           UPL - Ninja-kun: Adventure   of Devil Castle
 Pacman:             Namco - Pac-Man
+                   |                  |         |                         |
 Pengo:              Coreland - Pengo
 PenguinKunWars:     UPL - Penguin-Kun Wars
-                   |                  |         |                         |
 Phoenix:            Centuri - Phoenix
 Pleiads:            Centuri - Pleiades
 Pong:               Atari - Pong
@@ -203,9 +205,9 @@ Popeye:             Nintendo - Popeye
 RallyX:             Namco - Rally-X
 RiverPatrol:        Orca - River Patrol
 Robotron:           Vid Kidz - Robotron
+                   |                  |         |                         |
 RshnAtk:            Konami - Green Beret
 Scramble:           Konami - Scramble
-                   |                  |         |                         |
 SEGASYS1:           SEGA System 1
 SilverLand:         Falcon - Silver Land
 SnapJack:           Universal - Snap Jack
@@ -214,9 +216,9 @@ Sprint1:            Atari - Sprint 1
 Sprint2:            Atari - Sprint 2
 SuperBreakout:      Atari - Super Breakout
 Tecmo:              Tecmo 1st Gen
+                   |                  |         |                         |
 TimePilot:          Konami - Time Pilot
 TraverseUSA:        Irem - Traverse USA
-                   |                  |         |                         |
 Ultratank:          Kee Games - Ultra Tank
 Xevious:            Namco - Xevious
 Zaxxon:             SEGA - Zaxxon
