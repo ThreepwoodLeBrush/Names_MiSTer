@@ -84,9 +84,10 @@ SMS:                SEGA Mark III & GG
 SNES:               Nint Super Famicom
 TurboGrafx16:       NEC PC Engine/CD
 Vectrex:            GCE Vectrex
+WonderSwan:         Bandai WonderSwan
 EpochGalaxyII:      Epoch Galaxy II
-TomyScramble:       Tomy Scramble
                    |                  |         |                         |
+TomyScramble:       Tomy Scramble
 Arduboy:            Arduboy
 Chess:              Chess
 Chip8:              CHIP-8
@@ -96,8 +97,8 @@ Hack:               Nand2Tetris Hack
 SuperJacob:         SuperJacob
 memtest:            SDRAM Test
 ADCTest:            ADC Input Test
-Gameboy_LLAPI:      Nint. GB/C #LLAPI
                    |                  |         |                         |
+Gameboy_LLAPI:      Nint. GB/C #LLAPI
 GBA_LLAPI:          Nint. GBA #LLAPI
 Genesis_LLAPI:      SEGA MD #LLAPI
 MegaCD_LLAPI:       SEGA MegaCD #LLAPI

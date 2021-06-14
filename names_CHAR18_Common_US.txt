@@ -84,9 +84,10 @@ SMS:                Master System
 SNES:               Super NES
 TurboGrafx16:       Turbo Duo
 Vectrex:            Vectrex
+WonderSwan:         WonderSwan/Color
 EpochGalaxyII:      Galaxy II
-TomyScramble:       Tomy Scramble
                    |                  |         |                         |
+TomyScramble:       Tomy Scramble
 Arduboy:            Arduboy
 Chess:              Chess
 Chip8:              CHIP-8
@@ -96,8 +97,8 @@ Hack:               Nand2Tetris Hack
 SuperJacob:         SuperJacob
 memtest:            SDRAM Test
 ADCTest:            ADC Input Test
-Gameboy_LLAPI:      GB/GBC #LLAPI
                    |                  |         |                         |
+Gameboy_LLAPI:      GB/GBC #LLAPI
 GBA_LLAPI:          GBA #LLAPI
 Genesis_LLAPI:      Genesis #LLAPI
 MegaCD_LLAPI:       SEGA CD #LLAPI
