@@ -5,4 +5,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - run: ./.github/regenerate_files.sh
+      - run: |
+          set -euo pipefail
+          git config --global user.email "theypsilon@gmail.com"
+          git config --global user.name "The CI/CD Bot"
+          ./.github/regenerate_files.sh

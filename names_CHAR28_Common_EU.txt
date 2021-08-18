@@ -1,7 +1,7 @@
                    |                  |         |                         |
-AliceMC10:          Tandy MC-10
+AliceMC10:          Alice 4k
 Altair8800:         Altair 8800
-Amstrad:            Amstrad CPC
+Amstrad:            Amstrad CPC 664/6128
 Amstrad-PCW:        Amstrad PCW
 ao486:              PC (486SX)
 Apogee:             Apogee BK-01
@@ -13,18 +13,18 @@ Archie:             Acorn Archimedes
 Atari800:           Atari 800XL/...
 AtariST:            Atari ST/STE
 AcornAtom:          Acorn Atom
-BBCMicro:           BBC Micro/Master
+BBCMicro:           BBC Micro B/Master 128
 BK0011M:            BK0011M
-C16:                Commodore 16
+C16:                Commodore 16 & Plus/4
 C64:                Commodore 64
-CoCo2:              TRS-80 CoCo 2
-CoCo3:              TRS-80 CoCo 3
+CoCo2:              Dragon 32 & Tandy Color 2
+CoCo3:              Tandy TRS-80 Color Comp. 3
 EDSAC:              EDSAC
                    |                  |         |                         |
 Electron:           Acorn Electron
 F68kMiSTer:         X68000
 Galaksija:          Galaksija
-Interact:           Interact
+Interact:           Interact Home Computer Sys.
 Jupiter:            Jupiter Ace
 KC87:               Robotron KC 87
 Laser310:           Laser 350/500/700
@@ -32,9 +32,9 @@ MacPlus:            Macintosh Plus
 Memotech-MTX:       Memotech MTX
 Minimig:            Amiga
                    |                  |         |                         |
-mister_coco:        TRS-80 CoCo 3
-MSX:                MSX
-MultiComp:          MultiComp
+mister_coco:        Tandy TRS-80 Color Comp. 3
+MSX:                MSX/MSX2/MSX2+/TurboR
+MultiComp:          MultiComp (Z80/6502/6809)
 ORAO:               Orao
 Oric:               Oric
 PDP1:               PDP-1
@@ -71,10 +71,10 @@ AY-3-8500:          AY-3-8500
 C2650:              Arcadia 2001
 ColecoVision:       ColecoVision
 Gameboy:            Game Boy/Color
-Gameboy2P:          Game Boy/Color 2P
-Gameboy2Pultrawide: Game Boy/Color 2PW
+Gameboy2P:          Game Boy/Color 2 Player
+Gameboy2Pultrawide: Game Boy/Color 2 Player Wide
 GBA:                Game Boy Advance
-GBA2P:              Game Boy Adv. 2P
+GBA2P:              Game Boy Advance 2 Player
                    |                  |         |                         |
 Genesis:            Mega Drive
 Genesis3D:          Mega Drive 3D
@@ -84,14 +84,14 @@ Intv:               Intellivision
 Jaguar:             Atari Jaguar
 MegaCD:             Mega-CD
 NeoGeo:             Neo Geo MVS/AES
-NES:                Famicom
-NES3D:              Famicom 3D
+NES:                NES
+NES3D:              NES 3D
                    |                  |         |                         |
-Odyssey2:           Magnavox Odyssey2
+Odyssey2:           Videopac G7000
 PICO:               Kids Computer Pico
-SMS:                Mark III
+SMS:                Master System
 SMS3D:              Master System 3D
-SNES:               Super Famicom
+SNES:               Super NES
 TurboGrafx16:       PC Engine Duo
 Vectrex:            Vectrex
 WonderSwan:         WonderSwan/Color
@@ -104,25 +104,25 @@ Chip8:              CHIP-8
 FlappyBird:         Flappy Bird
 GameOfLife:         Game of Life
 Hack:               Nand2Tetris Hack
-mandelbrot:         Mandelbrot Zoom
+mandelbrot:         Mandelbrot Fractal Generator
 SuperJacob:         Super Jacob
-ADCTest:            ADC Input Test
-InputTest:          Gamepad Input Test
+ADCTest:            ADC Input and Signal Test
+InputTest:          Controller Input Tester
                    |                  |         |                         |
 jtsdram48:          SDRAM Test 48 MHz
 jtsdram96:          SDRAM Test 96 MHz
 memtest:            SDRAM Test
-Gameboy_LLAPI:      GB/GBC #LLAPI
-GBA_LLAPI:          GBA #LLAPI
+Gameboy_LLAPI:      Game Boy/Color #LLAPI
+GBA_LLAPI:          Game Boy Advance #LLAPI
 Genesis_LLAPI:      Mega Drive #LLAPI
 MegaCD_LLAPI:       Mega-CD #LLAPI
-NeoGeo_LLAPI:       Neo Geo #LLAPI
-NES_LLAPI:          Famicom #LLAPI
-Pacman_LLAPI:       Puck Man #LLAPI
+NeoGeo_LLAPI:       Neo Geo MVS/AES #LLAPI
+NES_LLAPI:          NES #LLAPI
+Pacman_LLAPI:       Namco - Pac-Man #LLAPI
                    |                  |         |                         |
-SMS_LLAPI:          MS & GG #LLAPI
-SNES_LLAPI:         SFC #LLAPI
-TurboGrafx16_LLAPI: PC Engine #LLAPI
+SMS_LLAPI:          Master System #LLAPI
+SNES_LLAPI:         Super NES #LLAPI
+TurboGrafx16_LLAPI: PC Engine Duo #LLAPI
 
 
 
@@ -171,12 +171,12 @@ Gyruss:             Konami - Gyruss
 IremM62:            Irem M62
 jt1942:             Capcom - 1942
 jt1943:             Capcom - 1943
-jtbiocom:           Capcom - Top Secret
-jtbtiger:           Capcom - Black Dragon
+jtbiocom:           Capcom - Bionic Commando
+jtbtiger:           Capcom - Black Tiger
 jtbubl:             Taito - Bubble Bobble
 jtcommando:         Capcom - Commando
 jtcomsc:            Konami - Combat School
-jtcontra:           Konami - Contra
+jtcontra:           Konami - Probotector
                    |                  |         |                         |
 jtcps1:             Capcom CPS-1
 jtcps15:            Capcom CPS-1.5
@@ -209,7 +209,7 @@ MCR3Mono:           Bally Midway MCR-3 Monoboard
 MCR3Scroll:         Bally Midway MCR-3 Scroll
 MoonPatrol:         Irem - Moon Patrol
 NinjaKun:           UPL - Ninja Kun
-Pacman:             Namco - Puck Man
+Pacman:             Namco - Pac-Man
                    |                  |         |                         |
 Pengo:              Coreland - Pengo
 PenguinKunWars:     UPL - Penguin-Kun Wars
@@ -234,7 +234,7 @@ SuperBreakout:      Atari - Super Breakout
 Tecmo:              Tecmo 1st Gen
                    |                  |         |                         |
 TimePilot:          Konami - Time Pilot
-TraverseUSA:        Irem - Zippy Race
+TraverseUSA:        Irem - Traverse USA
 Ultratank:          Kee Games - Ultra Tank
 Xevious:            Namco - Xevious
 Zaxxon:             SEGA - Zaxxon

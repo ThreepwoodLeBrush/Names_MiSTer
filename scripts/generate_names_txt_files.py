@@ -22,7 +22,7 @@ class NamesCSVReader:
         with open(self.options["input_names_csv"]) as csvfile:
             csvrows = list(csv.reader(csvfile, delimiter=self.options["csv_separator"], quotechar=self.options["csv_quote_char"], quoting=csv.QUOTE_MINIMAL))
             row_len = None
-            for raw_row in csvrows:
+            for row_count, raw_row in enumerate(csvrows):
                 row = list(map(lambda h: h.strip(), raw_row))
 
                 if len(row) <= 1:
@@ -38,7 +38,7 @@ class NamesCSVReader:
                     row_len = len(row)
 
                 if row_len != len(row):
-                    raise ValueError("Wrong len, should be {}, but is {}.".format(row_len, len(row)))
+                    raise ValueError("Wrong len at line {}, should have {} columns, but has {}.".format(row_count, row_len, len(row)))
 
                 self.read_columns(row)
             
