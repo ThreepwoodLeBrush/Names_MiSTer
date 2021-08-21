@@ -52,7 +52,7 @@ Svi328:             Spectravideo SV-328
 Ti994a:             Texas Instruments TI-99/4A
 TRS-80:             Tandy TRS-80 Model I
 TSConf:             ZX Evolution (TS-Config)
-UK101_Mister:       Compukit UK101
+UK101:              UK101_Mister:18_Manufacturer_EU
                    |                  |         |                         |
 Vector-06C:         Vector-06C
 VIC20:              Commodore VIC-20
@@ -105,7 +105,7 @@ FlappyBird:         Flappy Bird
 GameOfLife:         Conway's Game of Life
 Hack:               Nand2Tetris Hack Computer
 mandelbrot:         Mandelbrot Fractal Generator
-SuperJacob:         SuperJacob Homebrew Core
+SuperJacob:         Super Jacob Homebrew Core
 ADCTest:            ADC Input and Signal Test
 InputTest:          Controller Input Tester
                    |                  |         |                         |

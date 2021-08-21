@@ -52,7 +52,7 @@ Svi328:             Spec. SV-328
 Ti994a:             Texa. TI-99/4A
 TRS-80:             Tandy TRS-80
 TSConf:             ZX Evo. TS-Config
-UK101_Mister:       Compukit UK101
+UK101:              Compukit UK101
                    |                  |         |                         |
 Vector-06C:         Vector-06C
 VIC20:              Comm. VIC-20

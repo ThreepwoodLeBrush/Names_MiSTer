@@ -52,7 +52,7 @@ Svi328:             SV-328
 Ti994a:             TI-99/4A
 TRS-80:             TRS-80
 TSConf:             TS-Config
-UK101_Mister:       UK101
+UK101:              UK101_Mister:18_Common_EU
                    |                  |         |                         |
 Vector-06C:         Vector-06C
 VIC20:              Commodore VIC-20
