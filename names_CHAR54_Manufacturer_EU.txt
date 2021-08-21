@@ -52,7 +52,7 @@ Svi328:             Spectravideo SV-328
 Ti994a:             Texas Instruments TI-99/4A
 TRS-80:             Tandy TRS-80 Model I
 TSConf:             ZX Evolution (TS-Config)
-UK101:              UK101_Mister:18_Manufacturer_EU
+UK101:              Compukit UK101
                    |                  |         |                         |
 Vector-06C:         Vector-06C
 VIC20:              Commodore VIC-20
