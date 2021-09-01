@@ -28,10 +28,11 @@ Interact:           Interact
 Jupiter:            Jupiter Ace
 KC87:               Robotron KC 87
 Laser310:           VTech Laser 350
+Lynx48-96K:         Camp. Lynx 48/96K
 MacPlus:            Apple Mac Plus
 Memotech-MTX:       Memotech MTX
-Minimig:            Comm. Amiga
                    |                  |         |                         |
+Minimig:            Comm. Amiga
 mister_coco:        Tandy TRS-80 CoCo3
 MSX:                MSX
 MultiComp:          MultiComp Z80/...
@@ -41,8 +42,8 @@ PDP1:               DEC PDP-1
 PET2001:            Comm. PET 2001
 PMD85:              Tesla PMD 85-2A
 QL:                 Sinc. QL
-release-MiSTerDemu: NEC PC-8801
                    |                  |         |                         |
+release-MiSTerDemu: NEC PC-8801
 RX78:               Bandai RX-78
 SAMCoupe:           SAM Coupe
 SharpMZ:            Sharp MZ Series
@@ -52,8 +53,8 @@ Svi328:             Spec. SV-328
 Ti994a:             Texa. TI-99/4A
 TRS-80:             Tandy TRS-80
 TSConf:             ZX Evo. TS-Config
-UK101:              Compukit UK101
                    |                  |         |                         |
+UK101:              Compukit UK101
 Vector-06C:         Vector-06C
 VIC20:              Comm. VIC-20
 X68000:             Sharp X68000
@@ -63,8 +64,8 @@ ZX81:               Sinc. ZX81
 ZXNext:             ZX Spectrum Next
 Astrocade:          Bally Astrocade
 Atari2600:          Atari 2600
-Atari5200:          Atari 5200
                    |                  |         |                         |
+Atari5200:          Atari 5200
 Atari7800:          Atari 7800
 AtariLynx:          Atari Lynx
 AY-3-8500:          GI Pong AY-3-8500
@@ -74,8 +75,8 @@ Gameboy:            Nint. GB / GBC
 Gameboy2P:          Nint. GB / GBC 2P
 Gameboy2Pultrawide: Nint. GB / GBC 2PW
 GBA:                Nint. GBA
-GBA2P:              Nint. GBA 2 Player
                    |                  |         |                         |
+GBA2P:              Nint. GBA 2 Player
 Genesis:            SEGA Genesis
 Genesis3D:          SEGA Genesis 3D
 GnW:                Nint. Game & Watch
@@ -85,8 +86,8 @@ Jaguar:             Atari Jaguar
 MegaCD:             SEGA CD
 NeoGeo:             SNK Neo Geo
 NES:                Nint. NES
-NES3D:              Nint. NES 3D
                    |                  |         |                         |
+NES3D:              Nint. NES 3D
 Odyssey2:           Magn. Odyssey2
 PICO:               SEGA Pico
 SMS:                SEGA Master System
@@ -96,8 +97,8 @@ TurboGrafx16:       NEC TurboGrafx-16
 Vectrex:            GCE Vectrex
 WonderSwan:         Bandai WonderSwan
 EpochGalaxyII:      Epoch Galaxy II
-TomyScramble:       Tomy Scramble
                    |                  |         |                         |
+TomyScramble:       Tomy Scramble
 Arduboy:            Arduboy
 Chess:              Chess
 Chip8:              CHIP-8
@@ -107,8 +108,8 @@ Hack:               Nand2Tetris Hack
 mandelbrot:         Mandelbrot Zoom
 SuperJacob:         Super Jacob
 ADCTest:            ADC Input Test
-InputTest:          Gamepad Input Test
                    |                  |         |                         |
+InputTest:          Gamepad Input Test
 jtsdram48:          SDRAM Test 48 MHz
 jtsdram96:          SDRAM Test 96 MHz
 memtest:            SDRAM Test
@@ -118,8 +119,8 @@ Genesis_LLAPI:      SEGA Gen #LLAPI
 MegaCD_LLAPI:       SEGA CD #LLAPI
 NeoGeo_LLAPI:       SNK Neo Geo #LLAPI
 NES_LLAPI:          Nint. NES #LLAPI
-Pacman_LLAPI:       Pac-Man #LLAPI
                    |                  |         |                         |
+Pacman_LLAPI:       Pac-Man #LLAPI
 SMS_LLAPI:          SEGA MS #LLAPI
 SNES_LLAPI:         Nint. SNES #LLAPI
 TurboGrafx16_LLAPI: NEC TGFX16 #LLAPI

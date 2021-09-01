@@ -28,10 +28,11 @@ Interact:           Interact Home Computer Sys.
 Jupiter:            Jupiter Ace
 KC87:               Robotron KC 87
 Laser310:           VTech Laser 350/500/700
+Lynx48-96K:         Camputers Lynx 48/96K
 MacPlus:            Apple Macintosh Plus
 Memotech-MTX:       Memotech MTX
-Minimig:            Commodore Amiga
                    |                  |         |                         |
+Minimig:            Commodore Amiga
 mister_coco:        Tandy TRS-80 Color Comp. 3
 MSX:                MSX/MSX2/MSX2+/TurboR
 MultiComp:          MultiComp (Z80/6502/6809)
@@ -41,8 +42,8 @@ PDP1:               DEC PDP-1
 PET2001:            Commodore PET 2001
 PMD85:              Tesla PMD 85-2A
 QL:                 Sinclair QL
-release-MiSTerDemu: NEC PC-8801
                    |                  |         |                         |
+release-MiSTerDemu: NEC PC-8801
 RX78:               Bandai RX-78 Gundam
 SAMCoupe:           SAM Coupe
 SharpMZ:            Sharp MZ Series
@@ -52,8 +53,8 @@ Svi328:             Spectravideo SV-328
 Ti994a:             Texas Instruments TI-99/4A
 TRS-80:             Tandy TRS-80 Model I
 TSConf:             ZX Evolution (TS-Config)
-UK101:              Compukit UK101
                    |                  |         |                         |
+UK101:              Compukit UK101
 Vector-06C:         Vector-06C
 VIC20:              Commodore VIC-20
 X68000:             Sharp X68000
@@ -63,8 +64,8 @@ ZX81:               Sinclair ZX81
 ZXNext:             ZX Spectrum Next
 Astrocade:          Bally Astrocade
 Atari2600:          Atari 2600
-Atari5200:          Atari 5200
                    |                  |         |                         |
+Atari5200:          Atari 5200
 Atari7800:          Atari 7800
 AtariLynx:          Atari Lynx
 AY-3-8500:          GI Pong (AY-3-8500)
@@ -74,8 +75,8 @@ Gameboy:            Nintendo Game Boy/Color
 Gameboy2P:          Nintendo Game Boy/Color 2P
 Gameboy2Pultrawide: Nintendo Game Boy/Color 2PW
 GBA:                Nintendo Game Boy Advance
-GBA2P:              Nintendo Game Boy Advance 2P
                    |                  |         |                         |
+GBA2P:              Nintendo Game Boy Advance 2P
 Genesis:            SEGA Genesis
 Genesis3D:          SEGA Genesis 3D
 GnW:                Nintendo Game & Watch
@@ -85,8 +86,8 @@ Jaguar:             Atari Jaguar
 MegaCD:             SEGA CD
 NeoGeo:             SNK Neo Geo MVS/AES
 NES:                Nintendo NES
-NES3D:              Nintendo NES 3D
                    |                  |         |                         |
+NES3D:              Nintendo NES 3D
 Odyssey2:           Magnavox Odyssey2
 PICO:               SEGA Pico
 SMS:                SEGA Master System/Game Gear
@@ -96,8 +97,8 @@ TurboGrafx16:       NEC Turbo Duo
 Vectrex:            GCE Vectrex
 WonderSwan:         Bandai WonderSwan/Color
 EpochGalaxyII:      Epoch Galaxy II
-TomyScramble:       Tomytronic Scramble
                    |                  |         |                         |
+TomyScramble:       Tomytronic Scramble
 Arduboy:            Arduboy
 Chess:              Chess
 Chip8:              CHIP-8
@@ -107,8 +108,8 @@ Hack:               Nand2Tetris Hack Computer
 mandelbrot:         Mandelbrot Fractal Generator
 SuperJacob:         Super Jacob Homebrew Core
 ADCTest:            ADC Input and Signal Test
-InputTest:          Controller Input Tester
                    |                  |         |                         |
+InputTest:          Controller Input Tester
 jtsdram48:          Jotego SDRAM Test 48 MHz
 jtsdram96:          Jotego SDRAM Test 96 MHz
 memtest:            SDRAM Test
@@ -118,8 +119,8 @@ Genesis_LLAPI:      SEGA Genesis (LLAPI)
 MegaCD_LLAPI:       SEGA CD (LLAPI)
 NeoGeo_LLAPI:       SNK Neo Geo (LLAPI)
 NES_LLAPI:          Nintendo NES (LLAPI)
-Pacman_LLAPI:       Pac-Man (LLAPI)
                    |                  |         |                         |
+Pacman_LLAPI:       Pac-Man (LLAPI)
 SMS_LLAPI:          SEGA Master System (LLAPI)
 SNES_LLAPI:         Nintendo SNES (LLAPI)
 TurboGrafx16_LLAPI: NEC TurboGrafx-16/CD (LLAPI)
