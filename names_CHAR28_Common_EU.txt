@@ -94,10 +94,11 @@ SMS:                Master System
 SMS3D:              Master System 3D
 SNES:               Super NES
 TurboGrafx16:       PC Engine Duo
+VC4000:             Video Computer 4000
 Vectrex:            Vectrex
 WonderSwan:         WonderSwan/Color
-EpochGalaxyII:      Galaxy II
                    |                  |         |                         |
+EpochGalaxyII:      Galaxy II
 TomyScramble:       Tomy Scramble
 Arduboy:            Arduboy
 Chess:              Chess
@@ -107,8 +108,8 @@ GameOfLife:         Game of Life
 Hack:               Nand2Tetris Hack
 mandelbrot:         Mandelbrot Fractal Generator
 SuperJacob:         Super Jacob
-ADCTest:            ADC Input and Signal Test
                    |                  |         |                         |
+ADCTest:            ADC Input and Signal Test
 InputTest:          Controller Input Tester
 jtsdram48:          SDRAM Test 48 MHz
 jtsdram96:          SDRAM Test 96 MHz
@@ -118,8 +119,8 @@ GBA_LLAPI:          Game Boy Advance #LLAPI
 Genesis_LLAPI:      Mega Drive #LLAPI
 MegaCD_LLAPI:       Mega-CD #LLAPI
 NeoGeo_LLAPI:       Neo Geo MVS/AES #LLAPI
-NES_LLAPI:          NES #LLAPI
                    |                  |         |                         |
+NES_LLAPI:          NES #LLAPI
 Pacman_LLAPI:       Namco - Pac-Man #LLAPI
 SMS_LLAPI:          Master System #LLAPI
 SNES_LLAPI:         Super NES #LLAPI

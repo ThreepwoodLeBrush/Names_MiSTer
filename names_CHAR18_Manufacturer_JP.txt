@@ -94,10 +94,11 @@ SMS:                SEGA Mark III
 SMS3D:              SEGA Mark III 3D
 SNES:               Nint Super Famicom
 TurboGrafx16:       NEC PC Engine/CD
+VC4000:             Interton VC 4000
 Vectrex:            GCE Vectrex
 WonderSwan:         Bandai WonderSwan
-EpochGalaxyII:      Epoch Galaxy II
                    |                  |         |                         |
+EpochGalaxyII:      Epoch Galaxy II
 TomyScramble:       Tomy Scramble
 Arduboy:            Arduboy
 Chess:              Chess
@@ -107,8 +108,8 @@ GameOfLife:         Game of Life
 Hack:               Nand2Tetris Hack
 mandelbrot:         Mandelbrot Zoom
 SuperJacob:         Super Jacob
-ADCTest:            ADC Input Test
                    |                  |         |                         |
+ADCTest:            ADC Input Test
 InputTest:          Gamepad Input Test
 jtsdram48:          SDRAM Test 48 MHz
 jtsdram96:          SDRAM Test 96 MHz
@@ -118,8 +119,8 @@ GBA_LLAPI:          Nint. GBA #LLAPI
 Genesis_LLAPI:      SEGA MD #LLAPI
 MegaCD_LLAPI:       SEGA MegaCD #LLAPI
 NeoGeo_LLAPI:       SNK Neo Geo #LLAPI
-NES_LLAPI:          Nint. Fami. #LLAPI
                    |                  |         |                         |
+NES_LLAPI:          Nint. Fami. #LLAPI
 Pacman_LLAPI:       Puck Man #LLAPI
 SMS_LLAPI:          SEGA MS #LLAPI
 SNES_LLAPI:         Nint. SFC #LLAPI
