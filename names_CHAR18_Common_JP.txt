@@ -28,7 +28,7 @@ Interact:           Interact
 Jupiter:            Jupiter Ace
 KC87:               Robotron KC 87
 Laser310:           Laser 350/500/700
-Lynx48-96K:         Lynx 48/96K
+Lynx48:             Lynx 48/96K
 MacPlus:            Macintosh Plus
 Memotech-MTX:       Memotech MTX
                    |                  |         |                         |
@@ -38,12 +38,13 @@ MSX:                MSX
 MultiComp:          MultiComp
 ORAO:               Orao
 Oric:               Oric
+PC88:               PC-88
+Zet98:              PC-98
 PDP1:               PDP-1
 PET2001:            Commodore PET 2001
+                   |                  |         |                         |
 PMD85:              PMD 85-2A
 QL:                 Sinclair QL
-                   |                  |         |                         |
-release-MiSTerDemu: PC-8801
 RX78:               RX-78 Gundam
 SAMCoupe:           SAM Coupe
 SharpMZ:            Sharp MZ
@@ -52,8 +53,8 @@ SS:                 SPARCstation
 Svi328:             SV-328
 Ti994a:             TI-99/4A
 TRS-80:             TRS-80
-TSConf:             TS-Config
                    |                  |         |                         |
+TSConf:             TS-Config
 UK101:              UK101
 Vector-06C:         Vector-06C
 VIC20:              Commodore VIC-20
@@ -63,8 +64,8 @@ zx48:               ZX48
 ZX81:               ZX81
 ZXNext:             ZX Spectrum Next
 Astrocade:          Bally Astrocade
-Atari2600:          Atari 2600
                    |                  |         |                         |
+Atari2600:          Atari 2600
 Atari5200:          Atari 5200
 Atari7800:          Atari 7800
 AtariLynx:          Atari Lynx
@@ -74,8 +75,8 @@ ColecoVision:       ColecoVision
 Gameboy:            Game Boy/Color
 Gameboy2P:          Game Boy/Color 2P
 Gameboy2Pultrawide: Game Boy/Color 2PW
-GBA:                Game Boy Advance
                    |                  |         |                         |
+GBA:                Game Boy Advance
 GBA2P:              Game Boy Adv. 2P
 Genesis:            Mega Drive
 Genesis3D:          Mega Drive 3D
@@ -85,8 +86,8 @@ Intv:               Intellivision
 Jaguar:             Atari Jaguar
 MegaCD:             Mega-CD
 NeoGeo:             Neo Geo MVS/AES
-NES:                Famicom
                    |                  |         |                         |
+NES:                Famicom
 NES3D:              Famicom 3D
 Odyssey2:           Magnavox Odyssey2
 PICO:               Kids Computer Pico
@@ -96,8 +97,8 @@ SNES:               Super Famicom
 TurboGrafx16:       PC Engine Duo
 VC4000:             VC 4000
 Vectrex:            Vectrex
-WonderSwan:         WonderSwan/Color
                    |                  |         |                         |
+WonderSwan:         WonderSwan/Color
 EpochGalaxyII:      Galaxy II
 TomyScramble:       Tomy Scramble
 Arduboy:            Arduboy
@@ -107,8 +108,8 @@ FlappyBird:         Flappy Bird
 GameOfLife:         Game of Life
 Hack:               Nand2Tetris Hack
 mandelbrot:         Mandelbrot Zoom
-SuperJacob:         Super Jacob
                    |                  |         |                         |
+SuperJacob:         Super Jacob
 ADCTest:            ADC Input Test
 InputTest:          Gamepad Input Test
 jtsdram48:          SDRAM Test 48 MHz
@@ -118,8 +119,8 @@ Gameboy_LLAPI:      GB/GBC #LLAPI
 GBA_LLAPI:          GBA #LLAPI
 Genesis_LLAPI:      Mega Drive #LLAPI
 MegaCD_LLAPI:       Mega-CD #LLAPI
-NeoGeo_LLAPI:       Neo Geo #LLAPI
                    |                  |         |                         |
+NeoGeo_LLAPI:       Neo Geo #LLAPI
 NES_LLAPI:          Famicom #LLAPI
 Pacman_LLAPI:       Puck Man #LLAPI
 SMS_LLAPI:          MS & GG #LLAPI
@@ -239,5 +240,5 @@ TimePilot:          Konami - Time Pilot
 TraverseUSA:        Irem - Zippy Race
 Ultratank:          Kee Games - Ultra Tank
 Xevious:            Namco - Xevious
-Zaxxon:             SEGA - Zaxxon
+zaxxon:             Zaxxon:18_Common_EU
 ZigZag:             LAX - Zig Zag
