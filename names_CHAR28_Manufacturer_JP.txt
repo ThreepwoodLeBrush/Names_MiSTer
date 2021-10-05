@@ -28,7 +28,7 @@ Interact:           Interact Home Computer Sys.
 Jupiter:            Jupiter Ace
 KC87:               Robotron KC 87
 Laser310:           VTech Laser 350/500/700
-Lynx48:             Camputers Lynx 48/96K
+lynx48:             Camputers Lynx 48/96K
 MacPlus:            Apple Macintosh Plus
 Memotech-MTX:       Memotech MTX
                    |                  |         |                         |
@@ -38,8 +38,8 @@ MSX:                MSX/MSX2/MSX2+/TurboR
 MultiComp:          MultiComp (Z80/6502/6809)
 ORAO:               Velebit Informatika Orao
 Oric:               Oric-1/Atmos
-PC88:               NEC PC-8800
-Zet98:              NEC PC-9800
+pc88:               NEC PC-8800
+zet98:              NEC PC-9800
 PDP1:               DEC PDP-1
 PET2001:            Commodore PET 2001
                    |                  |         |                         |
@@ -240,5 +240,5 @@ TimePilot:          Konami - Time Pilot
 TraverseUSA:        Irem - Zippy Race
 Ultratank:          Kee Games - Ultra Tank
 Xevious:            Namco - Xevious
-zaxxon:             Zaxxon:18_Common_EU
+zaxxon:             SEGA - Zaxxon
 ZigZag:             LAX - Zig Zag

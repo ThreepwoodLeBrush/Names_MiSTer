@@ -28,7 +28,7 @@ Interact:           Interact
 Jupiter:            Jupiter Ace
 KC87:               Robotron KC 87
 Laser310:           Laser 350/500/700
-Lynx48:             Lynx 48/96K
+lynx48:             Lynx 48/96K
 MacPlus:            Macintosh Plus
 Memotech-MTX:       Memotech MTX
                    |                  |         |                         |
@@ -38,8 +38,8 @@ MSX:                MSX
 MultiComp:          MultiComp
 ORAO:               Orao
 Oric:               Oric
-PC88:               PC-88
-Zet98:              PC-98
+pc88:               PC-88
+zet98:              PC-98
 PDP1:               PDP-1
 PET2001:            Commodore PET 2001
                    |                  |         |                         |
