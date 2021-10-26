@@ -36,13 +36,14 @@ Minimig:            Comm. Amiga
 mister_coco:        Tandy TRS-80 CoCo3
 MSX:                MSX
 MultiComp:          MultiComp Z80/...
+Ondra_SPO186:       Tesla Ondra
 ORAO:               Velebit Orao
 Oric:               Oric-1/Atmos
 pc88:               NEC PC-8800
 zet98:              NEC PC-9800
 PDP1:               DEC PDP-1
-PET2001:            Comm. PET 2001
                    |                  |         |                         |
+PET2001:            Comm. PET 2001
 PMD85:              Tesla PMD 85-2A
 QL:                 Sinc. QL
 RX78:               Bandai RX-78
@@ -52,8 +53,8 @@ Specialist:         Specialist/MX
 SS:                 Sun SparcStation
 Svi328:             Spec. SV-328
 Ti994a:             Texa. TI-99/4A
-TRS-80:             Tandy TRS-80
                    |                  |         |                         |
+TRS-80:             Tandy TRS-80
 TSConf:             ZX Evo. TS-Config
 UK101:              Compukit UK101
 Vector-06C:         Vector-06C
@@ -63,8 +64,8 @@ ZX-Spectrum:        Sinc. ZX Spectrum
 zx48:               Sinc. ZX48
 ZX81:               Sinc. ZX81
 ZXNext:             ZX Spectrum Next
-Astrocade:          Bally Astrocade
                    |                  |         |                         |
+Astrocade:          Bally Astrocade
 Atari2600:          Atari 2600
 Atari5200:          Atari 5200
 Atari7800:          Atari 7800
@@ -74,8 +75,8 @@ C2650:              Arcadia 2001
 ColecoVision:       ColecoVision
 Gameboy:            Nint. GB / GBC
 Gameboy2P:          Nint. GB / GBC 2P
-Gameboy2Pultrawide: Nint. GB / GBC 2PW
                    |                  |         |                         |
+Gameboy2Pultrawide: Nint. GB / GBC 2PW
 GBA:                Nint. GBA
 GBA2P:              Nint. GBA 2 Player
 Genesis:            SEGA Mega Drive
@@ -85,8 +86,8 @@ Intellivision:      Mattel Intelliv.
 Intv:               Mattel Intelliv.
 Jaguar:             Atari Jaguar
 MegaCD:             SEGA Mega-CD
-NeoGeo:             SNK Neo Geo
                    |                  |         |                         |
+NeoGeo:             SNK Neo Geo
 NES:                Nint. Famicom
 NES3D:              Nint. Famicom 3D
 Odyssey2:           Magn. Odyssey2
@@ -96,8 +97,8 @@ SMS3D:              SEGA Mark III 3D
 SNES:               Nint Super Famicom
 TurboGrafx16:       NEC PC Engine/CD
 VC4000:             Interton VC 4000
-Vectrex:            GCE Vectrex
                    |                  |         |                         |
+Vectrex:            GCE Vectrex
 WonderSwan:         Bandai WonderSwan
 EpochGalaxyII:      Epoch Galaxy II
 TomyScramble:       Tomy Scramble
@@ -107,8 +108,8 @@ Chip8:              CHIP-8
 FlappyBird:         Flappy Bird
 GameOfLife:         Game of Life
 Hack:               Nand2Tetris Hack
-mandelbrot:         Mandelbrot Zoom
                    |                  |         |                         |
+mandelbrot:         Mandelbrot Zoom
 SuperJacob:         Super Jacob
 ADCTest:            ADC Input Test
 InputTest:          Gamepad Input Test
@@ -118,8 +119,8 @@ memtest:            SDRAM Test
 Gameboy_LLAPI:      Nint. GB/C #LLAPI
 GBA_LLAPI:          Nint. GBA #LLAPI
 Genesis_LLAPI:      SEGA MD #LLAPI
-MegaCD_LLAPI:       SEGA MegaCD #LLAPI
                    |                  |         |                         |
+MegaCD_LLAPI:       SEGA MegaCD #LLAPI
 NeoGeo_LLAPI:       SNK Neo Geo #LLAPI
 NES_LLAPI:          Nint. Fami. #LLAPI
 Pacman_LLAPI:       Puck Man #LLAPI
