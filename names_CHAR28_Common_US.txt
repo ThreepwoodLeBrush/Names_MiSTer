@@ -8,8 +8,9 @@ Apogee:             Apogee BK-01
 Apple-I:            Apple I
 Apple-II:           Apple IIe
 Aquarius:           Mattel Aquarius
-Archie:             Acorn Archimedes
+Arcadia:            Arcadia 2001
                    |                  |         |                         |
+Archie:             Acorn Archimedes
 Atari800:           Atari 800XL/...
 AtariST:            Atari ST/STE
 AcornAtom:          Acorn Atom
@@ -17,10 +18,11 @@ BBCMicro:           BBC Micro B/Master 128
 BK0011M:            BK0011M
 C16:                Commodore 16 & Plus/4
 C64:                Commodore 64
+ChannelF:           Channel F
 CoCo2:              Tandy Color 2 & Dragon 32
+                   |                  |         |                         |
 CoCo3:              Tandy TRS-80 Color Comp. 3
 EDSAC:              EDSAC
-                   |                  |         |                         |
 Electron:           Acorn Electron
 F68kMiSTer:         X68000
 Galaksija:          Galaksija
@@ -29,9 +31,9 @@ Jupiter:            Jupiter Ace
 KC87:               Robotron KC 87
 Laser310:           Laser 350/500/700
 lynx48:             Lynx 48/96K
+                   |                  |         |                         |
 MacPlus:            Macintosh Plus
 Memotech-MTX:       Memotech MTX
-                   |                  |         |                         |
 Minimig:            Amiga
 mister_coco:        Tandy TRS-80 Color Comp. 3
 MSX:                MSX/MSX2/MSX2+/TurboR
@@ -40,9 +42,9 @@ Ondra_SPO186:       Ondra SPO 186
 ORAO:               Orao
 Oric:               Oric
 pc88:               PC-88
+                   |                  |         |                         |
 zet98:              PC-98
 PDP1:               PDP-1
-                   |                  |         |                         |
 PET2001:            Commodore PET 2001
 PMD85:              PMD 85-2A
 QL:                 Sinclair QL
@@ -51,9 +53,9 @@ SAMCoupe:           SAM Coupe
 SharpMZ:            Sharp MZ
 Specialist:         Specialist/MX
 SS:                 SPARCstation
+                   |                  |         |                         |
 Svi328:             SV-328
 Ti994a:             TI-99/4A
-                   |                  |         |                         |
 TRS-80:             TRS-80
 TSConf:             TS-Config
 UK101:              UK101
@@ -62,9 +64,9 @@ VIC20:              Commodore VIC-20
 X68000:             X68000
 ZX-Spectrum:        ZX Spectrum
 zx48:               ZX48
+                   |                  |         |                         |
 ZX81:               ZX81
 ZXNext:             ZX Spectrum Next
-                   |                  |         |                         |
 Astrocade:          Bally Astrocade
 Atari2600:          Atari 2600
 Atari5200:          Atari 5200
@@ -73,9 +75,9 @@ AtariLynx:          Atari Lynx
 AY-3-8500:          AY-3-8500
 C2650:              Arcadia 2001
 ColecoVision:       ColecoVision
+                   |                  |         |                         |
 Gameboy:            Game Boy/Color
 Gameboy2P:          Game Boy/Color 2 Player
-                   |                  |         |                         |
 Gameboy2Pultrawide: Game Boy/Color 2 Player Wide
 GBA:                Game Boy Advance
 GBA2P:              Game Boy Advance 2 Player
@@ -84,9 +86,9 @@ Genesis3D:          Genesis 3D
 GnW:                Game & Watch
 Intellivision:      Intellivision
 Intv:               Intellivision
+                   |                  |         |                         |
 Jaguar:             Atari Jaguar
 MegaCD:             SEGA CD
-                   |                  |         |                         |
 NeoGeo:             Neo Geo MVS/AES
 NES:                NES
 NES3D:              NES 3D
@@ -95,9 +97,9 @@ PICO:               Kids Computer Pico
 SMS:                Master System
 SMS3D:              Master System 3D
 SNES:               Super NES
+                   |                  |         |                         |
 TurboGrafx16:       Turbo Duo
 VC4000:             Video Computer 4000
-                   |                  |         |                         |
 Vectrex:            Vectrex
 WonderSwan:         WonderSwan/Color
 EpochGalaxyII:      Galaxy II
@@ -106,9 +108,9 @@ Arduboy:            Arduboy
 Chess:              Chess
 Chip8:              CHIP-8
 FlappyBird:         Flappy Bird
+                   |                  |         |                         |
 GameOfLife:         Game of Life
 Hack:               Nand2Tetris Hack
-                   |                  |         |                         |
 mandelbrot:         Mandelbrot Fractal Generator
 SuperJacob:         Super Jacob
 ADCTest:            ADC Input and Signal Test
@@ -117,9 +119,9 @@ jtsdram48:          SDRAM Test 48 MHz
 jtsdram96:          SDRAM Test 96 MHz
 memtest:            SDRAM Test
 Gameboy_LLAPI:      Game Boy/Color #LLAPI
+                   |                  |         |                         |
 GBA_LLAPI:          Game Boy Advance #LLAPI
 Genesis_LLAPI:      Mega Drive #LLAPI
-                   |                  |         |                         |
 MegaCD_LLAPI:       Mega-CD #LLAPI
 NeoGeo_LLAPI:       Neo Geo MVS/AES #LLAPI
 NES_LLAPI:          NES #LLAPI
