@@ -40,7 +40,8 @@ def main(sha):
                 'names.txt': {
                     'hash': hash(entry.name),
                     'size': size(entry.name),
-                    'url': (url_base % sha) + entry.name
+                    'url': (url_base % sha) + entry.name,
+                    'reboot': True
                 }
             },
             'folders': {},
