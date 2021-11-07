@@ -24,8 +24,16 @@ if ! git diff --staged --quiet --exit-code --ignore-space-at-eol ; then
     echo
     git commit -m "BOT: Regenerated files."
     git push origin master
+    local SHA=$(git rev-parse --verify HEAD)
+
     echo
-    echo "New files deployed."
+    echo "New files deployed (${SHA})."
+
+
+    ./scripts/generate_dbs.py "${SHA}"
+    
+    echo
+    echo "New dbs deployed."
 else
     echo "Nothing to be updated."
 fi

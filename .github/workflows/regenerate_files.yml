@@ -10,3 +10,6 @@ jobs:
           git config --global user.email "theypsilon@gmail.com"
           git config --global user.name "The CI/CD Bot"
           ./.github/regenerate_files.sh
+        env:
+          URL_BASE: https://raw.githubusercontent.com/ThreepwoodLeBrush/Names_MiSTer/%s/
+          GIT_PUSH: 'true'
