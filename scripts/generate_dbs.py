@@ -61,7 +61,7 @@ def main(sha):
 
     if git_push:
         run_successfully('git checkout -qf --orphan dbs')
-        run_successfully('git rm -rf .github * || true')
+        run_successfully('git rm -rf .github .gitattributes * || true')
 
     for db_name, db in dbs:
         with open(db_name, 'w+') as f:
