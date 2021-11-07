@@ -187,28 +187,36 @@ jtcontra:           Konami - Probotector
 jtcps1:             Capcom CPS-1
 jtcps15:            Capcom CPS-1.5
 jtcps2:             Capcom CPS-2
-jtdd:               Technos - Double Dragon
 jtdd2:              Technos - Double Dragon 2
+jtdd:               Technos - Double Dragon
+jtexed:             Capcom - Exed Exes
 jtf1dream:          Capcom - F-1 Dream
+jtflane:            Capcom - Exed Exes
 jtgng:              Capcom - Ghosts 'n Goblins
 jtgunsmoke:         Capcom - Gun.Smoke
+                   |                  |         |                         |
 jthige:             Capcom - Higemaru
 jtlabrun:           Konami - Labyrinth Runner
-                   |                  |         |                         |
 jtpopeye:           Nintendo - Popeye -JT-
 jtrumble:           Capcom - Speed Rumbler
 jtsarms:            Capcom - Side Arms
 jtsf:               Capcom - Street Fighter
 jtsectionz:         Capcom - Section Z
 jts16:              SEGA System 16
+jts16a2:            SEGA System 16A2
+jts16b1:            SEGA System 16B1
+                   |                  |         |                         |
+jts16b2:            SEGA System 16B2
+jts16b3:            SEGA System 16B3
+jts16b:             SEGA System 16B
 jttora:             Capcom - Tiger Road
 jttrojan:           Capcom - Trojan
 jtvulgus:           Capcom - Vulgus
 LadyBug:            Universal - Lady Bug
-                   |                  |         |                         |
 LunarLander:        Atari - Lunar Lander
 MarioBros:          Nintendo - Mario Bros
 MCR1:               Bally Midway MCR-1
+                   |                  |         |                         |
 MCR2:               Bally Midway MCR-2
 MCR3:               Bally Midway MCR-3
 MCR3Mono:           Bally Midway MCR-3 Monoboard
@@ -216,10 +224,10 @@ MCR3Scroll:         Bally Midway MCR-3 Scroll
 MoonPatrol:         Irem - Moon Patrol
 NinjaKun:           UPL - Ninja Kun
 Pacman:             Namco - Pac-Man
-                   |                  |         |                         |
 Pengo:              Coreland - Pengo
 PenguinKunWars:     UPL - Penguin-Kun Wars
 Phoenix:            Centuri - Phoenix
+                   |                  |         |                         |
 Pleiads:            Centuri - Pleiades
 Pong:               Atari - Pong
 Pooyan:             Stern Elect. - Pooyan
@@ -227,10 +235,10 @@ Popeye:             Nintendo - Popeye
 RallyX:             Namco - Rally-X
 RiverPatrol:        Orca - River Patrol
 Robotron:           Vid Kidz - Robotron
-                   |                  |         |                         |
 RshnAtk:            Konami - Green Beret
 Scramble:           Konami - Scramble
 SEGASYS1:           SEGA System 1
+                   |                  |         |                         |
 SilverLand:         Falcon - Silver Land
 SnapJack:           Universal - Snap Jack
 SolomonsKey:        Tecmo - Solomon's Key
@@ -238,10 +246,10 @@ Sprint1:            Atari - Sprint 1
 Sprint2:            Atari - Sprint 2
 SuperBreakout:      Atari - Super Breakout
 Tecmo:              Tecmo 1st Gen
-                   |                  |         |                         |
 TimePilot:          Konami - Time Pilot
 TraverseUSA:        Irem - Traverse USA
 Ultratank:          Kee Games - Ultra Tank
+                   |                  |         |                         |
 Xevious:            Namco - Xevious
 zaxxon:             SEGA - Zaxxon
 ZigZag:             LAX - Zig Zag
