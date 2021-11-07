@@ -2,10 +2,12 @@ name: Regenerate Files
 on: push
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-20.04
     steps:
       - uses: actions/checkout@v2
-      - run: |
+
+      - name: Regenerate Files
+        run: |
           set -euo pipefail
           git config --global user.email "theypsilon@gmail.com"
           git config --global user.name "The CI/CD Bot"
