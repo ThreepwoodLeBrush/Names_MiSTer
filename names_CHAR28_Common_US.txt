@@ -197,7 +197,7 @@ jtgunsmoke:         Capcom - Gun.Smoke
                    |                  |         |                         |
 jthige:             Capcom - Higemaru
 jtlabrun:           Konami - Labyrinth Runner
-jtpopeye:           Nintendo - Popeye -JT-
+jtmx5k:             Konami - Flak Attack
 jtrumble:           Capcom - Speed Rumbler
 jtsarms:            Capcom - Side Arms
 jtsf:               Capcom - Street Fighter
