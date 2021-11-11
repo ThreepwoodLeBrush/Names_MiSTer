@@ -150,7 +150,7 @@ Berzerk:            Stern Elect. - Berzerk
 BlackWidow:         Atari - Black Widow
 BombJack:           Tehkan - Bomb Jack
 BurgerTime:         Data East - Burger Time
-BurningRubber:      Data East - Burning Rubber
+BurningRubber:      Data East - Burnin' Rubber
                    |                  |         |                         |
 CanyonBomber:       Atari - Canyon Bomber
 Centipede:          Atari - Centipede
@@ -172,7 +172,7 @@ Frenzy:             Stern Elect. - Frenzy
 Galaga:             Namco - Galaga
 Galaxian:           Namco - Galaxian
 Gaplus:             Namco - Gaplus
-GnG:                Capcom - GnG -old-
+GnG:                Capcom - Ghosts 'n Goblins -old-
                    |                  |         |                         |
 Gyruss:             Konami - Gyruss
 IremM62:            Irem M62
@@ -183,23 +183,23 @@ jtbtiger:           Capcom - Black Tiger
 jtbubl:             Taito - Bubble Bobble
 jtcommando:         Capcom - Commando
 jtcomsc:            Konami - Combat School
-jtcontra:           Konami - Probotector
+jtcontra:           Konami - Gryzor
                    |                  |         |                         |
 jtcps1:             Capcom CPS-1
 jtcps15:            Capcom CPS-1.5
 jtcps2:             Capcom CPS-2
-jtdd2:              Technos - Double Dragon 2
+jtdd2:              Technos - Double Dragon II
 jtdd:               Technos - Double Dragon
 jtexed:             Capcom - Exed Exes
 jtf1dream:          Capcom - F-1 Dream
-jtflane:            Capcom - Exed Exes
+jtflane:            Capcom - Fast Lane
 jtgng:              Capcom - Ghosts 'n Goblins
 jtgunsmoke:         Capcom - Gun.Smoke
                    |                  |         |                         |
 jthige:             Capcom - Higemaru
 jtlabrun:           Konami - Labyrinth Runner
 jtmx5k:             Konami - MX5000
-jtrumble:           Capcom - Speed Rumbler
+jtrumble:           Capcom - The Speed Rumbler
 jtsarms:            Capcom - Side Arms
 jtsf:               Capcom - Street Fighter
 jtsectionz:         Capcom - Section Z
@@ -215,7 +215,7 @@ jttrojan:           Capcom - Trojan
 jtvulgus:           Capcom - Vulgus
 LadyBug:            Universal - Lady Bug
 LunarLander:        Atari - Lunar Lander
-MarioBros:          Nintendo - Mario Bros
+MarioBros:          Nintendo - Mario Bros.
 MCR1:               Bally Midway MCR-1
                    |                  |         |                         |
 MCR2:               Bally Midway MCR-2
@@ -235,7 +235,7 @@ Pooyan:             Stern Elect. - Pooyan
 Popeye:             Nintendo - Popeye
 RallyX:             Namco - Rally-X
 RiverPatrol:        Orca - River Patrol
-Robotron:           Vid Kidz - Robotron
+Robotron:           Vid Kidz - Robotron: 1984
 RshnAtk:            Konami - Green Beret
 Scramble:           Konami - Scramble
 SEGASYS1:           SEGA System 1
