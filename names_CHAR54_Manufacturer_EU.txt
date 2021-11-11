@@ -188,7 +188,7 @@ jtcontra:           Konami - Gryzor
 jtcps1:             Capcom CPS-1
 jtcps15:            Capcom CPS-1.5
 jtcps2:             Capcom CPS-2
-jtdd2:              Technos - Double Dragon II:  The Revenge
+jtdd2:              Technos - Double Dragon II: The Revenge
 jtdd:               Technos - Double Dragon
 jtexed:             Capcom - Exed Exes
 jtf1dream:          Capcom - F-1 Dream
@@ -196,11 +196,11 @@ jtflane:            Capcom - Fast Lane
 jtgng:              Capcom - Ghosts 'n Goblins
 jtgunsmoke:         Capcom - Gun.Smoke
                    |                  |         |                         |
-jthige:             Capcom - Pirate Ship         Higemaru
+jthige:             Capcom - Pirate Ship Higemaru
 jtlabrun:           Konami - Labyrinth Runner
 jtmx5k:             Konami - Flak Attack
 jtrumble:           Capcom - The Speed Rumbler
-jtsarms:            Capcom - Hyper Dyne          Side Arms
+jtsarms:            Capcom - Hyper Dyne Side Arms
 jtsf:               Capcom - Street Fighter
 jtsectionz:         Capcom - Section Z
 jts16:              SEGA System 16
@@ -223,7 +223,7 @@ MCR3:               Bally Midway MCR-3
 MCR3Mono:           Bally Midway MCR-3 Monoboard
 MCR3Scroll:         Bally Midway MCR-3 Scroll
 MoonPatrol:         Irem - Moon Patrol
-NinjaKun:           UPL - Ninja-kun: Adventure   of Devil Castle
+NinjaKun:           UPL - Ninja Kun
 Pacman:             Namco - Pac-Man
 Pengo:              Coreland - Pengo
 PenguinKunWars:     UPL - Penguin-Kun Wars

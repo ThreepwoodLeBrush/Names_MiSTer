@@ -149,7 +149,7 @@ Bagman:             Valadon Aut. - Bagman
 Berzerk:            Stern Elecr. - Berzerk
 BlackWidow:         Atari - Black Widow
 BombJack:           Tehkan - Bomb Jack
-BurgerTime:         Data East - Burger Time
+BurgerTime:         Data East - Hamburger
 BurningRubber:      Data East - Burnin' Rubber
                    |                  |         |                         |
 CanyonBomber:       Atari - Canyon Bomber
@@ -166,13 +166,13 @@ Dominos:            Atari - Dominos
 DonkeyKong:         Nintendo - Donkey Kong
 DonkeyKongJunior:   Nintendo - Donkey Kong Jr.
 Dorodon:            UPL Co. - Dorodon
-Druaga:             Namco - Tower of Druaga
-FoodFight:          GCC - Food Fight
+Druaga:             Namco - The Tower of Druaga
+FoodFight:          GCC - Charley Chuck's Food Fight
 Frenzy:             Stern Electronics - Frenzy
 Galaga:             Namco - Galaga
 Galaxian:           Namco - Galaxian
 Gaplus:             Namco - Gaplus
-GnG:                Capcom - Ghosts 'n Goblins -old-
+GnG:                Capcom - Makaimura -old-
                    |                  |         |                         |
 Gyruss:             Konami - Gyruss
 IremM62:            Irem M62
@@ -181,26 +181,26 @@ jt1943:             Capcom - 1943: Middouei Kaisen
 jtbiocom:           Capcom - Top Secret
 jtbtiger:           Capcom - Black Dragon
 jtbubl:             Taito - Bubble Bobble
-jtcommando:         Capcom - Commando
+jtcommando:         Capcom - Senjou no Ookami
 jtcomsc:            Konami - Combat School
 jtcontra:           Konami - Contra
                    |                  |         |                         |
 jtcps1:             Capcom CPS-1
 jtcps15:            Capcom CPS-1.5
 jtcps2:             Capcom CPS-2
-jtdd2:              Technos - Double Dragon II
+jtdd2:              Technos - Double Dragon II: The Revenge
 jtdd:               Technos - Double Dragon
 jtexed:             Capcom - Exed Exes
 jtf1dream:          Capcom - F-1 Dream
 jtflane:            Capcom - Fast Lane
-jtgng:              Capcom - Ghosts 'n Goblins
+jtgng:              Capcom - Makaimura
 jtgunsmoke:         Capcom - Gun.Smoke
                    |                  |         |                         |
-jthige:             Capcom - Higemaru
+jthige:             Capcom - Pirate Ship Higemaru
 jtlabrun:           Konami - Labyrinth Runner
 jtmx5k:             Konami - Flak Attack
 jtrumble:           Capcom - The Speed Rumbler
-jtsarms:            Capcom - Side Arms
+jtsarms:            Capcom - Hyper Dyne Side Arms
 jtsf:               Capcom - Street Fighter
 jtsectionz:         Capcom - Section Z
 jts16:              SEGA System 16
@@ -210,12 +210,12 @@ jts16b1:            SEGA System 16B1
 jts16b2:            SEGA System 16B2
 jts16b3:            SEGA System 16B3
 jts16b:             SEGA System 16B
-jttora:             Capcom - Tiger Road
-jttrojan:           Capcom - Trojan
+jttora:             Capcom - Tora e no Michi
+jttrojan:           Capcom - Tatakai no Banka
 jtvulgus:           Capcom - Vulgus
 LadyBug:            Universal - Lady Bug
 LunarLander:        Atari - Lunar Lander
-MarioBros:          Nintendo - Mario Bros.
+MarioBros:          Nintendo - Mario Brothers
 MCR1:               Bally Midway MCR-1
                    |                  |         |                         |
 MCR2:               Bally Midway MCR-2
@@ -223,7 +223,7 @@ MCR3:               Bally Midway MCR-3
 MCR3Mono:           Bally Midway MCR-3 Monoboard
 MCR3Scroll:         Bally Midway MCR-3 Scroll
 MoonPatrol:         Irem - Moon Patrol
-NinjaKun:           UPL - Ninja Kun
+NinjaKun:           UPL - Ninja-kun: Majou no Bouken
 Pacman:             Namco - Puck Man
 Pengo:              Coreland - Pengo
 PenguinKunWars:     UPL - Penguin-Kun Wars
@@ -242,7 +242,7 @@ SEGASYS1:           SEGA System 1
                    |                  |         |                         |
 SilverLand:         Falcon - Silver Land
 SnapJack:           Universal - Snap Jack
-SolomonsKey:        Tecmo - Solomon's Key
+SolomonsKey:        Tecmo - Solomon no Kagi
 Sprint1:            Atari - Sprint 1
 Sprint2:            Atari - Sprint 2
 SuperBreakout:      Atari - Super Breakout
