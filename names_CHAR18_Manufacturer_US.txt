@@ -95,9 +95,10 @@ NES:                Nint. NES
 NES3D:              Nint. NES 3D
 Odyssey2:           Magn. Odyssey2
 PICO:               SEGA Pico
+PlayStation:        Sony PlayStation
 SMS:                SEGA Master System
-SMS3D:              SEGA Master Sys 3D
                    |                  |         |                         |
+SMS3D:              SEGA Master Sys 3D
 SNES:               Nint. Super NES
 TurboGrafx16:       NEC TurboGrafx-16
 VC4000:             Interton VC 4000
@@ -107,8 +108,8 @@ EpochGalaxyII:      Epoch Galaxy II
 TomyScramble:       Tomy Scramble
 Arduboy:            Arduboy
 Chess:              Chess
-Chip8:              CHIP-8
                    |                  |         |                         |
+Chip8:              CHIP-8
 FlappyBird:         Flappy Bird
 GameOfLife:         Game of Life
 Hack:               Nand2Tetris Hack
@@ -118,8 +119,8 @@ ADCTest:            ADC Input Test
 InputTest:          Gamepad Input Test
 jtsdram48:          SDRAM Test 48 MHz
 jtsdram96:          SDRAM Test 96 MHz
-memtest:            SDRAM Test
                    |                  |         |                         |
+memtest:            SDRAM Test
 Gameboy_LLAPI:      Nint. GB/C #LLAPI
 GBA_LLAPI:          Nint. GBA #LLAPI
 Genesis_LLAPI:      SEGA Gen #LLAPI
@@ -129,6 +130,7 @@ NES_LLAPI:          Nint. NES #LLAPI
 Pacman_LLAPI:       Pac-Man #LLAPI
 SMS_LLAPI:          SEGA MS #LLAPI
 SNES_LLAPI:         Nint. SNES #LLAPI
+                   |                  |         |                         |
 TurboGrafx16_LLAPI: NEC TGFX16 #LLAPI
 
 
