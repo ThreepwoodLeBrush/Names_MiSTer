@@ -206,9 +206,10 @@ jtflane:            Capcom - Fast Lane
 jtgng:              Capcom - Ghosts 'n Goblins
 jtgunsmoke:         Capcom - Gun.Smoke
 jthige:             Capcom - Pirate Ship Higemaru
+jtkicker:           Konami - Shao-Lin's Road
 jtlabrun:           Konami - Labyrinth Runner
-jtmx5k:             Konami - MX5000
                    |                  |         |                         |
+jtmx5k:             Konami - MX5000
 jtninja:            Data East - DragonNinja
 jtrumble:           Capcom - The Speed Rumbler
 jtsarms:            Capcom - Hyper Dyne Side Arms
@@ -218,8 +219,8 @@ jts16:              SEGA System 16
 jts16a2:            SEGA System 16A2
 jts16b1:            SEGA System 16B1
 jts16b2:            SEGA System 16B2
-jts16b3:            SEGA System 16B3
                    |                  |         |                         |
+jts16b3:            SEGA System 16B3
 jts16b:             SEGA System 16B
 jttora:             Capcom - Tiger Road
 jttrojan:           Capcom - Trojan
@@ -229,8 +230,8 @@ LunarLander:        Atari - Lunar Lander
 MarioBros:          Nint.- Mario Bros
 MasterSystem:       SEGA System E
 MCR1:               Bally MCR-1
-MCR2:               Bally MCR-2
                    |                  |         |                         |
+MCR2:               Bally MCR-2
 MCR3:               Bally MCR-3
 MCR3Mono:           Bally MCR-3 Mono.
 MCR3Scroll:         Bally MCR-3 Scroll
@@ -240,8 +241,8 @@ NinjaKun:           UPL - Ninja Kun
 Pacman:             Namco - Pac-Man
 Pengo:              Coreland - Pengo
 PenguinKunWars:     UPL - Penguin-Kun Wars
-Phoenix:            Centuri - Phoenix
                    |                  |         |                         |
+Phoenix:            Centuri - Phoenix
 Pleiads:            Centuri - Pleiades
 PolyPlay:           VOB - Poly Play
 Pong:               Atari - Pong
@@ -251,8 +252,8 @@ QBert:              Gottl.- Q'Bert
 RallyX:             Namco - Rally-X
 RiverPatrol:        Orca - River Patrol
 Robotron:           Vid Kidz - Robotron: 1984
-RshnAtk:            Konami - Green Beret
                    |                  |         |                         |
+RshnAtk:            Konami - Green Beret
 ScooterShooter:     Konami - Scooter Shooter
 Scramble:           Konami - Scramble
 SEGASYS1:           SEGA System 1
@@ -262,8 +263,8 @@ SolomonsKey:        Tecmo - Solomon's Key
 SpaceRace:          Atari - Space Race
 SpaceInvaders:      Taito - Space Invaders
 Sprint1:            Atari - Sprint 1
-Sprint2:            Atari - Sprint 2
                    |                  |         |                         |
+Sprint2:            Atari - Sprint 2
 SuperBreakout:      Atari - Super Breakout
 Tecmo:              Tecmo 1st Gen
 TIAMC1:             Ekst.- TIA-MC-1
@@ -273,6 +274,6 @@ TraverseUSA:        Irem - Traverse USA
 Ultratank:          Kee Games - Ultra Tank
 VBall:              Technos - V'Ball
 Xevious:            Namco - Xevious
-zaxxon:             SEGA - Zaxxon
                    |                  |         |                         |
+zaxxon:             SEGA - Zaxxon
 ZigZag:             LAX - Zig Zag
