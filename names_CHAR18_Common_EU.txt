@@ -41,7 +41,7 @@ MultiComp:          MultiComp
 Ondra_SPO186:       Ondra SPO 186
 ORAO:               Orao
 Oric:               Oric
-pc88:               PC-88
+PC88:               PC-88
                    |                  |         |                         |
 PDP1:               PDP-1
 PET2001:            Commodore PET 2001

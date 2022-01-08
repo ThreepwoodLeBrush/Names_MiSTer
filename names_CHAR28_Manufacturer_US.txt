@@ -41,7 +41,7 @@ MultiComp:          MultiComp (Z80/6502/6809)
 Ondra_SPO186:       Tesla Ondra SPO 186
 ORAO:               Velebit Informatika Orao
 Oric:               Oric-1/Atmos
-pc88:               NEC PC-8800
+PC88:               NEC PC-8800
                    |                  |         |                         |
 PDP1:               DEC PDP-1
 PET2001:            Commodore PET 2001
