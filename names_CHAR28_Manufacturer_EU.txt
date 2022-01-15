@@ -69,9 +69,9 @@ zx48:               Sinclair ZX48
 ZX81:               Sinclair ZX81
 ZXNext:             ZX Spectrum Next
 Astrocade:          Bally Astrocade
-Atari2600:          Atari 2600
+Atari2600:          Atari 2600 (Old)
 Atari5200:          Atari 5200
-Atari7800:          Atari 7800
+Atari7800:          Atari 2600/7800
 AtariLynx:          Atari Lynx
 AY-3-8500:          GI Pong (AY-3-8500)
 C2650:              Arcadia 2001 & VC 4000
