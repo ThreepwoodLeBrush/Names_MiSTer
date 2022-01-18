@@ -95,9 +95,10 @@ NES:                Nintendo NES                 Famicom Disk System
 NES3D:              Nintendo NES 3D              Famicom Disk System
 Odyssey2:           Philips Videopac G7000
 PICO:               SEGA Pico
-PlayStation:        Sony PlayStation
-SMS:                SEGA Master System              Game Gear
+PSX:                PlayStation:18_Manufacturer_EU
+Saturn:             Sega Saturn
                    |                  |         |                         |
+SMS:                SEGA Master System              Game Gear
 SMS3D:              SEGA Master System 3D           Game Gear
 SNES:               Nintendo Super NES
 TurboGrafx16:       NEC PC Engine Duo              SuperGrafx
@@ -107,8 +108,8 @@ WonderSwan:         Bandai WonderSwan/Color
 EpochGalaxyII:      Epoch Galaxy II
 TomyScramble:       Tomytronic Scramble
 Arduboy:            Arduboy
-Chess:              Chess
                    |                  |         |                         |
+Chess:              Chess
 Chip8:              CHIP-8
 FlappyBird:         Flappy Bird
 GameOfLife:         Conway's Game of Life
@@ -118,8 +119,8 @@ SuperJacob:         Super Jacob Homebrew Core
 ADCTest:            ADC Input and Signal Test
 InputTest:          Controller Input Tester
 jtsdram48:          Jotego SDRAM Test 48 MHz
-jtsdram96:          Jotego SDRAM Test 96 MHz
                    |                  |         |                         |
+jtsdram96:          Jotego SDRAM Test 96 MHz
 memtest:            SDRAM Test
 Gameboy_LLAPI:      Nintendo GB/GBC (LLAPI)
 GBA_LLAPI:          Nintendo GBA (LLAPI)
@@ -129,8 +130,8 @@ NeoGeo_LLAPI:       SNK Neo Geo (LLAPI)
 NES_LLAPI:          Nintendo NES (LLAPI)
 Pacman_LLAPI:       Pac-Man (LLAPI)
 SMS_LLAPI:          SEGA Master System (LLAPI)
-SNES_LLAPI:         Nintendo SNES (LLAPI)
                    |                  |         |                         |
+SNES_LLAPI:         Nintendo SNES (LLAPI)
 TurboGrafx16_LLAPI: NEC PC Engine Duo (LLAPI)
 
 

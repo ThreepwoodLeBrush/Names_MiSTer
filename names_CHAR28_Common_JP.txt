@@ -95,9 +95,10 @@ NES:                Famicom
 NES3D:              Famicom 3D
 Odyssey2:           Magnavox Odyssey2
 PICO:               Kids Computer Pico
-PlayStation:        PlayStation
-SMS:                Mark III
+PSX:                PlayStation:18_Common_EU
+Saturn:             Saturn
                    |                  |         |                         |
+SMS:                Mark III
 SMS3D:              Master System 3D
 SNES:               Super Famicom
 TurboGrafx16:       PC Engine Duo
@@ -107,8 +108,8 @@ WonderSwan:         WonderSwan/Color
 EpochGalaxyII:      Galaxy II
 TomyScramble:       Tomy Scramble
 Arduboy:            Arduboy
-Chess:              Chess
                    |                  |         |                         |
+Chess:              Chess
 Chip8:              CHIP-8
 FlappyBird:         Flappy Bird
 GameOfLife:         Game of Life
@@ -118,8 +119,8 @@ SuperJacob:         Super Jacob
 ADCTest:            ADC Input and Signal Test
 InputTest:          Controller Input Tester
 jtsdram48:          SDRAM Test 48 MHz
-jtsdram96:          SDRAM Test 96 MHz
                    |                  |         |                         |
+jtsdram96:          SDRAM Test 96 MHz
 memtest:            SDRAM Test
 Gameboy_LLAPI:      Game Boy/Color #LLAPI
 GBA_LLAPI:          Game Boy Advance #LLAPI
@@ -129,8 +130,8 @@ NeoGeo_LLAPI:       Neo Geo MVS/AES #LLAPI
 NES_LLAPI:          NES #LLAPI
 Pacman_LLAPI:       Namco - Pac-Man #LLAPI
 SMS_LLAPI:          Master System #LLAPI
-SNES_LLAPI:         Super NES #LLAPI
                    |                  |         |                         |
+SNES_LLAPI:         Super NES #LLAPI
 TurboGrafx16_LLAPI: PC Engine Duo #LLAPI
 
 
