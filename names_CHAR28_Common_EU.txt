@@ -95,7 +95,7 @@ NES:                NES
 NES3D:              NES 3D
 Odyssey2:           Videopac G7000
 PICO:               Kids Computer Pico
-PSX:                PlayStation:18_Common_EU
+PSX:                PlayStation
 Saturn:             Saturn
                    |                  |         |                         |
 SMS:                Master System

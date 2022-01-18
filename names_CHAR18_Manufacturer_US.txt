@@ -95,7 +95,7 @@ NES:                Nint. NES
 NES3D:              Nint. NES 3D
 Odyssey2:           Magn. Odyssey2
 PICO:               SEGA Pico
-PSX:                PlayStation:18_Manufacturer_EU
+PSX:                Sony PlayStation
 Saturn:             Sega Saturn
                    |                  |         |                         |
 SMS:                SEGA Master System

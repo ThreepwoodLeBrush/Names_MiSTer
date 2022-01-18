@@ -95,7 +95,7 @@ NES:                Nintendo NES
 NES3D:              Nintendo NES 3D
 Odyssey2:           Philips Videopac G7000
 PICO:               SEGA Pico
-PSX:                PlayStation:18_Manufacturer_EU
+PSX:                Sony PlayStation
 Saturn:             Sega Saturn
                    |                  |         |                         |
 SMS:                SEGA Master System/Game Gear
