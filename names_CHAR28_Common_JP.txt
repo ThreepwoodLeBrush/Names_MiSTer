@@ -23,7 +23,7 @@ CoCo2:              Tandy Color 2 & Dragon 32
                    |                  |         |                         |
 CoCo3:              Tandy TRS-80 Color Comp. 3
 EDSAC:              EDSAC
-Electron:           Acorn Electron
+AcornElectron:      Electron
 F68kMiSTer:         X68000
 Galaksija:          Galaksija
 Interact:           Interact Home Computer Sys.

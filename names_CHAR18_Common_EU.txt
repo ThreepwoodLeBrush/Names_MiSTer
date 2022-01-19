@@ -23,7 +23,7 @@ CoCo2:              Dragon 32
                    |                  |         |                         |
 CoCo3:              TRS-80 CoCo 3
 EDSAC:              EDSAC
-Electron:           Acorn Electron
+AcornElectron:      Electron
 F68kMiSTer:         X68000
 Galaksija:          Galaksija
 Interact:           Interact
