@@ -55,6 +55,7 @@ SordM5:             M5
 SS:                 SPARCstation
                    |                  |         |                         |
 Svi328:             SV-328
+TatungEinstein:     Einstein TC-01
 Ti994a:             TI-99/4A
 TRS-80:             TRS-80
 TSConf:             TS-Config
@@ -63,8 +64,8 @@ Vector-06C:         Vector-06C
 VIC20:              Commodore VIC-20
 X68000:             X68000
 zet98:              PC-98
-ZX-Spectrum:        ZX Spectrum
                    |                  |         |                         |
+ZX-Spectrum:        ZX Spectrum
 zx48:               ZX48
 ZX81:               ZX81
 ZXNext:             ZX Spectrum Next
@@ -74,8 +75,8 @@ Atari5200:          Atari 5200
 Atari7800:          Atari 2600/7800
 AtariLynx:          Atari Lynx
 AY-3-8500:          AY-3-8500
-C2650:              Arcadia 2001
                    |                  |         |                         |
+C2650:              Arcadia 2001
 ColecoVision:       ColecoVision
 Gameboy:            Game Boy/Color
 Gameboy2P:          Game Boy/Color 2 Player
@@ -85,8 +86,8 @@ GBA2P:              Game Boy Advance 2 Player
 Genesis:            Mega Drive
 Genesis3D:          Mega Drive 3D
 GnW:                Game & Watch
-Intellivision:      Intellivision
                    |                  |         |                         |
+Intellivision:      Intellivision
 Intv:               Intellivision
 Jaguar:             Atari Jaguar
 MegaCD:             Mega-CD
@@ -96,8 +97,8 @@ NES3D:              Famicom 3D
 Odyssey2:           Magnavox Odyssey2
 PICO:               Kids Computer Pico
 PSX:                PlayStation
-Saturn:             Saturn
                    |                  |         |                         |
+Saturn:             Saturn
 SMS:                Mark III
 SMS3D:              Master System 3D
 SNES:               Super Famicom
@@ -107,8 +108,8 @@ Vectrex:            Vectrex
 WonderSwan:         WonderSwan/Color
 EpochGalaxyII:      Galaxy II
 TomyScramble:       Tomy Scramble
-Arduboy:            Arduboy
                    |                  |         |                         |
+Arduboy:            Arduboy
 Chess:              Chess
 Chip8:              CHIP-8
 FlappyBird:         Flappy Bird
@@ -118,8 +119,8 @@ mandelbrot:         Mandelbrot Fractal Generator
 SuperJacob:         Super Jacob
 ADCTest:            ADC Input and Signal Test
 InputTest:          Controller Input Tester
-jtsdram48:          SDRAM Test 48 MHz
                    |                  |         |                         |
+jtsdram48:          SDRAM Test 48 MHz
 jtsdram96:          SDRAM Test 96 MHz
 memtest:            SDRAM Test
 Gameboy_LLAPI:      Game Boy/Color #LLAPI
@@ -129,8 +130,8 @@ MegaCD_LLAPI:       Mega-CD #LLAPI
 NeoGeo_LLAPI:       Neo Geo MVS/AES #LLAPI
 NES_LLAPI:          NES #LLAPI
 Pacman_LLAPI:       Namco - Pac-Man #LLAPI
-SMS_LLAPI:          Master System #LLAPI
                    |                  |         |                         |
+SMS_LLAPI:          Master System #LLAPI
 SNES_LLAPI:         Super NES #LLAPI
 TurboGrafx16_LLAPI: PC Engine Duo #LLAPI
 
