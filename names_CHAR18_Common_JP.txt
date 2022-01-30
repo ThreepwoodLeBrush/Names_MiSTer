@@ -213,7 +213,7 @@ jtkicker:           Konami - Shao-Lin's Road
                    |                  |         |                         |
 jtlabrun:           Konami - Labyrinth Runner
 jtmx5k:             Konami - Flak Attack
-jtmikie:            Konami - Shinnyuu Shain Touru-kun
+jtmikie:            Konami - Shinnyuu Shain Tooru-kun
 jtninja:            Data East - DragonNinja
 jtrumble:           Capcom - The Speed Rumbler
 jtsarms:            Capcom - Hyper Dyne Side Arms
@@ -226,7 +226,7 @@ jts16b1:            SEGA System 16B1
 jts16b2:            SEGA System 16B2
 jts16b3:            SEGA System 16B3
 jts16b:             SEGA System 16B
-jtsbaskI:           jtsbaskl:18_Common_EU
+jtsbask1:           jtsbaskl:18_Common_EU
 jtsbaskt:           jtsbaskl:18_Common_EU
 jttora:             Capcom - Tora e no Michi
 jttrojan:           Capcom - Tatakai no Banka
@@ -236,7 +236,7 @@ jtyiear:            Konami - Yie Ar Kung-Fu
 LadyBug:            Universal - Lady Bug
 LunarLander:        Atari - Lunar Lander
 MarioBros:          Nintendo - Mario Brothers
-MasterSystem:       SEGA System E
+Master System:      MasterSystem:18_Common_EU
 MCR1:               Bally Midway MCR-1
 MCR2:               Bally Midway MCR-2
 MCR3:               Bally Midway MCR-3
