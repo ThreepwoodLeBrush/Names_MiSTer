@@ -153,7 +153,7 @@ Bagman:             Valadon Aut. - Bagman
 Berzerk:            Stern Elecr. - Berzerk
 BlackWidow:         Atari - Black Widow
 BombJack:           Tehkan - Bomb Jack
-breakout:           Atari - Breakout
+Breakout:           breakout:18_Common_EU
 BurgerTime:         Data East - Hamburger
                    |                  |         |                         |
 BurningRubber:      Data East - Burnin' Rubber
@@ -186,7 +186,7 @@ GnG:                Capcom - Makaimura -old-
 Gyruss:             Konami - Gyruss
 IremM62:            Irem M62
 IronHorse:          Konami - Dai Ressha Goutou
-jailbreak:          Konami - Manhattan 24 Bunsho: New York City 151-Nishi-Dai 100 Street
+Jailbreak:          jailbreak:18_Common_JP
 jt1942:             Capcom - 1942
                    |                  |         |                         |
 jt1943:             Capcom - 1943: Middouei Kaisen
@@ -201,8 +201,8 @@ jtcps1:             Capcom CPS-1
 jtcps15:            Capcom CPS-1.5
                    |                  |         |                         |
 jtcps2:             Capcom CPS-2
-jtdd2:              Technos - Double Dragon II: The Revenge
 jtdd:               Technos - Double Dragon
+jtdd2:              Technos - Double Dragon II: The Revenge
 jtexed:             Capcom - Exed Exes
 jtf1dream:          Capcom - F-1 Dream
 jtflane:            Capcom - Fast Lane
@@ -212,22 +212,22 @@ jthige:             Capcom - Pirate Ship Higemaru
 jtkicker:           Konami - Shao-Lin's Road
                    |                  |         |                         |
 jtlabrun:           Konami - Labyrinth Runner
-jtmx5k:             Konami - Flak Attack
 jtmikie:            Konami - Shinnyuu Shain Tooru-kun
+jtmx5k:             Konami - Flak Attack
 jtninja:            Data East - DragonNinja
 jtrumble:           Capcom - The Speed Rumbler
-jtsarms:            Capcom - Hyper Dyne Side Arms
-jtsf:               Capcom - Street Fighter
-jtsectionz:         Capcom - Section Z
 jts16:              SEGA System 16
 jts16a2:            SEGA System 16A2
-                   |                  |         |                         |
 jts16b1:            SEGA System 16B1
 jts16b2:            SEGA System 16B2
 jts16b3:            SEGA System 16B3
+                   |                  |         |                         |
 jts16b:             SEGA System 16B
+jtsarms:            Capcom - Hyper Dyne Side Arms
 jtsbask1:           Konami - Super Basketball -version I-
 jtsbaskt:           Konami - Super Basketball -version H-
+jtsf:               Capcom - Street Fighter
+jtsectionz:         Capcom - Section Z
 jttora:             Capcom - Tora e no Michi
 jttrojan:           Capcom - Tatakai no Banka
 jtvulgus:           Capcom - Vulgus
@@ -268,8 +268,8 @@ SilverLand:         Falcon - Silver Land
                    |                  |         |                         |
 SnapJack:           Universal - Snap Jack
 SolomonsKey:        Tecmo - Solomon no Kagi
-SpaceRace:          Atari - Space Race
 SpaceInvaders:      Taito - Space Invaders
+SpaceRace:          Atari - Space Race
 Sprint1:            Atari - Sprint 1
 Sprint2:            Atari - Sprint 2
 Subs:               Atari - Subs
@@ -283,5 +283,5 @@ TraverseUSA:        Irem - Zippy Race
 Ultratank:          Kee Games - Ultra Tank
 VBall:              Technos - U.S. Championship V'Ball
 Xevious:            Namco - Xevious
-zaxxon:             SEGA - Zaxxon
+Zaxxon:             zaxxon:18_Common_EU
 ZigZag:             LAX - Zig Zag
