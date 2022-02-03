@@ -134,6 +134,8 @@ Pacman_LLAPI:       Pac-Man (LLAPI)
 SMS_LLAPI:          SEGA Master System (LLAPI)
 SNES_LLAPI:         Nintendo SNES (LLAPI)
 TurboGrafx16_LLAPI: NEC TurboGrafx-16/CD (LLAPI)
+arcade_SMS:         SEGA System E
+arcade_NeoGeo:      SNK NeoGeo MVS
 
 
 
@@ -236,15 +238,14 @@ jtyiear:            Konami - Yie Ar Kung-Fu
 LadyBug:            Universal - Lady Bug
 LunarLander:        Atari - Lunar Lander
 MarioBros:          Nintendo - Mario Bros.
-MasterSystem:       Master System:18_Common_JP
 MCR1:               Bally Midway MCR-1
 MCR2:               Bally Midway MCR-2
 MCR3:               Bally Midway MCR-3
 MCR3Mono:           Bally Midway MCR-3 Monoboard
 MCR3Scroll:         Bally Midway MCR-3 Scroll
 MoonPatrol:         Irem - Moon Patrol
-                   |                  |         |                         |
 MrDo:               Universal - Mr. Do!
+                   |                  |         |                         |
 NinjaKun:           UPL - Ninja Kun
 Pacman:             Namco - Pac-Man
 Pengo:              Coreland - Pengo
@@ -254,8 +255,8 @@ Pleiads:            Centuri - Pleiades
 PolyPlay:           VEB Polytechnik - Poly-Play
 Pong:               Atari - Pong
 Pooyan:             Stern Elect. - Pooyan
-                   |                  |         |                         |
 Popeye:             Nintendo - Popeye
+                   |                  |         |                         |
 QBert:              Gottlieb - Q'Bert
 RallyX:             Namco - Rally-X
 RiverPatrol:        Orca - River Patrol
@@ -265,8 +266,8 @@ ScooterShooter:     Konami - Scooter Shooter
 Scramble:           Konami - Scramble
 SEGASYS1:           SEGA System 1
 SilverLand:         Falcon - Silver Land
-                   |                  |         |                         |
 SnapJack:           Universal - Snap Jack
+                   |                  |         |                         |
 SolomonsKey:        Tecmo - Solomon's Key
 SpaceInvaders:      Taito - Space Invaders
 SpaceRace:          Atari - Space Race
@@ -276,8 +277,8 @@ Subs:               Atari - Subs
 SuperBreakout:      Atari - Super Breakout
 Tecmo:              Tecmo 1st Gen
 TIAMC1:             Ekstrema-Ukraina TIA-MC-1
-                   |                  |         |                         |
 TimePilot:          Konami - Time Pilot
+                   |                  |         |                         |
 TimePilot84:        Konami - Time Pilot '84: Further Into Unknown World
 TraverseUSA:        Irem - MotoRace USA
 Ultratank:          Kee Games - Ultra Tank
