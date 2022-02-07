@@ -67,7 +67,7 @@ zet98:              PC-98
                    |                  |         |                         |
 ZX-Spectrum:        ZX Spectrum
 zx48:               ZX48
-ZX81:               ZX81
+ZX81:               TS-1500
 ZXNext:             ZX Spectrum Next
 Astrocade:          Bally Astrocade
 Atari2600:          Atari 2600 (Deprecated)
