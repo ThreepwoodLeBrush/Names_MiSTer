@@ -13,7 +13,7 @@ Arcadia:            Arcadia 2001
 Archie:             Acorn Archimedes
 Atari800:           Atari 800XL/...
 AtariST:            Atari ST/STE
-AcornAtom:          Acorn Atom
+AcornAtom:          Atom
 BBCMicro:           BBC Micro/Master
 BK0011M:            BK0011M
 C16:                Commodore 16
