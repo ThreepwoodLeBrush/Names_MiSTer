@@ -30,7 +30,7 @@ Interact:           Interact Home Computer Sys.
 Jupiter:            Jupiter Ace
 KC87:               Robotron KC 87
 Laser310:           Laser 350/500/700
-lynx48:             Lynx 48/96K
+Lynx48:             Lynx 48/96K
                    |                  |         |                         |
 MacPlus:            Macintosh Plus
 Memotech-MTX:       Memotech MTX
@@ -41,7 +41,7 @@ MultiComp:          MultiComp (Z80/6502/6809)
 Ondra_SPO186:       Ondra SPO 186
 ORAO:               Orao
 Oric:               Oric
-PC88:               PC-88
+PC88:               PC-8801
                    |                  |         |                         |
 PDP1:               PDP-1
 PET2001:            Commodore PET 2001
@@ -69,13 +69,14 @@ ZX-Spectrum:        ZX Spectrum
 zx48:               ZX48
 ZX81:               ZX81
 ZXNext:             ZX Spectrum Next
+AdventureVision:    Adventure Vision
 Astrocade:          Bally Astrocade
 Atari2600:          Atari 2600 (Deprecated)
 Atari5200:          Atari 5200
 Atari7800:          Atari 2600/7800
 AtariLynx:          Atari Lynx
-AY-3-8500:          AY-3-8500
                    |                  |         |                         |
+AY-3-8500:          AY-3-8500
 C2650:              Arcadia 2001
 ColecoVision:       ColecoVision
 Gameboy:            Game Boy/Color
@@ -85,8 +86,8 @@ GBA:                Game Boy Advance
 GBA2P:              Game Boy Advance 2 Player
 Genesis:            Mega Drive
 Genesis3D:          Mega Drive 3D
-GnW:                Game & Watch
                    |                  |         |                         |
+GnW:                Game & Watch
 Intellivision:      Intellivision
 Intv:               Intellivision
 Jaguar:             Atari Jaguar
@@ -96,8 +97,8 @@ NES:                Famicom
 NES3D:              Famicom 3D
 Odyssey2:           Magnavox Odyssey2
 PICO:               Kids Computer Pico
-PSX:                PlayStation
                    |                  |         |                         |
+PSX:                PlayStation
 Saturn:             Saturn
 SMS:                Mark III
 SMS3D:              Master System 3D
@@ -107,8 +108,8 @@ VC4000:             Video Computer 4000
 Vectrex:            Vectrex
 WonderSwan:         WonderSwan/Color
 EpochGalaxyII:      Galaxy II
-TomyScramble:       Tomy Scramble
                    |                  |         |                         |
+TomyScramble:       Tomy Scramble
 Arduboy:            Arduboy
 Chess:              Chess
 Chip8:              CHIP-8
@@ -116,10 +117,11 @@ FlappyBird:         Flappy Bird
 GameOfLife:         Game of Life
 Hack:               Nand2Tetris Hack
 mandelbrot:         Mandelbrot Fractal Generator
+SlugCross:          Slug Cross
 SuperJacob:         Super Jacob
+                   |                  |         |                         |
 ADCTest:            ADC Input and Signal Test
 InputTest:          Controller Input Tester
-                   |                  |         |                         |
 jtsdram48:          SDRAM Test 48 MHz
 jtsdram96:          SDRAM Test 96 MHz
 memtest:            SDRAM Test
@@ -128,9 +130,9 @@ GBA_LLAPI:          Game Boy Advance #LLAPI
 Genesis_LLAPI:      Mega Drive #LLAPI
 MegaCD_LLAPI:       Mega-CD #LLAPI
 NeoGeo_LLAPI:       Neo Geo MVS/AES #LLAPI
+                   |                  |         |                         |
 NES_LLAPI:          NES #LLAPI
 Pacman_LLAPI:       Namco - Pac-Man #LLAPI
-                   |                  |         |                         |
 SMS_LLAPI:          Master System #LLAPI
 SNES_LLAPI:         Super NES #LLAPI
 TurboGrafx16_LLAPI: PC Engine Duo #LLAPI
