@@ -14,16 +14,16 @@ Archie:             Acorn Archimedes
 Atari800:           Atari 800XL/65XE/130XE
 AtariST:            Atari ST/STE
 AcornAtom:          Acorn Atom
+AcornElectron:      Acorn Electron
 BBCMicro:           BBC Micro B/Master 128
 BK0011M:            Electronika BK-0011M
 C16:                Commodore 16 & Plus/4
 C64:                Commodore 64
 ChannelF:           Fairchild Channel F
-CoCo2:              Tandy Color 2 & Dragon 32
                    |                  |         |                         |
+CoCo2:              Tandy Color 2 & Dragon 32
 CoCo3:              Tandy TRS-80 Color Comp. 3
 EDSAC:              EDSAC
-AcornElectron:      Acorn Electron
 F68kMiSTer:         Sharp X68000
 Galaksija:          Galaksija
 Interact:           Interact Home Computer Sys.
@@ -55,6 +55,7 @@ SordM5:             Sord M5
 SS:                 Sun SparcStation (NeXT)
                    |                  |         |                         |
 Svi328:             Spectravideo SV-328
+System1:            Acorn System 1
 TatungEinstein:     Tatung Einstein TC-01
 Ti994a:             Texas Instruments TI-99/4A
 TRS-80:             Tandy TRS-80 Model I
@@ -63,8 +64,8 @@ UK101:              Compukit UK101
 Vector-06C:         Vector-06C
 VIC20:              Commodore VIC-20
 X68000:             Sharp X68000
-zet98:              NEC PC-9800
                    |                  |         |                         |
+zet98:              NEC PC-9800
 ZX-Spectrum:        Sinclair ZX Spectrum
 zx48:               Sinclair ZX48
 ZX81:               Timex Sinclair TS-1500
@@ -74,8 +75,8 @@ Astrocade:          Bally Astrocade
 Atari2600:          Atari 2600 (Deprecated)
 Atari5200:          Atari 5200
 Atari7800:          Atari 2600/7800
-AtariLynx:          Atari Lynx
                    |                  |         |                         |
+AtariLynx:          Atari Lynx
 AY-3-8500:          GI Pong (AY-3-8500)
 C2650:              Arcadia 2001 & VC 4000
 ColecoVision:       ColecoVision & SEGA SG-1000
@@ -85,8 +86,8 @@ Gameboy2Pultrawide: Nintendo Game Boy/Color 2PW
 GBA:                Nintendo Game Boy Advance
 GBA2P:              Nintendo Game Boy Advance 2P
 Genesis:            SEGA Genesis
-Genesis3D:          SEGA Genesis 3D
                    |                  |         |                         |
+Genesis3D:          SEGA Genesis 3D
 GnW:                Nintendo Game & Watch
 Intellivision:      Mattel Intellivision
 Intv:               Mattel Intellivision
@@ -96,8 +97,8 @@ NeoGeo:             SNK Neo Geo MVS/AES
 NES:                Nintendo NES
 NES3D:              Nintendo NES 3D
 Odyssey2:           Magnavox Odyssey2
-PICO:               SEGA Pico
                    |                  |         |                         |
+PICO:               SEGA Pico
 PSX:                Sony PlayStation
 Saturn:             Sega Saturn
 SMS:                SEGA Master System/Game Gear
@@ -107,8 +108,8 @@ TurboGrafx16:       NEC Turbo Duo
 VC4000:             Interton Video Computer 4000
 Vectrex:            GCE Vectrex
 WonderSwan:         Bandai WonderSwan/Color
-EpochGalaxyII:      Epoch Galaxy II
                    |                  |         |                         |
+EpochGalaxyII:      Epoch Galaxy II
 TomyScramble:       Tomytronic Scramble
 Arduboy:            Arduboy
 Chess:              Chess
@@ -118,8 +119,8 @@ GameOfLife:         Conway's Game of Life
 Hack:               Nand2Tetris Hack Computer
 mandelbrot:         Mandelbrot Fractal Generator
 SlugCross:          Slug Cross
-SuperJacob:         Super Jacob Homebrew Core
                    |                  |         |                         |
+SuperJacob:         Super Jacob Homebrew Core
 ADCTest:            ADC Input and Signal Test
 InputTest:          Controller Input Tester
 jtsdram48:          Jotego SDRAM Test 48 MHz
@@ -129,8 +130,8 @@ Gameboy_LLAPI:      Nintendo GB/GBC (LLAPI)
 GBA_LLAPI:          Nintendo GBA (LLAPI)
 Genesis_LLAPI:      SEGA Genesis (LLAPI)
 MegaCD_LLAPI:       SEGA CD (LLAPI)
-NeoGeo_LLAPI:       SNK Neo Geo (LLAPI)
                    |                  |         |                         |
+NeoGeo_LLAPI:       SNK Neo Geo (LLAPI)
 NES_LLAPI:          Nintendo NES (LLAPI)
 Pacman_LLAPI:       Pac-Man (LLAPI)
 SMS_LLAPI:          SEGA Master System (LLAPI)

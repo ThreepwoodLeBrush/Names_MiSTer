@@ -14,16 +14,16 @@ Archie:             Acorn Archimedes
 Atari800:           Atari 800XL/...
 AtariST:            Atari ST/STE
 AcornAtom:          Atom
+AcornElectron:      Electron
 BBCMicro:           BBC Micro B/Master 128
 BK0011M:            BK0011M
 C16:                Commodore 16 & Plus/4
 C64:                Commodore 64
 ChannelF:           Channel F
-CoCo2:              Dragon 32 & Tandy Color 2
                    |                  |         |                         |
+CoCo2:              Dragon 32 & Tandy Color 2
 CoCo3:              Tandy TRS-80 Color Comp. 3
 EDSAC:              EDSAC
-AcornElectron:      Electron
 F68kMiSTer:         X68000
 Galaksija:          Galaksija
 Interact:           Interact Home Computer Sys.
@@ -55,6 +55,7 @@ SordM5:             M5
 SS:                 SPARCstation
                    |                  |         |                         |
 Svi328:             SV-328
+System1:            System 1
 TatungEinstein:     Einstein TC-01
 Ti994a:             TI-99/4A
 TRS-80:             TRS-80
@@ -63,8 +64,8 @@ UK101:              UK101
 Vector-06C:         Vector-06C
 VIC20:              Commodore VIC-20
 X68000:             X68000
-zet98:              PC-98
                    |                  |         |                         |
+zet98:              PC-98
 ZX-Spectrum:        ZX Spectrum
 zx48:               ZX48
 ZX81:               ZX81
@@ -74,8 +75,8 @@ Astrocade:          Bally Astrocade
 Atari2600:          Atari 2600 (Deprecated)
 Atari5200:          Atari 5200
 Atari7800:          Atari 2600/7800
-AtariLynx:          Atari Lynx
                    |                  |         |                         |
+AtariLynx:          Atari Lynx
 AY-3-8500:          AY-3-8500
 C2650:              Arcadia 2001
 ColecoVision:       ColecoVision
@@ -85,8 +86,8 @@ Gameboy2Pultrawide: Game Boy/Color 2 Player Wide
 GBA:                Game Boy Advance
 GBA2P:              Game Boy Advance 2 Player
 Genesis:            Mega Drive
-Genesis3D:          Mega Drive 3D
                    |                  |         |                         |
+Genesis3D:          Mega Drive 3D
 GnW:                Game & Watch
 Intellivision:      Intellivision
 Intv:               Intellivision
@@ -96,8 +97,8 @@ NeoGeo:             Neo Geo MVS/AES
 NES:                NES
 NES3D:              NES 3D
 Odyssey2:           Videopac G7000
-PICO:               Kids Computer Pico
                    |                  |         |                         |
+PICO:               Kids Computer Pico
 PSX:                PlayStation
 Saturn:             Saturn
 SMS:                Master System
@@ -107,8 +108,8 @@ TurboGrafx16:       PC Engine Duo
 VC4000:             Video Computer 4000
 Vectrex:            Vectrex
 WonderSwan:         WonderSwan/Color
-EpochGalaxyII:      Galaxy II
                    |                  |         |                         |
+EpochGalaxyII:      Galaxy II
 TomyScramble:       Tomy Scramble
 Arduboy:            Arduboy
 Chess:              Chess
@@ -118,8 +119,8 @@ GameOfLife:         Game of Life
 Hack:               Nand2Tetris Hack
 mandelbrot:         Mandelbrot Fractal Generator
 SlugCross:          Slug Cross
-SuperJacob:         Super Jacob
                    |                  |         |                         |
+SuperJacob:         Super Jacob
 ADCTest:            ADC Input and Signal Test
 InputTest:          Controller Input Tester
 jtsdram48:          SDRAM Test 48 MHz
@@ -129,8 +130,8 @@ Gameboy_LLAPI:      Game Boy/Color #LLAPI
 GBA_LLAPI:          Game Boy Advance #LLAPI
 Genesis_LLAPI:      Mega Drive #LLAPI
 MegaCD_LLAPI:       Mega-CD #LLAPI
-NeoGeo_LLAPI:       Neo Geo MVS/AES #LLAPI
                    |                  |         |                         |
+NeoGeo_LLAPI:       Neo Geo MVS/AES #LLAPI
 NES_LLAPI:          NES #LLAPI
 Pacman_LLAPI:       Namco - Pac-Man #LLAPI
 SMS_LLAPI:          Master System #LLAPI

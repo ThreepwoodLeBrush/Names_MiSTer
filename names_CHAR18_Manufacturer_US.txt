@@ -14,16 +14,16 @@ Archie:             Acorn Archimedes
 Atari800:           Atari 800XL/...
 AtariST:            Atari ST/STE
 AcornAtom:          Acorn Atom
+AcornElectron:      Acorn Electron
 BBCMicro:           BBC Micro/Master
 BK0011M:            Elec. BK-0011M
 C16:                Comm. 16 & Plus/4
 C64:                Comm. 64
 ChannelF:           Fair. Channel F
-CoCo2:              Tandy TRS-80 CoCo2
                    |                  |         |                         |
+CoCo2:              Tandy TRS-80 CoCo2
 CoCo3:              Tandy TRS-80 CoCo3
 EDSAC:              EDSAC
-AcornElectron:      Acorn Electron
 F68kMiSTer:         Sharp X68000
 Galaksija:          Galaksija
 Interact:           Interact
@@ -55,6 +55,7 @@ SordM5:             Sord M5
 SS:                 Sun SparcStation
                    |                  |         |                         |
 Svi328:             Spec. SV-328
+System1:            Acorn System 1
 TatungEinstein:     Tatung Einstein
 Ti994a:             Texa. TI-99/4A
 TRS-80:             Tandy TRS-80
@@ -63,8 +64,8 @@ UK101:              Compukit UK101
 Vector-06C:         Vector-06C
 VIC20:              Comm. VIC-20
 X68000:             Sharp X68000
-zet98:              NEC PC-9800
                    |                  |         |                         |
+zet98:              NEC PC-9800
 ZX-Spectrum:        Sinc. ZX Spectrum
 zx48:               Sinc. ZX48
 ZX81:               Timex TS-1500
@@ -74,8 +75,8 @@ Astrocade:          Bally Astrocade
 Atari2600:          Atari 2600 (Old)
 Atari5200:          Atari 5200
 Atari7800:          Atari 2600/7800
-AtariLynx:          Atari Lynx
                    |                  |         |                         |
+AtariLynx:          Atari Lynx
 AY-3-8500:          GI Pong AY-3-8500
 C2650:              Arcadia 2001
 ColecoVision:       ColecoVision
@@ -85,8 +86,8 @@ Gameboy2Pultrawide: Nint. GB / GBC 2PW
 GBA:                Nint. GBA
 GBA2P:              Nint. GBA 2 Player
 Genesis:            SEGA Genesis
-Genesis3D:          SEGA Genesis 3D
                    |                  |         |                         |
+Genesis3D:          SEGA Genesis 3D
 GnW:                Nint. Game & Watch
 Intellivision:      Mattel Intelliv.
 Intv:               Mattel Intelliv.
@@ -96,8 +97,8 @@ NeoGeo:             SNK Neo Geo
 NES:                Nint. NES
 NES3D:              Nint. NES 3D
 Odyssey2:           Magn. Odyssey2
-PICO:               SEGA Pico
                    |                  |         |                         |
+PICO:               SEGA Pico
 PSX:                Sony PlayStation
 Saturn:             Sega Saturn
 SMS:                SEGA Master System
@@ -107,8 +108,8 @@ TurboGrafx16:       NEC TurboGrafx-16
 VC4000:             Interton VC 4000
 Vectrex:            GCE Vectrex
 WonderSwan:         Bandai WonderSwan
-EpochGalaxyII:      Epoch Galaxy II
                    |                  |         |                         |
+EpochGalaxyII:      Epoch Galaxy II
 TomyScramble:       Tomy Scramble
 Arduboy:            Arduboy
 Chess:              Chess
@@ -118,8 +119,8 @@ GameOfLife:         Game of Life
 Hack:               Nand2Tetris Hack
 mandelbrot:         Mandelbrot Zoom
 SlugCross:          Slug Cross
-SuperJacob:         Super Jacob
                    |                  |         |                         |
+SuperJacob:         Super Jacob
 ADCTest:            ADC Input Test
 InputTest:          Gamepad Input Test
 jtsdram48:          SDRAM Test 48 MHz
@@ -129,8 +130,8 @@ Gameboy_LLAPI:      Nint. GB/C #LLAPI
 GBA_LLAPI:          Nint. GBA #LLAPI
 Genesis_LLAPI:      SEGA Gen #LLAPI
 MegaCD_LLAPI:       SEGA CD #LLAPI
-NeoGeo_LLAPI:       SNK Neo Geo #LLAPI
                    |                  |         |                         |
+NeoGeo_LLAPI:       SNK Neo Geo #LLAPI
 NES_LLAPI:          Nint. NES #LLAPI
 Pacman_LLAPI:       Pac-Man #LLAPI
 SMS_LLAPI:          SEGA MS #LLAPI
