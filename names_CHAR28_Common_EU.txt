@@ -100,6 +100,7 @@ Odyssey2:           Videopac G7000
                    |                  |         |                         |
 PICO:               Kids Computer Pico
 PSX:                PlayStation
+S32X:               Mega Drive 32X
 Saturn:             Saturn
 SMS:                Master System
 SMS3D:              Master System 3D
@@ -107,8 +108,8 @@ SNES:               Super NES
 TurboGrafx16:       PC Engine Duo
 VC4000:             Video Computer 4000
 Vectrex:            Vectrex
-WonderSwan:         WonderSwan/Color
                    |                  |         |                         |
+WonderSwan:         WonderSwan/Color
 EpochGalaxyII:      Galaxy II
 TomyScramble:       Tomy Scramble
 Arduboy:            Arduboy
@@ -118,8 +119,8 @@ FlappyBird:         Flappy Bird
 GameOfLife:         Game of Life
 Hack:               Nand2Tetris Hack
 mandelbrot:         Mandelbrot Fractal Generator
-SlugCross:          Slug Cross
                    |                  |         |                         |
+SlugCross:          Slug Cross
 SuperJacob:         Super Jacob
 ADCTest:            ADC Input and Signal Test
 InputTest:          Controller Input Tester
@@ -129,8 +130,8 @@ memtest:            SDRAM Test
 Gameboy_LLAPI:      Game Boy/Color #LLAPI
 GBA_LLAPI:          Game Boy Advance #LLAPI
 Genesis_LLAPI:      Mega Drive #LLAPI
-MegaCD_LLAPI:       Mega-CD #LLAPI
                    |                  |         |                         |
+MegaCD_LLAPI:       Mega-CD #LLAPI
 NeoGeo_LLAPI:       Neo Geo MVS/AES #LLAPI
 NES_LLAPI:          NES #LLAPI
 Pacman_LLAPI:       Namco - Pac-Man #LLAPI
