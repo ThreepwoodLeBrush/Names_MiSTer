@@ -225,9 +225,10 @@ jtmikie:            Konami - Mikie
 jtmx5k:             Konami - Flak Attack
 jtninja:            Data East - Bad Dudes Vs DragonNinja
 jtpinpon:           Konami - Konami's Ping Pong
+jttrack:            Konami - Track & Field
 jtrastan:           Taito - Rastan
-jtroadf:            Konami Road Fighter
                    |                  |         |                         |
+jtroadf:            Konami Road Fighter
 jtrumble:           Capcom - The Speed Rumbler
 jts16:              SEGA System 16
 jts16a2:            SEGA System 16A2
@@ -237,8 +238,8 @@ jts16b3:            SEGA System 16B3
 jts16b:             SEGA System 16B
 jtsarms:            Capcom - Hyper Dyne Side Arms
 jtsbask1:           Konami - Super Basketball -version I-
-jtsbaskt:           Konami - Super Basketball -version H-
                    |                  |         |                         |
+jtsbaskt:           Konami - Super Basketball -version H-
 jtslyspy:           Data East - Sly Spy
 jtsf:               Capcom - Street Fighter
 jtsectionz:         Capcom - Section Z
@@ -248,8 +249,8 @@ jtvulgus:           Capcom - Vulgus
 jtyiear:            Konami - Yie Ar Kung-Fu
 LadyBug:            Universal - Lady Bug
 LunarLander:        Atari - Lunar Lander
-MarioBros:          Nintendo - Mario Bros.
                    |                  |         |                         |
+MarioBros:          Nintendo - Mario Bros.
 MCR1:               Bally Midway MCR-1
 MCR2:               Bally Midway MCR-2
 MCR3:               Bally Midway MCR-3
@@ -259,8 +260,8 @@ MoonPatrol:         Irem - Moon Patrol
 MrDo:               Universal - Mr. Do!
 NinjaKun:           UPL - Ninja Kun
 Pacman:             Namco - Pac-Man
-Pengo:              Coreland - Pengo
                    |                  |         |                         |
+Pengo:              Coreland - Pengo
 PenguinKunWars:     UPL - Penguin-Kun Wars
 Phoenix:            Centuri - Phoenix
 Pleiads:            Centuri - Pleiades
@@ -270,8 +271,8 @@ Pooyan:             Stern Elect. - Pooyan
 Popeye:             Nintendo - Popeye
 QBert:              Gottlieb - Q'Bert
 RallyX:             Namco - Rally-X
-RiverPatrol:        Orca - River Patrol
                    |                  |         |                         |
+RiverPatrol:        Orca - River Patrol
 Robotron:           Vid Kidz - Robotron: 1984
 RshnAtk:            Konami - Rush'n Attack
 ScooterShooter:     Konami - Scooter Shooter
@@ -281,8 +282,8 @@ SilverLand:         Falcon - Silver Land
 SnapJack:           Universal - Snap Jack
 SolomonsKey:        Tecmo - Solomon's Key
 SpaceInvaders:      Taito - Space Invaders
-SpaceRace:          Atari - Space Race
                    |                  |         |                         |
+SpaceRace:          Atari - Space Race
 Sprint1:            Atari - Sprint 1
 Sprint2:            Atari - Sprint 2
 Subs:               Atari - Subs
@@ -292,8 +293,8 @@ TIAMC1:             Ekstrema-Ukraina TIA-MC-1
 TimePilot:          Konami - Time Pilot
 TimePilot84:        Konami - Time Pilot '84: Further Into Unknown World
 toaplan1:           toaplan1:18:Common_EU
-TraverseUSA:        Irem - MotoRace USA
                    |                  |         |                         |
+TraverseUSA:        Irem - MotoRace USA
 Ultratank:          Kee Games - Ultra Tank
 VBall:              Technos - U.S. Championship V'Ball
 Xevious:            Namco - Xevious
