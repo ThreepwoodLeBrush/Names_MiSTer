@@ -289,12 +289,14 @@ Sprint2:            Atari - Sprint 2
 Subs:               Atari - Subs
 SuperBreakout:      Atari - Super Breakout
 Tecmo:              Tecmo 1st Gen
+terracresta:        Nichibutsu - Terra Cresta
 TIAMC1:             Ekstrema-Ukraina TIA-MC-1
 TimePilot:          Konami - Time Pilot
 TimePilot84:        Konami - Time Pilot '84: Further Into Unknown World
-toaplan1:           toaplan1:18:Common_EU
                    |                  |         |                         |
+toaplan1:           Toaplan Version 1
 TraverseUSA:        Irem - Traverse USA
+TurkeyShoot:        Williams Elect. - Turkey Shoot
 Ultratank:          Kee Games - Ultra Tank
 VBall:              Technos - U.S. Championship V'Ball
 Xevious:            Namco - Xevious
