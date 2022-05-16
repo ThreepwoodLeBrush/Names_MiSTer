@@ -92,12 +92,13 @@ GnW:                Game & Watch
 Intellivision:      Intellivision
 Intv:               Intellivision
 Jaguar:             Atari Jaguar
+Konix:              Multisystem
 MegaCD:             SEGA CD
 NeoGeo:             Neo Geo MVS/AES
 NES:                NES
 NES3D:              NES 3D
-Odyssey2:           Magnavox Odyssey2
                    |                  |         |                         |
+Odyssey2:           Magnavox Odyssey2
 PICO:               Kids Computer Pico
 PSX:                PlayStation
 S32X:               Genesis 32X
@@ -107,8 +108,8 @@ SMS3D:              Master System 3D
 SNES:               Super NES
 TurboGrafx16:       Turbo Duo
 VC4000:             VC 4000
-Vectrex:            Vectrex
                    |                  |         |                         |
+Vectrex:            Vectrex
 WonderSwan:         WonderSwan/Color
 EpochGalaxyII:      Galaxy II
 TomyScramble:       Tomy Scramble
@@ -118,8 +119,9 @@ Chip8:              CHIP-8
 FlappyBird:         Flappy Bird
 GameOfLife:         Game of Life
 Hack:               Nand2Tetris Hack
-mandelbrot:         Mandelbrot Zoom
                    |                  |         |                         |
+mandelbrot:         Mandelbrot Zoom
+240pSuite:          240p Test Suite
 SlugCross:          Slug Cross
 SuperJacob:         Super Jacob
 ADCTest:            ADC Input Test
@@ -128,9 +130,9 @@ jtsdram48:          SDRAM Test 48 MHz
 jtsdram96:          SDRAM Test 96 MHz
 memtest:            SDRAM Test
 Gameboy_LLAPI:      GB/GBC #LLAPI
+                   |                  |         |                         |
 GBA_LLAPI:          GBA #LLAPI
 Genesis_LLAPI:      Genesis #LLAPI
-                   |                  |         |                         |
 MegaCD_LLAPI:       SEGA CD #LLAPI
 NeoGeo_LLAPI:       Neo Geo #LLAPI
 NES_LLAPI:          NES #LLAPI
@@ -139,6 +141,7 @@ SMS_LLAPI:          SMS #LLAPI
 SNES_LLAPI:         SNES #LLAPI
 TurboGrafx16_LLAPI: TGFX-16/CD #LLAPI
 arcade_SMS:         SEGA System E
+                   |                  |         |                         |
 arcade_NeoGeo:      SNK NeoGeo MVS
 
 
