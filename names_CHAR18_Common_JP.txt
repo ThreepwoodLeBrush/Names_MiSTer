@@ -23,6 +23,7 @@ ChannelF:           Channel F
                    |                  |         |                         |
 CoCo2:              TRS-80 CoCo 2
 CoCo3:              TRS-80 CoCo 3
+ColecoAdam:         Coleco Adam
 EDSAC:              EDSAC
 F68kMiSTer:         X68000
 Galaksija:          Galaksija
@@ -30,8 +31,8 @@ Interact:           Interact
 Jupiter:            Jupiter Ace
 KC87:               Robotron KC 87
 Laser310:           Laser 350/500/700
-Lynx48:             Lynx 48/96K
                    |                  |         |                         |
+Lynx48:             Lynx 48/96K
 MacPlus:            Macintosh Plus
 Memotech-MTX:       Memotech MTX
 Minimig:            Amiga
@@ -41,8 +42,8 @@ MultiComp:          MultiComp
 Ondra_SPO186:       Ondra SPO 186
 ORAO:               Orao
 Oric:               Oric
-PC88:               PC-8801
                    |                  |         |                         |
+PC88:               PC-8801
 PDP1:               PDP-1
 PET2001:            Commodore PET 2001
 PMD85:              PMD 85-2A
@@ -52,8 +53,8 @@ SAMCoupe:           SAM Coupe
 SharpMZ:            Sharp MZ
 Specialist:         Specialist/MX
 SordM5:             M5
-SS:                 SPARCstation
                    |                  |         |                         |
+SS:                 SPARCstation
 Svi328:             SV-328
 System1:            System 1
 TatungEinstein:     Einstein
@@ -63,8 +64,8 @@ TSConf:             TS-Config
 UK101:              UK101
 Vector-06C:         Vector-06C
 VIC20:              Commodore VIC-20
-X68000:             X68000
                    |                  |         |                         |
+X68000:             X68000
 zet98:              PC-98
 ZX-Spectrum:        ZX Spectrum
 zx48:               ZX48
@@ -74,8 +75,8 @@ AdventureVision:    Adventure Vision
 Astrocade:          Bally Astrocade
 Atari2600:          Atari 2600 (Old)
 Atari5200:          Atari 5200
-Atari7800:          Atari 2600/7800
                    |                  |         |                         |
+Atari7800:          Atari 2600/7800
 AtariLynx:          Atari Lynx
 AY-3-8500:          AY-3-8500
 C2650:              Arcadia 2001
@@ -85,8 +86,8 @@ Gameboy2P:          Game Boy/Color 2P
 Gameboy2Pultrawide: Game Boy/Color 2PW
 GBA:                Game Boy Advance
 GBA2P:              Game Boy Adv. 2P
-Genesis:            Mega Drive
                    |                  |         |                         |
+Genesis:            Mega Drive
 Genesis3D:          Mega Drive 3D
 GnW:                Game & Watch
 Intellivision:      Intellivision
@@ -96,8 +97,8 @@ Konix:              Multisystem
 MegaCD:             Mega-CD
 NeoGeo:             Neo Geo MVS/AES
 NES:                Famicom
-NES3D:              Famicom 3D
                    |                  |         |                         |
+NES3D:              Famicom 3D
 Odyssey2:           Magnavox Odyssey2
 PICO:               Kids Computer Pico
 PSX:                PlayStation
@@ -107,8 +108,8 @@ SMS:                Mark III
 SMS3D:              Master System 3D
 SNES:               Super Famicom
 TurboGrafx16:       PC Engine Duo
-VC4000:             VC 4000
                    |                  |         |                         |
+VC4000:             VC 4000
 Vectrex:            Vectrex
 WonderSwan:         WonderSwan/Color
 EpochGalaxyII:      Galaxy II
@@ -118,8 +119,8 @@ Chess:              Chess
 Chip8:              CHIP-8
 FlappyBird:         Flappy Bird
 GameOfLife:         Game of Life
-Hack:               Nand2Tetris Hack
                    |                  |         |                         |
+Hack:               Nand2Tetris Hack
 mandelbrot:         Mandelbrot Zoom
 240pSuite:          240p Test Suite
 SlugCross:          Slug Cross
@@ -129,8 +130,8 @@ InputTest:          Gamepad Input Test
 jtsdram48:          SDRAM Test 48 MHz
 jtsdram96:          SDRAM Test 96 MHz
 memtest:            SDRAM Test
-Gameboy_LLAPI:      GB/GBC #LLAPI
                    |                  |         |                         |
+Gameboy_LLAPI:      GB/GBC #LLAPI
 GBA_LLAPI:          GBA #LLAPI
 Genesis_LLAPI:      Mega Drive #LLAPI
 MegaCD_LLAPI:       Mega-CD #LLAPI
@@ -140,8 +141,8 @@ Pacman_LLAPI:       Puck Man #LLAPI
 SMS_LLAPI:          MS & GG #LLAPI
 SNES_LLAPI:         SFC #LLAPI
 TurboGrafx16_LLAPI: PC Engine #LLAPI
-arcade_SMS:         SEGA System E
                    |                  |         |                         |
+arcade_SMS:         SEGA System E
 arcade_NeoGeo:      SNK NeoGeo MVS
 
 
