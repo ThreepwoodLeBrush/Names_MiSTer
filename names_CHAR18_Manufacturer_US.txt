@@ -105,7 +105,7 @@ PICO:               SEGA Pico
 PSX:                Sony PlayStation
 S32X:               SEGA Genesis 32X
 Saturn:             Sega Saturn
-SGB:                Nint. Super GB
+sgb:                Nint. Super GB
 SMS:                SEGA Master System
 SMS3D:              SEGA Master Sys 3D
                    |                  |         |                         |
