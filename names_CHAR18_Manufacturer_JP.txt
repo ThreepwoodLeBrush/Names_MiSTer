@@ -81,12 +81,13 @@ AtariLynx:          Atari Lynx
 AY-3-8500:          GI Pong AY-3-8500
 C2650:              Arcadia 2001
 ColecoVision:       ColecoVision
+Gamate:             Bit Corp. Gamate
 Gameboy:            Nint. GB / GBC
 Gameboy2P:          Nint. GB / GBC 2P
 Gameboy2Pultrawide: Nint. GB / GBC 2PW
 GBA:                Nint. GBA
-GBA2P:              Nint. GBA 2 Player
                    |                  |         |                         |
+GBA2P:              Nint. GBA 2 Player
 Genesis:            SEGA Mega Drive
 Genesis3D:          SEGA Mega Drive 3D
 GnW:                Nint. Game & Watch
@@ -96,19 +97,21 @@ Jaguar:             Atari Jaguar
 Konix:              Konix Multisystem
 MegaCD:             SEGA Mega-CD
 NeoGeo:             SNK Neo Geo
-NES:                Nint. Famicom
                    |                  |         |                         |
+NES:                Nint. Famicom
 NES3D:              Nint. Famicom 3D
 Odyssey2:           Magn. Odyssey2
 PICO:               SEGA Pico
 PSX:                Sony PlayStation
 S32X:               SEGA Super 32X
 Saturn:             Sega Saturn
+SGB:                Nint. Super GB
 SMS:                SEGA Mark III
 SMS3D:              SEGA Mark III 3D
-SNES:               Nint Super Famicom
-TurboGrafx16:       NEC PC Engine/CD
                    |                  |         |                         |
+SNES:               Nint Super Famicom
+SuperVision:        Wata. SuperVision
+TurboGrafx16:       NEC PC Engine/CD
 VC4000:             Interton VC 4000
 Vectrex:            GCE Vectrex
 WonderSwan:         Bandai WonderSwan
@@ -116,10 +119,10 @@ EpochGalaxyII:      Epoch Galaxy II
 TomyScramble:       Tomy Scramble
 Arduboy:            Arduboy
 Chess:              Chess
+                   |                  |         |                         |
 Chip8:              CHIP-8
 FlappyBird:         Flappy Bird
 GameOfLife:         Game of Life
-                   |                  |         |                         |
 Hack:               Nand2Tetris Hack
 mandelbrot:         Mandelbrot Zoom
 240pSuite:          240p Test Suite
@@ -127,10 +130,10 @@ SlugCross:          Slug Cross
 SuperJacob:         Super Jacob
 ADCTest:            ADC Input Test
 InputTest:          Gamepad Input Test
+                   |                  |         |                         |
 jtsdram48:          SDRAM Test 48 MHz
 jtsdram96:          SDRAM Test 96 MHz
 memtest:            SDRAM Test
-                   |                  |         |                         |
 Gameboy_LLAPI:      Nint. GB/C #LLAPI
 GBA_LLAPI:          Nint. GBA #LLAPI
 Genesis_LLAPI:      SEGA MD #LLAPI
@@ -138,10 +141,10 @@ MegaCD_LLAPI:       SEGA MegaCD #LLAPI
 NeoGeo_LLAPI:       SNK Neo Geo #LLAPI
 NES_LLAPI:          Nint. Fami. #LLAPI
 Pacman_LLAPI:       Puck Man #LLAPI
+                   |                  |         |                         |
 SMS_LLAPI:          SEGA MS #LLAPI
 SNES_LLAPI:         Nint. SFC #LLAPI
 TurboGrafx16_LLAPI: NEC PCE/CD #LLAPI
-                   |                  |         |                         |
 arcade_SMS:         SEGA System E
 arcade_NeoGeo:      SNK NeoGeo MVS
 
