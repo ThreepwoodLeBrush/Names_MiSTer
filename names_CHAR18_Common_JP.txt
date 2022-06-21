@@ -215,9 +215,9 @@ jtcomsc:            Konami - Combat School
                    |                  |         |                         |
 jtcontra:           Konami - Contra
 jtcop:              Data East - RoboCop
-jtcps1:             Capcom CPS-1
-jtcps15:            Capcom CPS-1.5
-jtcps2:             Capcom CPS-2
+jtcps1:             Capcom CP System
+jtcps15:            Capcom CP System Dash
+jtcps2:             Capcom CP System II
 jtdd:               Technos - Double Dragon
 jtdd2:              Technos - Double Dragon II: The Revenge
 jtexed:             Capcom - Exed Exes

@@ -215,9 +215,9 @@ jtcomsc:            Konami - Combat School
                    |                  |         |                         |
 jtcontra:           Konami - Gryzor
 jtcop:              Data East - RoboCop
-jtcps1:             Capcom CPS-1
-jtcps15:            Capcom CPS-1.5
-jtcps2:             Capcom CPS-2
+jtcps1:             Capcom CP System
+jtcps15:            Capcom CP System Dash
+jtcps2:             Capcom CP System II
 jtdd:               Technos - DD
 jtdd2:              Technos - DD 2
 jtexed:             Capcom - Exed Exes
