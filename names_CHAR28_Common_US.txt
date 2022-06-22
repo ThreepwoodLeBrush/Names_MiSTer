@@ -105,7 +105,7 @@ PICO:               Kids Computer Pico
 PSX:                PlayStation
 S32X:               Genesis 32X
 Saturn:             Saturn
-sgb:                Super Game Boy
+SGB:                Super Game Boy
 SMS:                Master System
 SMS3D:              Master System 3D
                    |                  |         |                         |
