@@ -59,12 +59,13 @@ Svi328:             SV-328
 System1:            System 1
 TatungEinstein:     Einstein
 Ti994a:             TI-99/4A
+TomyTutor:          Pyuta
 TRS-80:             TRS-80
 TSConf:             TS-Config
 UK101:              UK101
 Vector-06C:         Vector-06C
-VIC20:              Commodore VIC-20
                    |                  |         |                         |
+VIC20:              Commodore VIC-20
 X68000:             X68000
 zet98:              PC-98
 ZX-Spectrum:        ZX Spectrum
@@ -74,8 +75,8 @@ ZXNext:             ZX Spectrum Next
 AdventureVision:    Adventure Vision
 Astrocade:          Bally Astrocade
 Atari2600:          Atari 2600 (Old)
-Atari5200:          Atari 5200
                    |                  |         |                         |
+Atari5200:          Atari 5200
 Atari7800:          Atari 2600/7800
 AtariLynx:          Atari Lynx
 AY-3-8500:          AY-3-8500
@@ -85,8 +86,8 @@ Gamate:             Gamate
 Gameboy:            Game Boy/Color
 Gameboy2P:          Game Boy/Color 2P
 Gameboy2Pultrawide: Game Boy/Color 2PW
-GBA:                Game Boy Advance
                    |                  |         |                         |
+GBA:                Game Boy Advance
 GBA2P:              Game Boy Adv. 2P
 Genesis:            Mega Drive
 Genesis3D:          Mega Drive 3D
@@ -96,8 +97,8 @@ Intv:               Intellivision
 Jaguar:             Atari Jaguar
 Konix:              Multisystem
 MegaCD:             Mega-CD
-NeoGeo:             Neo Geo MVS/AES
                    |                  |         |                         |
+NeoGeo:             Neo Geo MVS/AES
 NES:                Famicom
 NES3D:              Famicom 3D
 Odyssey2:           Magnavox Odyssey2
@@ -107,8 +108,8 @@ S32X:               Super 32X
 Saturn:             Saturn
 SGB:                Super Game Boy
 SMS:                Mark III
-SMS3D:              Master System 3D
                    |                  |         |                         |
+SMS3D:              Master System 3D
 SNES:               Super Famicom
 SuperVision:        SuperVision
 TurboGrafx16:       PC Engine Duo
@@ -118,8 +119,8 @@ WonderSwan:         WonderSwan/Color
 EpochGalaxyII:      Galaxy II
 TomyScramble:       Tomy Scramble
 Arduboy:            Arduboy
-Chess:              Chess
                    |                  |         |                         |
+Chess:              Chess
 Chip8:              CHIP-8
 FlappyBird:         Flappy Bird
 GameOfLife:         Game of Life
@@ -129,8 +130,8 @@ mandelbrot:         Mandelbrot Zoom
 SlugCross:          Slug Cross
 SuperJacob:         Super Jacob
 ADCTest:            ADC Input Test
-InputTest:          Gamepad Input Test
                    |                  |         |                         |
+InputTest:          Gamepad Input Test
 jtsdram48:          SDRAM Test 48 MHz
 jtsdram96:          SDRAM Test 96 MHz
 memtest:            SDRAM Test
@@ -140,8 +141,8 @@ Genesis_LLAPI:      Mega Drive #LLAPI
 MegaCD_LLAPI:       Mega-CD #LLAPI
 NeoGeo_LLAPI:       Neo Geo #LLAPI
 NES_LLAPI:          Famicom #LLAPI
-Pacman_LLAPI:       Puck Man #LLAPI
                    |                  |         |                         |
+Pacman_LLAPI:       Puck Man #LLAPI
 SMS_LLAPI:          MS & GG #LLAPI
 SNES_LLAPI:         SFC #LLAPI
 TurboGrafx16_LLAPI: PC Engine #LLAPI
