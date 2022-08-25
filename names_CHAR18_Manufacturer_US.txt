@@ -44,6 +44,7 @@ ORAO:               Velebit Orao
 Oric:               Oric-1/Atmos
                    |                  |         |                         |
 PC88:               NEC PC-8801
+PCXT:               IBM PC/XT
 PDP1:               DEC PDP-1
 PET2001:            Comm. PET 2001
 PMD85:              Tesla PMD 85-2A
@@ -52,8 +53,8 @@ RX78:               Bandai RX-78
 SAMCoupe:           SAM Coupe
 SharpMZ:            Sharp MZ Series
 Specialist:         Specialist/MX
-SordM5:             Sord M5
                    |                  |         |                         |
+SordM5:             Sord M5
 SS:                 Sun SparcStation
 Svi328:             Spec. SV-328
 System1:            Acorn System 1
@@ -63,8 +64,8 @@ TomyTutor:          Tomy Tutor
 TRS-80:             Tandy TRS-80
 TSConf:             ZX Evo. TS-Config
 UK101:              Compukit UK101
-Vector-06C:         Vector-06C
                    |                  |         |                         |
+Vector-06C:         Vector-06C
 VIC20:              Comm. VIC-20
 X68000:             Sharp X68000
 zet98:              NEC PC-9800
@@ -74,8 +75,8 @@ ZX81:               Timex TS-1500
 ZXNext:             ZX Spectrum Next
 AdventureVision:    Entex Adv. Vision
 Astrocade:          Bally Astrocade
-Atari2600:          Atari 2600 (Old)
                    |                  |         |                         |
+Atari2600:          Atari 2600 (Old)
 Atari5200:          Atari 5200
 Atari7800:          Atari 2600/7800
 AtariLynx:          Atari Lynx
@@ -85,8 +86,8 @@ ColecoVision:       ColecoVision
 Gamate:             Bit Corp. Gamate
 Gameboy:            Nint. GB / GBC
 Gameboy2P:          Nint. GB / GBC 2P
-Gameboy2Pultrawide: Nint. GB / GBC 2PW
                    |                  |         |                         |
+Gameboy2Pultrawide: Nint. GB / GBC 2PW
 GBA:                Nint. GBA
 GBA2P:              Nint. GBA 2 Player
 Genesis:            SEGA Genesis
@@ -96,8 +97,8 @@ Intellivision:      Mattel Intelliv.
 Intv:               Mattel Intelliv.
 Jaguar:             Atari Jaguar
 Konix:              Konix Multisystem
-MegaCD:             SEGA CD
                    |                  |         |                         |
+MegaCD:             SEGA CD
 NeoGeo:             SNK Neo Geo
 NES:                Nint. NES
 NES3D:              Nint. NES 3D
@@ -107,8 +108,8 @@ PSX:                Sony PlayStation
 S32X:               SEGA Genesis 32X
 Saturn:             Sega Saturn
 SGB:                Nint. Super GB
-SMS:                SEGA Master System
                    |                  |         |                         |
+SMS:                SEGA Master System
 SMS3D:              SEGA Master Sys 3D
 SNES:               Nint. Super NES
 SuperVision:        Wata. SuperVision
@@ -118,8 +119,8 @@ Vectrex:            GCE Vectrex
 WonderSwan:         Bandai WonderSwan
 EpochGalaxyII:      Epoch Galaxy II
 TomyScramble:       Tomy Scramble
-Arduboy:            Arduboy
                    |                  |         |                         |
+Arduboy:            Arduboy
 Chess:              Chess
 Chip8:              CHIP-8
 FlappyBird:         Flappy Bird
@@ -129,8 +130,8 @@ mandelbrot:         Mandelbrot Zoom
 240pSuite:          240p Test Suite
 SlugCross:          Slug Cross
 SuperJacob:         Super Jacob
-ADCTest:            ADC Input Test
                    |                  |         |                         |
+ADCTest:            ADC Input Test
 InputTest:          Gamepad Input Test
 jtsdram48:          SDRAM Test 48 MHz
 jtsdram96:          SDRAM Test 96 MHz
@@ -140,8 +141,8 @@ GBA_LLAPI:          Nint. GBA #LLAPI
 Genesis_LLAPI:      SEGA Gen #LLAPI
 MegaCD_LLAPI:       SEGA CD #LLAPI
 NeoGeo_LLAPI:       SNK Neo Geo #LLAPI
-NES_LLAPI:          Nint. NES #LLAPI
                    |                  |         |                         |
+NES_LLAPI:          Nint. NES #LLAPI
 Pacman_LLAPI:       Pac-Man #LLAPI
 SMS_LLAPI:          SEGA MS #LLAPI
 SNES_LLAPI:         Nint. SNES #LLAPI
