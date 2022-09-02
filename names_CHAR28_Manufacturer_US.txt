@@ -19,8 +19,9 @@ BBCMicro:           BBC Micro B/Master 128
 BK0011M:            Electronika BK-0011M
 C16:                Commodore 16 & Plus/4
 C64:                Commodore 64
-ChannelF:           Fairchild Channel F
+Casio_PV-2000:      Casio PV-2000
                    |                  |         |                         |
+ChannelF:           Fairchild Channel F
 CoCo2:              Tandy Color 2 & Dragon 32
 CoCo3:              Tandy TRS-80 Color Comp. 3
 ColecoAdam:         Coleco Adam
@@ -30,8 +31,8 @@ Galaksija:          Galaksija
 Interact:           Interact Home Computer Sys.
 Jupiter:            Jupiter Ace
 KC87:               Robotron KC 87
-Laser310:           VTech Laser 350/500/700
                    |                  |         |                         |
+Laser310:           VTech Laser 350/500/700
 Lynx48:             Camputers Lynx 48/96K
 MacPlus:            Apple Macintosh Plus
 Memotech-MTX:       Memotech MTX
@@ -41,8 +42,8 @@ MSX:                MSX/MSX2/MSX2+/TurboR
 MultiComp:          MultiComp (Z80/6502/6809)
 Ondra_SPO186:       Tesla Ondra SPO 186
 ORAO:               Velebit Informatika Orao
-Oric:               Oric-1/Atmos
                    |                  |         |                         |
+Oric:               Oric-1/Atmos
 PC88:               NEC PC-8801
 PCXT:               IBM Personal Computer XT
 PDP1:               DEC PDP-1
@@ -52,8 +53,8 @@ QL:                 Sinclair QL
 RX78:               Bandai RX-78 Gundam
 SAMCoupe:           SAM Coupe
 SharpMZ:            Sharp MZ Series
-Specialist:         Specialist/MX
                    |                  |         |                         |
+Specialist:         Specialist/MX
 SordM5:             Sord M5
 SS:                 Sun SparcStation (NeXT)
 Svi328:             Spectravideo SV-328
@@ -63,8 +64,8 @@ Ti994a:             Texas Instruments TI-99/4A
 TomyTutor:          Tomy Tutor
 TRS-80:             Tandy TRS-80 Model I
 TSConf:             ZX Evolution (TS-Config)
-UK101:              Compukit UK101
                    |                  |         |                         |
+UK101:              Compukit UK101
 Vector-06C:         Vector-06C
 VIC20:              Commodore VIC-20
 X68000:             Sharp X68000
@@ -74,8 +75,8 @@ zx48:               Sinclair ZX48
 ZX81:               Timex Sinclair TS-1500
 ZXNext:             ZX Spectrum Next
 AdventureVision:    Entex Adventure Vision
-Astrocade:          Bally Astrocade
                    |                  |         |                         |
+Astrocade:          Bally Astrocade
 Atari2600:          Atari 2600 (Deprecated)
 Atari5200:          Atari 5200
 Atari7800:          Atari 2600/7800
@@ -85,8 +86,8 @@ C2650:              Arcadia 2001 & VC 4000
 ColecoVision:       ColecoVision & SEGA SG-1000
 Gamate:             Bit Corp./UMC Gamate
 Gameboy:            Nintendo Game Boy/Color
-Gameboy2P:          Nintendo Game Boy/Color 2P
                    |                  |         |                         |
+Gameboy2P:          Nintendo Game Boy/Color 2P
 Gameboy2Pultrawide: Nintendo Game Boy/Color 2PW
 GBA:                Nintendo Game Boy Advance
 GBA2P:              Nintendo Game Boy Advance 2P
@@ -96,8 +97,8 @@ GnW:                Nintendo Game & Watch
 Intellivision:      Mattel Intellivision
 Intv:               Mattel Intellivision
 Jaguar:             Atari Jaguar
-Konix:              Konix Multisystem
                    |                  |         |                         |
+Konix:              Konix Multisystem
 MegaCD:             SEGA CD
 NeoGeo:             SNK Neo Geo MVS/AES
 NES:                Nintendo NES
@@ -107,8 +108,8 @@ PICO:               SEGA Pico
 PSX:                Sony PlayStation
 S32X:               SEGA Genesis 32X
 Saturn:             Sega Saturn
-SGB:                Nintendo Super Game Boy
                    |                  |         |                         |
+SGB:                Nintendo Super Game Boy
 SMS:                SEGA Master System/Game Gear
 SMS3D:              SEGA Master System 3D
 SNES:               Nintendo Super NES
@@ -118,8 +119,8 @@ VC4000:             Interton Video Computer 4000
 Vectrex:            GCE Vectrex
 WonderSwan:         Bandai WonderSwan/Color
 EpochGalaxyII:      Epoch Galaxy II
-TomyScramble:       Tomytronic Scramble
                    |                  |         |                         |
+TomyScramble:       Tomytronic Scramble
 Arduboy:            Arduboy
 Chess:              Chess
 Chip8:              CHIP-8
@@ -129,8 +130,8 @@ Hack:               Nand2Tetris Hack Computer
 mandelbrot:         Mandelbrot Fractal Generator
 240pSuite:          240p Test Suite
 SlugCross:          Slug Cross
-SuperJacob:         Super Jacob Homebrew Core
                    |                  |         |                         |
+SuperJacob:         Super Jacob Homebrew Core
 ADCTest:            ADC Input and Signal Test
 InputTest:          Controller Input Tester
 jtsdram48:          Jotego SDRAM Test 48 MHz
@@ -140,8 +141,8 @@ Gameboy_LLAPI:      Nintendo GB/GBC (LLAPI)
 GBA_LLAPI:          Nintendo GBA (LLAPI)
 Genesis_LLAPI:      SEGA Genesis (LLAPI)
 MegaCD_LLAPI:       SEGA CD (LLAPI)
-NeoGeo_LLAPI:       SNK Neo Geo (LLAPI)
                    |                  |         |                         |
+NeoGeo_LLAPI:       SNK Neo Geo (LLAPI)
 NES_LLAPI:          Nintendo NES (LLAPI)
 Pacman_LLAPI:       Pac-Man (LLAPI)
 SMS_LLAPI:          SEGA Master System (LLAPI)
