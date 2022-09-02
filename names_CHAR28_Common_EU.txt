@@ -25,13 +25,14 @@ ChannelF:           Channel F
 CoCo2:              Dragon 32 & Tandy Color 2
 CoCo3:              Tandy TRS-80 Color Comp. 3
 ColecoAdam:         Coleco Adam
+CreatiVision:       CreatiVision
 EDSAC:              EDSAC
 F68kMiSTer:         X68000
 Galaksija:          Galaksija
 Interact:           Interact Home Computer Sys.
 Jupiter:            Jupiter Ace
-KC87:               Robotron KC 87
                    |                  |         |                         |
+KC87:               Robotron KC 87
 Laser310:           Laser 350/500/700
 Lynx48:             Lynx 48/96K
 MacPlus:            Macintosh Plus
@@ -41,8 +42,8 @@ mister_coco:        Tandy TRS-80 Color Comp. 3
 MSX:                MSX/MSX2/MSX2+/TurboR
 MultiComp:          MultiComp (Z80/6502/6809)
 Ondra_SPO186:       Ondra SPO 186
-ORAO:               Orao
                    |                  |         |                         |
+ORAO:               Orao
 Oric:               Oric
 PC88:               PC-8801
 PCXT:               Personal Computer XT
@@ -52,8 +53,8 @@ PMD85:              PMD 85-2A
 QL:                 Sinclair QL
 RX78:               RX-78 Gundam
 SAMCoupe:           SAM Coupe
-SharpMZ:            Sharp MZ
                    |                  |         |                         |
+SharpMZ:            Sharp MZ
 Specialist:         Specialist/MX
 SordM5:             M5
 SS:                 SPARCstation
@@ -63,8 +64,8 @@ TatungEinstein:     Einstein TC-01
 Ti994a:             TI-99/4A
 TomyTutor:          Tutor
 TRS-80:             TRS-80
-TSConf:             TS-Config
                    |                  |         |                         |
+TSConf:             TS-Config
 UK101:              UK101
 Vector-06C:         Vector-06C
 VIC20:              Commodore VIC-20
@@ -74,8 +75,8 @@ ZX-Spectrum:        ZX Spectrum
 zx48:               ZX48
 ZX81:               ZX81
 ZXNext:             ZX Spectrum Next
-AdventureVision:    Adventure Vision
                    |                  |         |                         |
+AdventureVision:    Adventure Vision
 Astrocade:          Bally Astrocade
 Atari2600:          Atari 2600 (Deprecated)
 Atari5200:          Atari 5200
@@ -85,8 +86,8 @@ AY-3-8500:          AY-3-8500
 C2650:              Arcadia 2001
 ColecoVision:       ColecoVision
 Gamate:             Gamate
-Gameboy:            Game Boy/Color
                    |                  |         |                         |
+Gameboy:            Game Boy/Color
 Gameboy2P:          Game Boy/Color 2 Player
 Gameboy2Pultrawide: Game Boy/Color 2 Player Wide
 GBA:                Game Boy Advance
@@ -96,8 +97,8 @@ Genesis3D:          Mega Drive 3D
 GnW:                Game & Watch
 Intellivision:      Intellivision
 Intv:               Intellivision
-Jaguar:             Atari Jaguar
                    |                  |         |                         |
+Jaguar:             Atari Jaguar
 Konix:              Multisystem
 MegaCD:             Mega-CD
 NeoGeo:             Neo Geo MVS/AES
@@ -107,8 +108,8 @@ Odyssey2:           Videopac G7000
 PICO:               Kids Computer Pico
 PSX:                PlayStation
 S32X:               Mega Drive 32X
-Saturn:             Saturn
                    |                  |         |                         |
+Saturn:             Saturn
 SGB:                Super Game Boy
 SMS:                Master System
 SMS3D:              Master System 3D
@@ -118,8 +119,8 @@ TurboGrafx16:       PC Engine Duo
 VC4000:             Video Computer 4000
 Vectrex:            Vectrex
 WonderSwan:         WonderSwan/Color
-EpochGalaxyII:      Galaxy II
                    |                  |         |                         |
+EpochGalaxyII:      Galaxy II
 TomyScramble:       Tomy Scramble
 Arduboy:            Arduboy
 Chess:              Chess
@@ -129,8 +130,8 @@ GameOfLife:         Game of Life
 Hack:               Nand2Tetris Hack
 mandelbrot:         Mandelbrot Fractal Generator
 240pSuite:          240p Test Suite
-SlugCross:          Slug Cross
                    |                  |         |                         |
+SlugCross:          Slug Cross
 SuperJacob:         Super Jacob
 ADCTest:            ADC Input and Signal Test
 InputTest:          Controller Input Tester
@@ -140,8 +141,8 @@ memtest:            SDRAM Test
 Gameboy_LLAPI:      Game Boy/Color #LLAPI
 GBA_LLAPI:          Game Boy Advance #LLAPI
 Genesis_LLAPI:      Mega Drive #LLAPI
-MegaCD_LLAPI:       Mega-CD #LLAPI
                    |                  |         |                         |
+MegaCD_LLAPI:       Mega-CD #LLAPI
 NeoGeo_LLAPI:       Neo Geo MVS/AES #LLAPI
 NES_LLAPI:          NES #LLAPI
 Pacman_LLAPI:       Namco - Pac-Man #LLAPI
