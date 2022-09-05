@@ -84,9 +84,10 @@ Atari7800:          Atari 2600/7800
 AtariLynx:          Atari Lynx
 AY-3-8500:          GI Pong (AY-3-8500)
 C2650:              Arcadia 2001 & VC 4000
+Casio_PV-1000:      Casio PV-1000
 ColecoVision:       ColecoVision & SEGA SG-1000
-Gamate:             Bit Corp./UMC Gamate
                    |                  |         |                         |
+Gamate:             Bit Corp./UMC Gamate
 Gameboy:            Nintendo Game Boy                   Game Boy Color
 Gameboy2P:          Nintendo Game Boy 2 Player          Game Boy Color
 Gameboy2Pultrawide: Nintendo Game Boy 2 Player W        Game Boy Color (Ultrawide)
@@ -96,8 +97,8 @@ Genesis:            SEGA Mega Drive
 Genesis3D:          SEGA Mega Drive 3D
 GnW:                Nintendo Game & Watch
 Intellivision:      Mattel Intellivision
-Intv:               Mattel Intellivision
                    |                  |         |                         |
+Intv:               Mattel Intellivision
 Jaguar:             Atari Jaguar
 Konix:              Konix Multisystem
 MegaCD:             SEGA Mega-CD
@@ -106,9 +107,10 @@ NES:                Nintendo NES                 Famicom Disk System
 NES3D:              Nintendo NES 3D              Famicom Disk System
 Odyssey2:           Philips Videopac G7000
 PICO:               SEGA Pico
+PokemonMini:        Nintendo Pokemon mini
+                   |                  |         |                         |
 PSX:                Sony PlayStation
 S32X:               SEGA Mega Drive 32X
-                   |                  |         |                         |
 Saturn:             Sega Saturn
 SGB:                Nintendo Super Game Boy
 SMS:                SEGA Master System              Game Gear
@@ -117,9 +119,9 @@ SNES:               Nintendo Super NES
 SuperVision:        Watara/Quickshot SuperVision
 TurboGrafx16:       NEC PC Engine Duo              SuperGrafx
 VC4000:             Interton Video Computer 4000
+                   |                  |         |                         |
 Vectrex:            GCE Vectrex
 WonderSwan:         Bandai WonderSwan/Color
-                   |                  |         |                         |
 EpochGalaxyII:      Epoch Galaxy II
 TomyScramble:       Tomytronic Scramble
 Arduboy:            Arduboy
@@ -128,9 +130,9 @@ Chip8:              CHIP-8
 FlappyBird:         Flappy Bird
 GameOfLife:         Conway's Game of Life
 Hack:               Nand2Tetris Hack Computer
+                   |                  |         |                         |
 mandelbrot:         Mandelbrot Fractal Generator
 240pSuite:          240p Test Suite
-                   |                  |         |                         |
 SlugCross:          Slug Cross
 SuperJacob:         Super Jacob Homebrew Core
 ADCTest:            ADC Input and Signal Test
@@ -139,9 +141,9 @@ jtsdram48:          Jotego SDRAM Test 48 MHz
 jtsdram96:          Jotego SDRAM Test 96 MHz
 memtest:            SDRAM Test
 Gameboy_LLAPI:      Nintendo GB/GBC (LLAPI)
+                   |                  |         |                         |
 GBA_LLAPI:          Nintendo GBA (LLAPI)
 Genesis_LLAPI:      SEGA Mega Drive (LLAPI)
-                   |                  |         |                         |
 MegaCD_LLAPI:       SEGA Mega-CD (LLAPI)
 NeoGeo_LLAPI:       SNK Neo Geo (LLAPI)
 NES_LLAPI:          Nintendo NES (LLAPI)
@@ -150,6 +152,7 @@ SMS_LLAPI:          SEGA Master System (LLAPI)
 SNES_LLAPI:         Nintendo SNES (LLAPI)
 TurboGrafx16_LLAPI: NEC PC Engine Duo (LLAPI)
 arcade_SMS:         SEGA System E
+                   |                  |         |                         |
 arcade_NeoGeo:      SNK NeoGeo MVS
 
 
