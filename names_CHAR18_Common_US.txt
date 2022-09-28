@@ -27,11 +27,12 @@ CoCo3:              TRS-80 CoCo 3
 ColecoAdam:         Coleco Adam
 CreatiVision:       CreatiVision
 EDSAC:              EDSAC
+eg2000:             EG2000
 F68kMiSTer:         X68000
 Galaksija:          Galaksija
 Interact:           Interact
-Jupiter:            Jupiter Ace
                    |                  |         |                         |
+Jupiter:            Jupiter Ace
 KC87:               Robotron KC 87
 Laser310:           Laser 350/500/700
 Lynx48:             Lynx 48/96K
@@ -41,8 +42,8 @@ Minimig:            Amiga
 mister_coco:        TRS-80 CoCo 3
 MSX:                MSX
 MultiComp:          MultiComp
-Ondra_SPO186:       Ondra SPO 186
                    |                  |         |                         |
+Ondra_SPO186:       Ondra SPO 186
 ORAO:               Orao
 Oric:               Oric
 PC88:               PC-8801
@@ -52,8 +53,8 @@ PET2001:            Commodore PET 2001
 PMD85:              PMD 85-2A
 QL:                 Sinclair QL
 RX78:               RX-78 Gundam
-SAMCoupe:           SAM Coupe
                    |                  |         |                         |
+SAMCoupe:           SAM Coupe
 SharpMZ:            Sharp MZ
 Specialist:         Specialist/MX
 SordM5:             M5
@@ -63,8 +64,8 @@ System1:            System 1
 TatungEinstein:     Einstein
 Ti994a:             TI-99/4A
 TomyTutor:          Tutor
-TRS-80:             TRS-80
                    |                  |         |                         |
+TRS-80:             TRS-80
 TSConf:             TS-Config
 UK101:              UK101
 Vector-06C:         Vector-06C
@@ -74,8 +75,8 @@ zet98:              PC-98
 ZX-Spectrum:        ZX Spectrum
 zx48:               ZX48
 ZX81:               TS-1500
-ZXNext:             ZX Spectrum Next
                    |                  |         |                         |
+ZXNext:             ZX Spectrum Next
 AdventureVision:    Adventure Vision
 Astrocade:          Bally Astrocade
 Atari2600:          Atari 2600 (Old)
@@ -85,8 +86,8 @@ AtariLynx:          Atari Lynx
 AY-3-8500:          AY-3-8500
 C2650:              Arcadia 2001
 Casio_PV-1000:      PV-1000
-ColecoVision:       ColecoVision
                    |                  |         |                         |
+ColecoVision:       ColecoVision
 Gamate:             Gamate
 Gameboy:            Game Boy/Color
 Gameboy2P:          Game Boy/Color 2P
@@ -96,8 +97,8 @@ GBA2P:              Game Boy Adv. 2P
 Genesis:            Genesis
 Genesis3D:          Genesis 3D
 GnW:                Game & Watch
-Intellivision:      Intellivision
                    |                  |         |                         |
+Intellivision:      Intellivision
 Intv:               Intellivision
 Jaguar:             Atari Jaguar
 Konix:              Multisystem
@@ -107,8 +108,8 @@ NES:                NES
 NES3D:              NES 3D
 Odyssey2:           Magnavox Odyssey2
 PICO:               Kids Computer Pico
-PokemonMini:        Pokemon mini
                    |                  |         |                         |
+PokemonMini:        Pokemon mini
 PSX:                PlayStation
 S32X:               Genesis 32X
 Saturn:             Saturn
@@ -118,8 +119,8 @@ SMS3D:              Master System 3D
 SNES:               Super NES
 SuperVision:        SuperVision
 TurboGrafx16:       Turbo Duo
-VC4000:             VC 4000
                    |                  |         |                         |
+VC4000:             VC 4000
 Vectrex:            Vectrex
 WonderSwan:         WonderSwan/Color
 EpochGalaxyII:      Galaxy II
@@ -129,8 +130,8 @@ Chess:              Chess
 Chip8:              CHIP-8
 FlappyBird:         Flappy Bird
 GameOfLife:         Game of Life
-Hack:               Nand2Tetris Hack
                    |                  |         |                         |
+Hack:               Nand2Tetris Hack
 mandelbrot:         Mandelbrot Zoom
 240pSuite:          240p Test Suite
 SlugCross:          Slug Cross
@@ -140,8 +141,8 @@ InputTest:          Gamepad Input Test
 jtsdram48:          SDRAM Test 48 MHz
 jtsdram96:          SDRAM Test 96 MHz
 memtest:            SDRAM Test
-Gameboy_LLAPI:      GB/GBC #LLAPI
                    |                  |         |                         |
+Gameboy_LLAPI:      GB/GBC #LLAPI
 GBA_LLAPI:          GBA #LLAPI
 Genesis_LLAPI:      Genesis #LLAPI
 MegaCD_LLAPI:       SEGA CD #LLAPI
@@ -151,8 +152,8 @@ Pacman_LLAPI:       Pac-Man #LLAPI
 SMS_LLAPI:          SMS #LLAPI
 SNES_LLAPI:         SNES #LLAPI
 TurboGrafx16_LLAPI: TGFX-16/CD #LLAPI
-arcade_SMS:         SEGA System E
                    |                  |         |                         |
+arcade_SMS:         SEGA System E
 arcade_NeoGeo:      SNK NeoGeo MVS
 
 
