@@ -174,9 +174,10 @@ AtariTetris:        Atari - Tetris
 Athena:             SNK - Athena
 Bagman:             Valad.- Bagman
 bakraid:            Raizing - Battle Bakraid
+bankpanic:          SEGA Bank Panic
 batrider:           Raizing - Armed Police Batrider
-Berzerk:            Stern - Berzerk
                    |                  |         |                         |
+Berzerk:            Stern - Berzerk
 BlackWidow:         Atari - Black Widow
 blockade:           SEGA Blockade
 BombJack:           Tehkan - Bomb Jack
@@ -186,8 +187,8 @@ BurningRubber:      Data E.- Burnin' Rubber
 CanyonBomber:       Atari - Canyon Bomber
 Centipede:          Atari - Centipede
 Chameleon:          Jaleco - Chameleon
-ComputerSpace:      Syzygy - Comp. Space
                    |                  |         |                         |
+ComputerSpace:      Syzygy - Comp. Space
 CosmicAvenger:      Univer - Cosmic Avenger
 CrazyBalloon:       Taito - Crazy Balloon
 CrazyClimber:       Nichi.- Crazy Climber
@@ -197,8 +198,8 @@ DigDug:             Namco - Dig Dug
 Dominos:            Atari - Dominos
 DonkeyKong:         Nint.- Donkey Kong
 DonkeyKong3:        Nint.- Donkey Kong 3
-DonkeyKongJunior:   Nint.- Donkey Kong Jr.
                    |                  |         |                         |
+DonkeyKongJunior:   Nint.- Donkey Kong Jr.
 Dorodon:            UPL Co. - Dorodon
 DottoriKun:         SEGA - Dottori-kun
 Druaga:             Namco - Druaga
@@ -208,8 +209,8 @@ Frenzy:             Stern - Frenzy
 Galaga:             Namco - Galaga
 Galaxian:           Namco - Galaxian
 Galivan:            Nichibutsu - Cosmo Police Galivan
-Gaplus:             Namco - Gaplus
                    |                  |         |                         |
+Gaplus:             Namco - Gaplus
 Garegga:            Toaplan Version 2
 Gauntlet:           Atari - Gauntlet
 GnG:                Capcom - GnG (old)
@@ -219,8 +220,8 @@ Inferno:            Inferno:18_Coomon_EU
 IremM62:            Irem M62
 IremM72:            Irem M72
 IronHorse:          Konami - Iron Horse
-Jackal:             Konami - Jackal
                    |                  |         |                         |
+Jackal:             Konami - Jackal
 Jailbreak:          jailbreak:18_Common_EU
 Joust2:             Williams Elect. - Joust 2: Survival of the Fittest
 jt1942:             Capcom - 1942
@@ -230,8 +231,8 @@ jtbtiger:           Capcom - Black Tiger
 jtbubl:             Taito - Bubble Bobble
 jtcommando:         Capcom - Commando
 jtcomsc:            Konami - Combat School
-jtcontra:           Konami - Gryzor
                    |                  |         |                         |
+jtcontra:           Konami - Gryzor
 jtcop:              Data East - RoboCop
 jtcps1:             Capcom CP System
 jtcps15:            Capcom CP System Dash
@@ -241,19 +242,20 @@ jtdd2:              Technos - DD 2
 jtexed:             Capcom - Exed Exes
 jtf1dream:          Capcom - F-1 Dream
 jtflane:            Capcom - Fast Lane
-jtgng:              Capcom - Ghosts 'n Goblins
                    |                  |         |                         |
+jtgng:              Capcom - Ghosts 'n Goblins
 jtgunsmoke:         Capcom - Gun.Smoke
 jthige:             Capcom - Pirate Ship Higemaru
-jtkcham:            Data East - Karate Champ
+jtkchamp:           Data East - Karate Champ
 jtkicker:           Konami - Shao-Lin's Road
 jtkunio:            Technos - Renegade
 jtlabrun:           Konami - Labyrinth Runner
 jtmidres:           Data East - Midnight Resistance
 jtmikie:            Konami - Mikie
 jtmx5k:             Konami - MX5000
-jtninja:            Data East - DragonNinja
                    |                  |         |                         |
+jtninja:            Data East - DragonNinja
+jtoutrun:           SEGA Out Run
 jtpang:             Mitchell Pang
 jtpinpon:           Konami - Konami's Ping Pong
 jttrack:            Konami - Track & Field
@@ -262,9 +264,9 @@ jtroc:              Konami - Roc'n Rope
 jtroadf:            Konami Road Fighter
 jtrumble:           Capcom - The Speed Rumbler
 jts16:              SEGA System 16
+                   |                  |         |                         |
 jts16a2:            SEGA System 16A2
 jts16b1:            SEGA System 16B1
-                   |                  |         |                         |
 jts16b2:            SEGA System 16B2
 jts16b3:            SEGA System 16B3
 jts16b:             SEGA System 16B
@@ -273,9 +275,9 @@ jtsbask1:           Konami - Super Basketball -version I-
 jtsbaskt:           Konami - Super Basketball -version H-
 jtslyspy:           Data East - Sly Spy: Secret Agent
 jtsf:               Capcom - Street Fighter
+                   |                  |         |                         |
 jtsectionz:         Capcom - Section Z
 jttora:             Capcom - Tiger Road
-                   |                  |         |                         |
 jttrojan:           Capcom - Trojan
 jtvigil:            Irem - Vigilante
 jtvulgus:           Capcom - Vulgus
@@ -284,9 +286,9 @@ LadyBug:            Universal - Lady Bug
 LunarLander:        Atari - Lunar Lander
 MarioBros:          Nint.- Mario Bros
 MCR1:               Bally MCR-1
+                   |                  |         |                         |
 MCR2:               Bally MCR-2
 MCR3:               Bally MCR-3
-                   |                  |         |                         |
 MCR3Mono:           Bally MCR-3 Mono.
 MCR3Scroll:         Bally MCR-3 Scroll
 MissileCommand:     Atari - Missile Command
@@ -295,20 +297,21 @@ MrDo:               Univer - Mr. Do!
 MysticMarathon:     Williams Elect. - Mystic Marathon
 nemesis:            Konami - Nemesis
 NinjaKun:           UPL - Ninja Kun
+                   |                  |         |                         |
 Pacman:             Namco - Pac-Man
 Pengo:              Coreland - Pengo
-                   |                  |         |                         |
 PenguinKunWars:     UPL - Penguin-Kun Wars
 Phoenix:            Centuri - Phoenix
 Pleiads:            Centuri - Pleiades
 PolyPlay:           VOB - Poly Play
 Pong:               Atari - Pong
 Pooyan:             Stern - Electronics Pooyan
-Popeye:             Nint.- Popeye
+Popeye:             Nintendo - Popeye
+prehisle:           SNK Prehistoric Isle in 1930
+                   |                  |         |                         |
 QBert:              Gottl.- Q'Bert
 RallyX:             Namco - Rally-X
 RiverPatrol:        Orca - River Patrol
-                   |                  |         |                         |
 Robotron:           Vid Kidz - Robotron: 1984
 RshnAtk:            Konami - Green Beret
 ScooterShooter:     Konami - Scooter Shooter
@@ -316,31 +319,32 @@ Scramble:           Konami - Scramble
 SEGASYS1:           SEGA System 1
 SilverLand:         Falcon - Silver Land
 SnapJack:           Universal - Snap Jack
+                   |                  |         |                         |
+SNK68:              SNK 68000
 SNK_TripleZ80:      SNK Triple Z80
 snowbro2:           Toaplan - Snow Bros 2: With New Elves
 SolomonsKey:        Tecmo - Solomon's Key
-                   |                  |         |                         |
 SpaceInvaders:      Taito - Space Invaders
 SpaceRace:          Atari - Space Race
 Sprint1:            Atari - Sprint 1
 Sprint2:            Atari - Sprint 2
 Subs:               Atari - Subs
 SuperBreakout:      Atari - Super Breakout
+                   |                  |         |                         |
 TankBattalion:      Namco - Tank Battalion
 Tecmo:              Tecmo 1st Gen
 terracresta:        Nichibutsu - Terra Cresta
 TIAMC1:             Ekst.- TIA-MC-1
-                   |                  |         |                         |
 TimePilot:          Konami - Time Pilot
 TimePilot84:        Konami - Time Pilot
 TNKIII:             SNK - T.N.K. III
 toaplan1:           Toaplan Version 1
 TraverseUSA:        Irem - Traverse USA
 truxton2:           Toaplan - Truxton II
+                   |                  |         |                         |
 TurkeyShoot:        Williams Elect. - Turkey Shoot
 Ultratank:          Kee Games - Ultra Tank
 VBall:              Technos - V'Ball
 Xevious:            Namco - Xevious
-                   |                  |         |                         |
 Zaxxon:             zaxxon:18_Common_EU
 ZigZag:             LAX - Zig Zag
