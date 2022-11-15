@@ -79,9 +79,9 @@ ZX81:               Timex TS-1500
 ZXNext:             ZX Spectrum Next
 AdventureVision:    Entex Adv. Vision
 Astrocade:          Bally Astrocade
-Atari2600:          Atari 2600 (Old)
+Atari 2600:         Atari 2600
 Atari5200:          Atari 5200
-Atari7800:          Atari 2600/7800
+Atari7800:          Atari 7800
 AtariLynx:          Atari Lynx
 AY-3-8500:          GI Pong AY-3-8500
 C2650:              Arcadia 2001
@@ -89,26 +89,29 @@ Casio_PV-1000:      Casio PV-1000
                    |                  |         |                         |
 ColecoVision:       ColecoVision
 Gamate:             Bit Corp. Gamate
-Gameboy:            Nint. GB / GBC
+Gameboy:            Nint. Game Boy
+Game Boy Color:     Nint. GB Color
 Gameboy2P:          Nint. GB / GBC 2P
 Gameboy2Pultrawide: Nint. GB / GBC 2PW
+Game Gear:          SEGA Game Gear
 GBA:                Nint. GBA
 GBA2P:              Nint. GBA 2 Player
 Genesis:            SEGA Genesis
+                   |                  |         |                         |
 Genesis3D:          SEGA Genesis 3D
 GnW:                Nint. Game & Watch
-                   |                  |         |                         |
 Intellivision:      Mattel Intelliv.
 Intv:               Mattel Intelliv.
 Jaguar:             Atari Jaguar
 Konix:              Konix Multisystem
 MegaCD:             SEGA CD
+Mega Duck:          Welb. Mega Duck
 NeoGeo:             SNK Neo Geo
 NES:                Nint. NES
+                   |                  |         |                         |
 NES3D:              Nint. NES 3D
 Odyssey2:           Magn. Odyssey2
 PICO:               SEGA Pico
-                   |                  |         |                         |
 PokemonMini:        Nint. Pokemon mini
 PSX:                Sony PlayStation
 S32X:               SEGA Genesis 32X
@@ -116,43 +119,44 @@ Saturn:             Sega Saturn
 SGB:                Nint. Super GB
 SMS:                SEGA Master System
 SMS3D:              SEGA Master Sys 3D
+                   |                  |         |                         |
 SNES:               Nint. Super NES
 SuperVision:        Wata. SuperVision
 TurboGrafx16:       NEC TurboGrafx-16
-                   |                  |         |                         |
 VC4000:             Interton VC 4000
 Vectrex:            GCE Vectrex
 WonderSwan:         Bandai WonderSwan
+WonderSwan Color:   Bandai WS Color
 EpochGalaxyII:      Epoch Galaxy II
 TomyScramble:       Tomy Scramble
 Arduboy:            Arduboy
+                   |                  |         |                         |
 Chess:              Chess
 Chip8:              CHIP-8
 FlappyBird:         Flappy Bird
 GameOfLife:         Game of Life
-                   |                  |         |                         |
 Hack:               Nand2Tetris Hack
 mandelbrot:         Mandelbrot Zoom
 240pSuite:          240p Test Suite
 SlugCross:          Slug Cross
 SuperJacob:         Super Jacob
 ADCTest:            ADC Input Test
+                   |                  |         |                         |
 InputTest:          Gamepad Input Test
 jtsdram48:          SDRAM Test 48 MHz
 jtsdram96:          SDRAM Test 96 MHz
 memtest:            SDRAM Test
-                   |                  |         |                         |
 Gameboy_LLAPI:      Nint. GB/C #LLAPI
 GBA_LLAPI:          Nint. GBA #LLAPI
 Genesis_LLAPI:      SEGA Gen #LLAPI
 MegaCD_LLAPI:       SEGA CD #LLAPI
 NeoGeo_LLAPI:       SNK Neo Geo #LLAPI
 NES_LLAPI:          Nint. NES #LLAPI
+                   |                  |         |                         |
 Pacman_LLAPI:       Pac-Man #LLAPI
 SMS_LLAPI:          SEGA MS #LLAPI
 SNES_LLAPI:         Nint. SNES #LLAPI
 TurboGrafx16_LLAPI: NEC TGFX16 #LLAPI
-                   |                  |         |                         |
 arcade_SMS:         SEGA System E
 arcade_NeoGeo:      SNK NeoGeo MVS
 

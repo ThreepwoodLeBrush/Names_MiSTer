@@ -79,9 +79,9 @@ ZX81:               Sinclair ZX81
 ZXNext:             ZX Spectrum Next
 AdventureVision:    Entex Adventure Vision
 Astrocade:          Bally Astrocade
-Atari2600:          Atari 2600 (Deprecated)
+Atari 2600:         Atari 2600
 Atari5200:          Atari 5200
-Atari7800:          Atari 2600/7800
+Atari7800:          Atari 7800
 AtariLynx:          Atari Lynx
 AY-3-8500:          GI Pong (AY-3-8500)
 C2650:              Arcadia 2001 & VC 4000
@@ -89,70 +89,74 @@ Casio_PV-1000:      Casio PV-1000
                    |                  |         |                         |
 ColecoVision:       ColecoVision & SEGA SG-1000
 Gamate:             Bit Corp./UMC Gamate
-Gameboy:            Nintendo Game Boy/Color
+Gameboy:            Nintendo Game Boy
+Game Boy Color:     Nintendo Game Boy Color
 Gameboy2P:          Nintendo Game Boy/Color 2P
 Gameboy2Pultrawide: Nintendo Game Boy/Color 2PW
+Game Gear:          SEGA Game Gear
 GBA:                Nintendo Game Boy Advance
 GBA2P:              Nintendo Game Boy Advance 2P
 Genesis:            SEGA Mega Drive
+                   |                  |         |                         |
 Genesis3D:          SEGA Mega Drive 3D
 GnW:                Nintendo Game & Watch
-                   |                  |         |                         |
 Intellivision:      Mattel Intellivision
 Intv:               Mattel Intellivision
 Jaguar:             Atari Jaguar
 Konix:              Konix Multisystem
 MegaCD:             SEGA Mega-CD
+Mega Duck:          Welback Holdings Mega Duck
 NeoGeo:             SNK Neo Geo MVS/AES
 NES:                Nintendo Famicom
+                   |                  |         |                         |
 NES3D:              Nintendo Famicom 3D
 Odyssey2:           Magnavox Odyssey2
 PICO:               SEGA Pico
-                   |                  |         |                         |
 PokemonMini:        Nintendo Pokemon mini
 PSX:                Sony PlayStation
 S32X:               SEGA Super 32X
 Saturn:             Sega Saturn
 SGB:                Nintendo Super Game Boy
-SMS:                SEGA Mark III & Game Gear
+SMS:                SEGA Mark III
 SMS3D:              SEGA Mark III 3D
+                   |                  |         |                         |
 SNES:               Nintendo Super Famicom
 SuperVision:        Watara/Quickshot SuperVision
 TurboGrafx16:       NEC PC Engine Duo
-                   |                  |         |                         |
 VC4000:             Interton Video Computer 4000
 Vectrex:            GCE Vectrex
-WonderSwan:         Bandai WonderSwan/Color
+WonderSwan:         Bandai WonderSwan
+WonderSwan Color:   Bandai WonderSwan Color
 EpochGalaxyII:      Epoch Galaxy II
 TomyScramble:       Tomytronic Scramble
 Arduboy:            Arduboy
+                   |                  |         |                         |
 Chess:              Chess
 Chip8:              CHIP-8
 FlappyBird:         Flappy Bird
 GameOfLife:         Conway's Game of Life
-                   |                  |         |                         |
 Hack:               Nand2Tetris Hack Computer
 mandelbrot:         Mandelbrot Fractal Generator
 240pSuite:          240p Test Suite
 SlugCross:          Slug Cross
 SuperJacob:         Super Jacob Homebrew Core
 ADCTest:            ADC Input and Signal Test
+                   |                  |         |                         |
 InputTest:          Controller Input Tester
 jtsdram48:          Jotego SDRAM Test 48 MHz
 jtsdram96:          Jotego SDRAM Test 96 MHz
 memtest:            SDRAM Test
-                   |                  |         |                         |
 Gameboy_LLAPI:      Nintendo GB/GBC (LLAPI)
 GBA_LLAPI:          Nintendo GBA (LLAPI)
 Genesis_LLAPI:      SEGA Mega Drive (LLAPI)
 MegaCD_LLAPI:       SEGA Mega-CD (LLAPI)
 NeoGeo_LLAPI:       SNK Neo Geo (LLAPI)
 NES_LLAPI:          Nintendo Famicom (LLAPI)
+                   |                  |         |                         |
 Pacman_LLAPI:       Puck Man (LLAPI)
 SMS_LLAPI:          SEGA Master System (LLAPI)
 SNES_LLAPI:         Nintendo SFC (LLAPI)
 TurboGrafx16_LLAPI: NEC PC Engine Duo (LLAPI)
-                   |                  |         |                         |
 arcade_SMS:         SEGA System E
 arcade_NeoGeo:      SNK NeoGeo MVS
 
