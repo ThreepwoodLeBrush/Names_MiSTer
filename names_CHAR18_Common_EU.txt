@@ -90,7 +90,7 @@ Casio_PV-1000:      PV-1000
 ColecoVision:       ColecoVision
 Gamate:             Gamate
 Gameboy:            Game Boy
-Game Boy Color:     Game Boy Color
+GameboyColor:       Game Boy Color
 Gameboy2P:          Game Boy/Color 2P
 Gameboy2Pultrawide: Game Boy/Color 2PW
 Game Gear:          Game Gear

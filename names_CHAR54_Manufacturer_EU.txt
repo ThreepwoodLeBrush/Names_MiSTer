@@ -90,7 +90,7 @@ Casio_PV-1000:      Casio PV-1000
 ColecoVision:       ColecoVision & SEGA SG-1000
 Gamate:             Bit Corp./UMC Gamate
 Gameboy:            Nintendo Game Boy
-Game Boy Color:     Nintendo Game Boy Color
+GameboyColor:       Nintendo Game Boy Color
 Gameboy2P:          Nintendo Game Boy 2 Player          Game Boy Color
 Gameboy2Pultrawide: Nintendo Game Boy 2 Player W        Game Boy Color (Ultrawide)
 Game Gear:          SEGA Game Gear

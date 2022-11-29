@@ -90,7 +90,7 @@ Casio_PV-1000:      Casio PV-1000
 ColecoVision:       ColecoVision
 Gamate:             Bit Corp. Gamate
 Gameboy:            Nint. Game Boy
-Game Boy Color:     Nint. GB Color
+GameboyColor:       Nint. GB Color
 Gameboy2P:          Nint. GB / GBC 2P
 Gameboy2Pultrawide: Nint. GB / GBC 2PW
 Game Gear:          SEGA Game Gear
