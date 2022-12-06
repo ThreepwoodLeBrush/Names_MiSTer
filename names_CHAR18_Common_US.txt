@@ -255,11 +255,10 @@ jtf1drm:            Capcom - F-1 Dream
 jtflane:            Capcom - Fast Lane
 jtgng:              Capcom - Ghosts 'n Goblins
 jtgunsmk:           Capcom - Gun.Smoke
-jtshanon:           SEGA - Hang-On
 jthige:             Capcom - Pirate Ship Higemaru
 jtkchamp:           Data East - Karate Champ
-                   |                  |         |                         |
 jtkicker:           Konami - Kicker
+                   |                  |         |                         |
 jtkunio:            Technos - Renegade
 jtlabrun:           Konami - Labyrinth Runner
 jtmidres:           Data East - Midnight Resistance
@@ -269,8 +268,8 @@ jtninja:            Data East - Bad Dudes Vs DragonNinja
 jtoutrun:           SEGA Out Run
 jtpang:             Mitchell Pang
 jtpinpon:           Konami - Konami's Ping Pong
-                   |                  |         |                         |
 jttrack:            Konami - Track & Field
+                   |                  |         |                         |
 jtrastan:           Taito - Rastan
 jtroc:              Konami - Roc'n Rope
 jtroadf:            Konami Road Fighter
@@ -280,11 +279,12 @@ jts16a2:            SEGA System 16A2
 jts16b1:            SEGA System 16B1
 jts16b2:            SEGA System 16B2
 jts16b3:            SEGA System 16B3
-                   |                  |         |                         |
 jts16b:             SEGA System 16B
+                   |                  |         |                         |
 jtsarms:            Capcom - Hyper Dyne Side Arms
 jtsbask1:           Konami - Super Basketball -version I-
 jtsbaskt:           Konami - Super Basketball -version H-
+jtshanon:           SEGA - Super Hang-On
 jtslyspy:           Data East - Sly Spy
 jtsf:               Capcom - Street Fighter
 jtsectnz:           Capcom - Section Z
