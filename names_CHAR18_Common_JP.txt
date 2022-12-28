@@ -258,9 +258,11 @@ jtflane:            Capcom - Fast Lane
 jtgng:              Capcom - Makaimura
 jtgunsmk:           Capcom - Gun.Smoke
 jthige:             Capcom - Pirate Ship Higemaru
+jtkarnov:           Data East Karnov
 jtkchamp:           Data East - Karate Dou
-jtkicker:           Konami - Shao-Lin's Road
                    |                  |         |                         |
+jtkicker:           Konami - Shao-Lin's Road
+jtkiwi:             Taito - The NewZealand Story
 jtkunio:            Technos - Nekketsu Kouha Kunio-kun
 jtlabrun:           Konami - Labyrinth Runner
 jtmidres:           Data East - Midnight Resistance
@@ -269,9 +271,9 @@ jtmx5k:             Konami - Flak Attack
 jtninja:            Data East - DragonNinja
 jtoutrun:           SEGA Out Run
 jtpang:             Mitchell Buster Bros.
+                   |                  |         |                         |
 jtpinpon:           Konami - Konami no Ping Pong
 jttrack:            Konami - Hyper Olympic
-                   |                  |         |                         |
 jtrastan:           Taito - Rastan Saga
 jtroc:              Konami - Roc'n Rope
 jtroadf:            Konami Road Fighter
@@ -280,9 +282,9 @@ jts16:              SEGA System 16
 jts16a2:            SEGA System 16A2
 jts16b1:            SEGA System 16B1
 jts16b2:            SEGA System 16B2
+                   |                  |         |                         |
 jts16b3:            SEGA System 16B3
 jts16b:             SEGA System 16B
-                   |                  |         |                         |
 jtsarms:            Capcom - Hyper Dyne Side Arms
 jtsbask1:           Konami - Super Basketball -version I-
 jtsbaskt:           Konami - Super Basketball -version H-
@@ -291,9 +293,9 @@ jtslyspy:           Data East - Secret Agent
 jtsf:               Capcom - Street Fighter
 jtsectnz:           Capcom - Section Z
 jttora:             Capcom - Tora e no Michi
+                   |                  |         |                         |
 jttrojan:           Capcom - Tatakai no Banka
 jtvigil:            Irem - Vigilante
-                   |                  |         |                         |
 jtvulgus:           Capcom - Vulgus
 jtyiear:            Konami - Yie Ar Kung-Fu
 LadyBug:            Universal - Lady Bug
@@ -302,9 +304,9 @@ MarioBros:          Nintendo - Mario Brothers
 MCR1:               Bally Midway MCR-1
 MCR2:               Bally Midway MCR-2
 MCR3:               Bally Midway MCR-3
+                   |                  |         |                         |
 MCR3Mono:           Bally Midway MCR-3 Monoboard
 MCR3Scroll:         Bally Midway MCR-3 Scroll
-                   |                  |         |                         |
 MissileCommand:     Atari - Missile Command
 MoonPatrol:         Irem - Moon Patrol
 MrDo:               Universal - Mr. Do!
@@ -313,9 +315,10 @@ nemesis:            Konami - Gradius
 NinjaKun:           UPL - Ninja-kun: Majou no Bouken
 Pacman:             Namco - Puck Man
 Pengo:              Coreland - Pengo
+                   |                  |         |                         |
 PenguinKunWars:     UPL - Penguin-Kun Wars
 Phoenix:            Centuri - Phoenix
-                   |                  |         |                         |
+pipibibs:           Toaplan - Whoopee!!
 Pleiads:            Centuri - Pleiades
 PolyPlay:           VEB Polytechnik - Poly-Play
 Pong:               Atari - Pong
@@ -323,44 +326,46 @@ Pooyan:             Stern Elect. - Pooyan
 Popeye:             Nintendo - Popeye
 prehisle:           SNK Genshi-Tou 1930's
 QBert:              Gottlieb - Q'Bert
+                   |                  |         |                         |
 RallyX:             Namco - Rally-X
 RiverPatrol:        Orca - River Patrol
 Robotron:           Vid Kidz - Robotron: 1984
-                   |                  |         |                         |
 RshnAtk:            Konami - Green Beret
 ScooterShooter:     Konami - Scooter Shooter
 Scramble:           Konami - Scramble
 SEGASYS1:           SEGA System 1
 SilverLand:         Falcon - Silver Land
+SlapFight:          Toaplan - Slap Fight
 SnapJack:           Universal - Snap Jack
+                   |                  |         |                         |
 SNK68:              SNK 68000
 SNK_TripleZ80:      SNK Triple Z80
 snowbro2:           Toaplan - Snow Bros 2: Otenki Paradise
 SolomonsKey:        Tecmo - Solomon no Kagi
-                   |                  |         |                         |
 Sonson:             Capcom - SonSon
 SpaceInvaders:      Taito - Space Invaders
 SpaceRace:          Atari - Space Race
 Sprint1:            Atari - Sprint 1
 Sprint2:            Atari - Sprint 2
 Subs:               Atari - Subs
+                   |                  |         |                         |
 SuperBreakout:      Atari - Super Breakout
 TankBattalion:      Namco - Tank Battalion
 Tecmo:              Tecmo 1st Gen
 terracresta:        Nichibutsu - Terra Cresta
-                   |                  |         |                         |
 TIAMC1:             Ekstrema-Ukraina TIA-MC-1
 TimePilot:          Konami - Time Pilot
 TimePilot84:        Konami - Time Pilot '84: Further Into Unknown World
 TNKIII:             SNK - T·A·N·K
 toaplan1:           Toaplan Version 1
 TraverseUSA:        Irem - Zippy Race
+                   |                  |         |                         |
 TropicalAngel:      Irem - Tropical Angel
 truxton2:           Toaplan - Tatsujin Ou
 TurkeyShoot:        Williams Elect. - Turkey Shoot
 Ultratank:          Kee Games - Ultra Tank
-                   |                  |         |                         |
 VBall:              Technos - U.S. Championship V'Ball
 Xevious:            Namco - Xevious
+XSleenaCore:        Technos - Xain'd Sleena
 Zaxxon:             zaxxon:18_Common_EU
 ZigZag:             LAX - Zig Zag
