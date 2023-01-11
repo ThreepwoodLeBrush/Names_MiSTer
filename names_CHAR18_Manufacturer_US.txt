@@ -41,7 +41,7 @@ MacPlus:            Apple Mac Plus
 Memotech-MTX:       Memotech MTX
 Minimig:            Comm. Amiga
 mister_coco:        Tandy TRS-80 CoCo3
-MSX:                MSX2/MSX2+/TurboR
+MSX:                MSX2/MSX2+
                    |                  |         |                         |
 MSX1:               MSX
 MultiComp:          MultiComp Z80/...

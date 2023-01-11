@@ -41,7 +41,7 @@ MacPlus:            Macintosh Plus
 Memotech-MTX:       Memotech MTX
 Minimig:            Amiga
 mister_coco:        Tandy TRS-80 Color Comp. 3
-MSX:                MSX2/MSX2+/TurboR
+MSX:                MSX2/MSX2+
                    |                  |         |                         |
 MSX1:               MSX
 MultiComp:          MultiComp (Z80/6502/6809)
