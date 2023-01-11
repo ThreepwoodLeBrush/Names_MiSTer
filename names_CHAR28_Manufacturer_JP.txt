@@ -41,9 +41,9 @@ MacPlus:            Apple Macintosh Plus
 Memotech-MTX:       Memotech MTX
 Minimig:            Commodore Amiga
 mister_coco:        Tandy TRS-80 Color Comp. 3
-MSX:                MSX2/MSX2+
+MSX:                MSX (1chipMSX)
                    |                  |         |                         |
-MSX1:               MSX
+MSX1:               MSX1/MSX2
 MultiComp:          MultiComp (Z80/6502/6809)
 Ondra_SPO186:       Tesla Ondra SPO 186
 ORAO:               Velebit Informatika Orao

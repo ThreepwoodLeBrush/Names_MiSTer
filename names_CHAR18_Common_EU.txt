@@ -41,9 +41,9 @@ MacPlus:            Macintosh Plus
 Memotech-MTX:       Memotech MTX
 Minimig:            Amiga
 mister_coco:        TRS-80 CoCo 3
-MSX:                MSX2/MSX2+
+MSX:                MSX (1chipMSX)
                    |                  |         |                         |
-MSX1:               MSX
+MSX1:               MSX1/MSX2
 MultiComp:          MultiComp
 Ondra_SPO186:       Ondra SPO 186
 ORAO:               Orao
