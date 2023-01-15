@@ -117,7 +117,7 @@ PICO:               SEGA Pico
 PokemonMini:        Nintendo Pokemon mini
 PSX:                Sony PlayStation
 S32X:               SEGA Super 32X
-Saturn:             Sega Saturn
+Saturn:             SEGA Saturn
 SGB:                Nintendo Super Game Boy
                    |                  |         |                         |
 SMS:                SEGA Mark III

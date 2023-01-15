@@ -117,7 +117,7 @@ PICO:               SEGA Pico
 PokemonMini:        Nint. Pokemon mini
 PSX:                Sony PlayStation
 S32X:               SEGA Mega Drive 32X
-Saturn:             Sega Saturn
+Saturn:             SEGA Saturn
 SGB:                Nint. Super GB
                    |                  |         |                         |
 SMS:                SEGA Master System
