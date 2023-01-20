@@ -310,13 +310,15 @@ MCR3Scroll:         Bally Midway MCR-3 Scroll
 MissileCommand:     Atari - Missile Command
 MoonPatrol:         Irem - Moon Patrol
 MrDo:               Universal - Mr. Do!
+MrJong:             Kiwako - Mr. Jong
 MysticMarathon:     Williams Elect. - Mystic Marathon
 nemesis:            Konami - Gradius
 NinjaKun:           UPL - Ninja-kun: Majou no Bouken
 Pacman:             Namco - Puck Man
-Pengo:              Coreland - Pengo
                    |                  |         |                         |
+Pengo:              Coreland - Pengo
 PenguinKunWars:     UPL - Penguin-Kun Wars
+Performan:          Toaplan - Performan
 Phoenix:            Centuri - Phoenix
 pipibibs:           Toaplan - Whoopee!!
 Pleiads:            Centuri - Pleiades
@@ -324,9 +326,9 @@ PolyPlay:           VEB Polytechnik - Poly-Play
 Pong:               Atari - Pong
 Pooyan:             Stern Elec. - Pooyan
 Popeye:             Nintendo - Popeye
+                   |                  |         |                         |
 prehisle:           SNK Genshi-Tou 1930's
 QBert:              Gottlieb - Q'Bert
-                   |                  |         |                         |
 RallyX:             Namco - Rally-X
 RiverPatrol:        Orca - River Patrol
 Robotron:           Vid Kidz - Robotron: 1984
@@ -335,9 +337,9 @@ ScooterShooter:     Konami - Scooter Shooter
 Scramble:           Konami - Scramble
 SEGASYS1:           SEGA System 1
 SilverLand:         Falcon - Silver Land
+                   |                  |         |                         |
 SlapFight:          Toaplan - Slap Fight
 SnapJack:           Universal - Snap Jack
-                   |                  |         |                         |
 SNK68:              SNK 68000
 SNK_TripleZ80:      SNK Triple Z80
 snowbro2:           Toaplan - Snow Bros 2: Otenki Paradise
@@ -346,9 +348,9 @@ Sonson:             Capcom - SonSon
 SpaceInvaders:      Taito - Space Invaders
 SpaceRace:          Atari - Space Race
 Sprint1:            Atari - Sprint 1
+                   |                  |         |                         |
 Sprint2:            Atari - Sprint 2
 Subs:               Atari - Subs
-                   |                  |         |                         |
 SuperBreakout:      Atari - Super Breakout
 TankBattalion:      Namco - Tank Battalion
 Tecmo:              Tecmo 1st Gen
@@ -357,9 +359,9 @@ TIAMC1:             Ekstrema-Ukraina TIA-MC-1
 TimePilot:          Konami - Time Pilot
 TimePilot84:        Konami - Time Pilot '84: Further Into Unknown World
 TNKIII:             SNK - T·A·N·K
+                   |                  |         |                         |
 toaplan1:           Toaplan Version 1
 TraverseUSA:        Irem - Zippy Race
-                   |                  |         |                         |
 TropicalAngel:      Irem - Tropical Angel
 truxton2:           Toaplan - Tatsujin Ou
 TurkeyShoot:        Williams Elect. - Turkey Shoot
@@ -368,4 +370,5 @@ VBall:              Technos - U.S. Championship V'Ball
 Xevious:            Namco - Xevious
 XSleenaCore:        Technos - Xain'd Sleena
 Zaxxon:             zaxxon:18_Common_EU
+                   |                  |         |                         |
 ZigZag:             LAX - Zig Zag
