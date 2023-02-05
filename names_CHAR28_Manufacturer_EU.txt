@@ -87,6 +87,7 @@ Atari7800:          Atari 7800
 AtariLynx:          Atari Lynx
 AY-3-8500:          GI Pong (AY-3-8500)
                    |                  |         |                         |
+BBCBridgeCompanion: BBC Bridge Companion
 C2650:              Arcadia 2001 & VC 4000
 Casio_PV-1000:      Casio PV-1000
 ColecoVision:       ColecoVision & SEGA SG-1000
@@ -96,8 +97,8 @@ GameboyColor:       Nintendo Game Boy Color
 Gameboy2P:          Nintendo Game Boy/Color 2P
 Gameboy2Pultrawide: Nintendo Game Boy/Color 2PW
 Game Gear:          SEGA Game Gear
-GBA:                Nintendo Game Boy Advance
                    |                  |         |                         |
+GBA:                Nintendo Game Boy Advance
 GBA2P:              Nintendo Game Boy Advance 2P
 Genesis:            SEGA Mega Drive
 Genesis3D:          SEGA Mega Drive 3D
@@ -107,8 +108,8 @@ Intv:               Mattel Intellivision
 Jaguar:             Atari Jaguar
 Konix:              Konix Multisystem
 MegaCD:             SEGA Mega-CD
-Mega Duck:          Welback Holdings Mega Duck
                    |                  |         |                         |
+Mega Duck:          Welback Holdings Mega Duck
 NeoGeo:             SNK Neo Geo MVS/AES
 NES:                Nintendo NES
 NES3D:              Nintendo NES 3D
@@ -118,8 +119,8 @@ PokemonMini:        Nintendo Pokemon mini
 PSX:                Sony PlayStation
 S32X:               SEGA Mega Drive 32X
 Saturn:             SEGA Saturn
-SGB:                Nintendo Super Game Boy
                    |                  |         |                         |
+SGB:                Nintendo Super Game Boy
 SMS:                SEGA Master System
 SMS3D:              SEGA Master System 3D
 SNES:               Nintendo Super NES
@@ -129,8 +130,8 @@ VC4000:             Interton Video Computer 4000
 Vectrex:            GCE Vectrex
 WonderSwan:         Bandai WonderSwan
 WonderSwan Color:   Bandai WonderSwan Color
-EpochGalaxyII:      Epoch Galaxy II
                    |                  |         |                         |
+EpochGalaxyII:      Epoch Galaxy II
 TomyScramble:       Tomytronic Scramble
 Arduboy:            Arduboy
 Chess:              Chess
@@ -140,8 +141,8 @@ GameOfLife:         Conway's Game of Life
 Hack:               Nand2Tetris Hack Computer
 mandelbrot:         Mandelbrot Fractal Generator
 240pSuite:          240p Test Suite
-SlugCross:          Slug Cross
                    |                  |         |                         |
+SlugCross:          Slug Cross
 SuperJacob:         Super Jacob Homebrew Core
 ADCTest:            ADC Input and Signal Test
 InputTest:          Controller Input Tester
@@ -151,8 +152,8 @@ memtest:            SDRAM Test
 Gameboy_LLAPI:      Nintendo GB/GBC (LLAPI)
 GBA_LLAPI:          Nintendo GBA (LLAPI)
 Genesis_LLAPI:      SEGA Mega Drive (LLAPI)
-MegaCD_LLAPI:       SEGA Mega-CD (LLAPI)
                    |                  |         |                         |
+MegaCD_LLAPI:       SEGA Mega-CD (LLAPI)
 NeoGeo_LLAPI:       SNK Neo Geo (LLAPI)
 NES_LLAPI:          Nintendo NES (LLAPI)
 Pacman_LLAPI:       Pac-Man (LLAPI)

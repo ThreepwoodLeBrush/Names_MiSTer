@@ -87,6 +87,7 @@ Atari7800:          Atari 7800
 AtariLynx:          Atari Lynx
 AY-3-8500:          GI Pong AY-3-8500
                    |                  |         |                         |
+BBCBridgeCompanion: BBC Bridge Companion
 C2650:              Arcadia 2001
 Casio_PV-1000:      Casio PV-1000
 ColecoVision:       ColecoVision
@@ -96,8 +97,8 @@ GameboyColor:       Nint. GB Color
 Gameboy2P:          Nint. GB / GBC 2P
 Gameboy2Pultrawide: Nint. GB / GBC 2PW
 Game Gear:          SEGA Game Gear
-GBA:                Nint. GBA
                    |                  |         |                         |
+GBA:                Nint. GBA
 GBA2P:              Nint. GBA 2 Player
 Genesis:            SEGA Mega Drive
 Genesis3D:          SEGA Mega Drive 3D
@@ -107,8 +108,8 @@ Intv:               Mattel Intelliv.
 Jaguar:             Atari Jaguar
 Konix:              Konix Multisystem
 MegaCD:             SEGA Mega-CD
-Mega Duck:          Welb. Mega Duck
                    |                  |         |                         |
+Mega Duck:          Welb. Mega Duck
 NeoGeo:             SNK Neo Geo
 NES:                Nint. Famicom
 NES3D:              Nint. Famicom 3D
@@ -118,8 +119,8 @@ PokemonMini:        Nint. Pokemon mini
 PSX:                Sony PlayStation
 S32X:               SEGA Super 32X
 Saturn:             SEGA Saturn
-SGB:                Nint. Super GB
                    |                  |         |                         |
+SGB:                Nint. Super GB
 SMS:                SEGA Mark III
 SMS3D:              SEGA Mark III 3D
 SNES:               Nint Super Famicom
@@ -129,8 +130,8 @@ VC4000:             Interton VC 4000
 Vectrex:            GCE Vectrex
 WonderSwan:         Bandai WonderSwan
 WonderSwan Color:   Bandai WS Color
-EpochGalaxyII:      Epoch Galaxy II
                    |                  |         |                         |
+EpochGalaxyII:      Epoch Galaxy II
 TomyScramble:       Tomy Scramble
 Arduboy:            Arduboy
 Chess:              Chess
@@ -140,8 +141,8 @@ GameOfLife:         Game of Life
 Hack:               Nand2Tetris Hack
 mandelbrot:         Mandelbrot Zoom
 240pSuite:          240p Test Suite
-SlugCross:          Slug Cross
                    |                  |         |                         |
+SlugCross:          Slug Cross
 SuperJacob:         Super Jacob
 ADCTest:            ADC Input Test
 InputTest:          Gamepad Input Test
@@ -151,8 +152,8 @@ memtest:            SDRAM Test
 Gameboy_LLAPI:      Nint. GB/C #LLAPI
 GBA_LLAPI:          Nint. GBA #LLAPI
 Genesis_LLAPI:      SEGA MD #LLAPI
-MegaCD_LLAPI:       SEGA MegaCD #LLAPI
                    |                  |         |                         |
+MegaCD_LLAPI:       SEGA MegaCD #LLAPI
 NeoGeo_LLAPI:       SNK Neo Geo #LLAPI
 NES_LLAPI:          Nint. Fami. #LLAPI
 Pacman_LLAPI:       Puck Man #LLAPI
