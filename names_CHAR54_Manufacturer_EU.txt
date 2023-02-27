@@ -17,10 +17,11 @@ AcornAtom:          Acorn Atom
 AcornElectron:      Acorn Electron
 BBCMicro:           BBC Micro B/Master 128
 BK0011M:            Electronika BK-0011M
+C128:               Commodore 128
 C16:                Commodore 16 & Plus/4
 C64:                Commodore 64
-Casio_PV-2000:      Casio PV-2000
                    |                  |         |                         |
+Casio_PV-2000:      Casio PV-2000
 ChannelF:           Fairchild Channel F
 CoCo2:              Dragon Data Ltd. Dragon 32  Tandy TRS-80 Color Comp. 2
 CoCo3:              Tandy TRS-80 Color Comp. 3
@@ -30,8 +31,8 @@ EDSAC:              EDSAC
 eg2000:             EACA EG2000 Colour Genie
 F68kMiSTer:         Sharp X68000
 Galaksija:          Galaksija
-Homelab:            Homelab Series
                    |                  |         |                         |
+Homelab:            Homelab Series
 Interact:           Interact                            Home Computer System
 Jupiter:            Jupiter Ace
 KC87:               Robotron KC 87
@@ -41,8 +42,8 @@ MacPlus:            Apple Macintosh Plus
 Memotech-MTX:       Memotech MTX
 Minimig:            Commodore Amiga
 mister_coco:        Tandy TRS-80 Color Comp. 3
-MSX:                MSX (1chipMSX)
                    |                  |         |                         |
+MSX:                MSX (1chipMSX)
 MSX1:               MSX1/MSX2
 MultiComp:          MultiComp (Z80/6502/6809)
 Ondra_SPO186:       Tesla Ondra SPO 186
@@ -52,8 +53,8 @@ PC88:               NEC PC-8801
 PCXT:               IBM Personal Computer XT
 PDP1:               DEC PDP-1
 PET2001:            Commodore PET 2001
-PMD85:              Tesla PMD 85-2A
                    |                  |         |                         |
+PMD85:              Tesla PMD 85-2A
 QL:                 Sinclair QL
 RX78:               Bandai RX-78 Gundam
 SAMCoupe:           SAM Coupe
@@ -63,8 +64,8 @@ SordM5:             CGL M5
 SS:                 Sun SparcStation (NeXT)
 Svi328:             Spectravideo SV-328
 System1:            Acorn System 1
-TatungEinstein:     Tatung Einstein TC-01
                    |                  |         |                         |
+TatungEinstein:     Tatung Einstein TC-01
 Ti994a:             Texas Instruments TI-99/4A
 TomyTutor:          Grandstand Tutor
 TRS-80:             Tandy TRS-80 Model I
@@ -74,8 +75,8 @@ Vector-06C:         Vector-06C
 VIC20:              Commodore VIC-20
 X68000:             Sharp X68000
 zet98:              NEC PC-9800
-ZX-Spectrum:        Sinclair ZX Spectrum
                    |                  |         |                         |
+ZX-Spectrum:        Sinclair ZX Spectrum
 zx48:               Sinclair ZX48
 ZX81:               Sinclair ZX81
 ZXNext:             ZX Spectrum Next
@@ -85,8 +86,8 @@ Atari 2600:         Atari 2600
 Atari5200:          Atari 5200
 Atari7800:          Atari 7800
 AtariLynx:          Atari Lynx
-AY-3-8500:          GI Pong (AY-3-8500)
                    |                  |         |                         |
+AY-3-8500:          GI Pong (AY-3-8500)
 BBCBridgeCompanion: BBC Bridge Companion
 C2650:              Arcadia 2001 & VC 4000
 Casio_PV-1000:      Casio PV-1000
@@ -96,8 +97,8 @@ Gameboy:            Nintendo Game Boy
 GameboyColor:       Nintendo Game Boy Color
 Gameboy2P:          Nintendo Game Boy 2 Player          Game Boy Color
 Gameboy2Pultrawide: Nintendo Game Boy 2 Player W        Game Boy Color (Ultrawide)
-Game Gear:          SEGA Game Gear
                    |                  |         |                         |
+Game Gear:          SEGA Game Gear
 GBA:                Nintendo Game Boy Advance
 GBA2P:              Nintendo Game Boy Advance           2 Player
 Genesis:            SEGA Mega Drive
@@ -107,8 +108,8 @@ Intellivision:      Mattel Intellivision
 Intv:               Mattel Intellivision
 Jaguar:             Atari Jaguar
 Konix:              Konix Multisystem
-MegaCD:             SEGA Mega-CD
                    |                  |         |                         |
+MegaCD:             SEGA Mega-CD
 Mega Duck:          Welback Holdings Mega Duck
 NeoGeo:             SNK Neo Geo MVS/AES
 NES:                Nintendo NES                 Famicom Disk System
@@ -118,8 +119,8 @@ PICO:               SEGA Pico
 PokemonMini:        Nintendo Pokemon mini
 PSX:                Sony PlayStation
 S32X:               SEGA Mega Drive 32X
-Saturn:             SEGA Saturn
                    |                  |         |                         |
+Saturn:             SEGA Saturn
 SGB:                Nintendo Super Game Boy
 SMS:                SEGA Master System
 SMS3D:              SEGA Master System 3D
@@ -129,8 +130,8 @@ TurboGrafx16:       NEC PC Engine Duo              SuperGrafx
 VC4000:             Interton Video Computer 4000
 Vectrex:            GCE Vectrex
 WonderSwan:         Bandai WonderSwan
-WonderSwan Color:   Bandai WonderSwan Color
                    |                  |         |                         |
+WonderSwan Color:   Bandai WonderSwan Color
 EpochGalaxyII:      Epoch Galaxy II
 TomyScramble:       Tomytronic Scramble
 Arduboy:            Arduboy
@@ -140,8 +141,8 @@ FlappyBird:         Flappy Bird
 GameOfLife:         Conway's Game of Life
 Hack:               Nand2Tetris Hack Computer
 mandelbrot:         Mandelbrot Fractal Generator
-240pSuite:          240p Test Suite
                    |                  |         |                         |
+240pSuite:          240p Test Suite
 SlugCross:          Slug Cross
 SuperJacob:         Super Jacob Homebrew Core
 ADCTest:            ADC Input and Signal Test
@@ -151,8 +152,8 @@ jtsdram96:          Jotego SDRAM Test 96 MHz
 memtest:            SDRAM Test
 Gameboy_LLAPI:      Nintendo GB/GBC (LLAPI)
 GBA_LLAPI:          Nintendo GBA (LLAPI)
-Genesis_LLAPI:      SEGA Mega Drive (LLAPI)
                    |                  |         |                         |
+Genesis_LLAPI:      SEGA Mega Drive (LLAPI)
 MegaCD_LLAPI:       SEGA Mega-CD (LLAPI)
 NeoGeo_LLAPI:       SNK Neo Geo (LLAPI)
 NES_LLAPI:          Nintendo NES (LLAPI)
@@ -162,6 +163,7 @@ SNES_LLAPI:         Nintendo SNES (LLAPI)
 TurboGrafx16_LLAPI: NEC PC Engine Duo (LLAPI)
 arcade_SMS:         SEGA System E
 arcade_NeoGeo:      SNK NeoGeo MVS
+                   |                  |         |                         |
 Alpha68k:           SNK Alpha 68000
 
 
