@@ -372,6 +372,6 @@ Ultratank:          Kee Games - Ultra Tank
 VBall:              Technos - U.S. Championship V'Ball
 Xevious:            Namco - Xevious
 XSleenaCore:        Technos - Soldier of Light
-Zaxxon:             zaxxon:18_Common_EU
+Zaxxon:             SEGA - Zaxxon
                    |                  |         |                         |
 ZigZag:             LAX - Zig Zag
