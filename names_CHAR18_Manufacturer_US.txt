@@ -40,7 +40,7 @@ Laser310:           VTech Laser 350
 Lynx48:             Camp. Lynx 48/96K
 MacPlus:            Apple Mac Plus
 Memotech-MTX:       Memotech MTX
-Minimig:            Comm. Amiga
+Minimig:            Commodore Amiga
 mister_coco:        Tandy TRS-80 CoCo3
                    |                  |         |                         |
 MSX:                MSX (1chipMSX)
