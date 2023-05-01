@@ -17,9 +17,9 @@ AcornAtom:          Acorn Atom
 AcornElectron:      Acorn Electron
 BBCMicro:           BBC Micro/Master
 BK0011M:            Elec. BK-0011M
-C128:               Comm. 128
-C16:                Comm. 16 & Plus/4
-C64:                Comm. 64
+C128:               Commodore 128
+C16:                Commodore 16
+C64:                Commodore 64
                    |                  |         |                         |
 Casio_PV-2000:      Casio PV-2000
 ChannelF:           Fair. Channel F
@@ -52,7 +52,7 @@ Oric:               Oric-1/Atmos
 PC88:               NEC PC-8801
 PCXT:               IBM PC/XT
 PDP1:               DEC PDP-1
-PET2001:            Comm. PET 2001
+PET2001:            Commodore PET 2001
                    |                  |         |                         |
 PMD85:              Tesla PMD 85-2A
 QL:                 Sinc. QL
@@ -72,7 +72,7 @@ TRS-80:             Tandy TRS-80
 TSConf:             ZX Evo. TS-Config
 UK101:              Compukit UK101
 Vector-06C:         Vector-06C
-VIC20:              Comm. VIC-20
+VIC20:              Commodore VIC-20
 X68000:             Sharp X68000
 zet98:              NEC PC-9800
                    |                  |         |                         |
@@ -111,6 +111,7 @@ Konix:              Konix Multisystem
                    |                  |         |                         |
 MegaCD:             SEGA Mega-CD
 Mega Duck:          Welb. Mega Duck
+MyVision:           Nichi. My Vision
 NeoGeo:             SNK Neo Geo
 NES:                Nint. Famicom
 NES3D:              Nint. Famicom 3D
@@ -118,8 +119,8 @@ Odyssey2:           Magn. Odyssey2
 PICO:               SEGA Pico
 PokemonMini:        Nint. Pokemon mini
 PSX:                Sony PlayStation
-S32X:               SEGA Super 32X
                    |                  |         |                         |
+S32X:               SEGA Super 32X
 Saturn:             SEGA Saturn
 SGB:                Nint. Super GB
 SMS:                SEGA Mark III
@@ -129,8 +130,8 @@ SuperVision:        Wata. SuperVision
 TurboGrafx16:       NEC PC Engine/CD
 VC4000:             Interton VC 4000
 Vectrex:            GCE Vectrex
-WonderSwan:         Bandai WonderSwan
                    |                  |         |                         |
+WonderSwan:         Bandai WonderSwan
 WonderSwan Color:   Bandai WS Color
 EpochGalaxyII:      Epoch Galaxy II
 TomyScramble:       Tomy Scramble
@@ -140,8 +141,8 @@ Chip8:              CHIP-8
 FlappyBird:         Flappy Bird
 GameOfLife:         Game of Life
 Hack:               Nand2Tetris Hack
-mandelbrot:         Mandelbrot Zoom
                    |                  |         |                         |
+mandelbrot:         Mandelbrot Zoom
 240pSuite:          240p Test Suite
 SlugCross:          Slug Cross
 SuperJacob:         Super Jacob
@@ -151,8 +152,8 @@ jtsdram48:          SDRAM Test 48 MHz
 jtsdram96:          SDRAM Test 96 MHz
 memtest:            SDRAM Test
 Gameboy_LLAPI:      Nint. GB/C #LLAPI
-GBA_LLAPI:          Nint. GBA #LLAPI
                    |                  |         |                         |
+GBA_LLAPI:          Nint. GBA #LLAPI
 Genesis_LLAPI:      SEGA MD #LLAPI
 MegaCD_LLAPI:       SEGA MegaCD #LLAPI
 NeoGeo_LLAPI:       SNK Neo Geo #LLAPI
@@ -162,8 +163,8 @@ SMS_LLAPI:          SEGA MS #LLAPI
 SNES_LLAPI:         Nint. SFC #LLAPI
 TurboGrafx16_LLAPI: NEC PCE/CD #LLAPI
 arcade_SMS:         SEGA System E
-arcade_NeoGeo:      SNK NeoGeo MVS
                    |                  |         |                         |
+arcade_NeoGeo:      SNK NeoGeo MVS
 Alpha68k:           SNK Alpha 68000
 
 
