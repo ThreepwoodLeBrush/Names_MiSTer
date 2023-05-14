@@ -44,7 +44,7 @@ Minimig:            Commodore Amiga
 mister_coco:        Tandy TRS-80 Color Comp. 3
                    |                  |         |                         |
 MSX:                MSX (1chipMSX)
-MSX1:               MSX1/MSX2
+MSX1:               MSX1
 MultiComp:          MultiComp (Z80/6502/6809)
 Ondra_SPO186:       Ondra SPO 186
 ORAO:               Orao
