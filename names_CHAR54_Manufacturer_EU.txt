@@ -127,10 +127,11 @@ SMS:                SEGA Master System
 SMS3D:              SEGA Master System 3D
 SNES:               Nintendo Super NES
 SuperVision:        Watara/Quickshot SuperVision
+Super_Vision_8000:  Bandai Super Vision            TV Jack 8000
 TurboGrafx16:       NEC PC Engine Duo              SuperGrafx
 VC4000:             Interton Video Computer 4000
-Vectrex:            GCE Vectrex
                    |                  |         |                         |
+Vectrex:            GCE Vectrex
 WonderSwan:         Bandai WonderSwan
 WonderSwan Color:   Bandai WonderSwan Color
 EpochGalaxyII:      Epoch Galaxy II
@@ -140,8 +141,8 @@ Chess:              Chess
 Chip8:              CHIP-8
 FlappyBird:         Flappy Bird
 GameOfLife:         Conway's Game of Life
-Hack:               Nand2Tetris Hack Computer
                    |                  |         |                         |
+Hack:               Nand2Tetris Hack Computer
 mandelbrot:         Mandelbrot Fractal Generator
 240pSuite:          240p Test Suite
 SlugCross:          Slug Cross
@@ -151,8 +152,8 @@ InputTest:          Controller Input Tester
 jtsdram48:          Jotego SDRAM Test 48 MHz
 jtsdram96:          Jotego SDRAM Test 96 MHz
 memtest:            SDRAM Test
-Gameboy_LLAPI:      Nintendo GB/GBC (LLAPI)
                    |                  |         |                         |
+Gameboy_LLAPI:      Nintendo GB/GBC (LLAPI)
 GBA_LLAPI:          Nintendo GBA (LLAPI)
 Genesis_LLAPI:      SEGA Mega Drive (LLAPI)
 MegaCD_LLAPI:       SEGA Mega-CD (LLAPI)
@@ -162,8 +163,8 @@ Pacman_LLAPI:       Pac-Man (LLAPI)
 SMS_LLAPI:          SEGA Master System (LLAPI)
 SNES_LLAPI:         Nintendo SNES (LLAPI)
 TurboGrafx16_LLAPI: NEC PC Engine Duo (LLAPI)
-arcade_SMS:         SEGA System E
                    |                  |         |                         |
+arcade_SMS:         SEGA System E
 arcade_NeoGeo:      SNK NeoGeo MVS
 Alpha68k:           SNK Alpha 68000
 

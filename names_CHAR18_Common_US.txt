@@ -127,10 +127,11 @@ SMS:                Master System
 SMS3D:              Master System 3D
 SNES:               Super NES
 SuperVision:        SuperVision
+Super_Vision_8000:  Super Vision 8000
 TurboGrafx16:       Turbo Duo
 VC4000:             VC 4000
-Vectrex:            Vectrex
                    |                  |         |                         |
+Vectrex:            Vectrex
 WonderSwan:         WonderSwan
 WonderSwan Color:   WonderSwan Color
 EpochGalaxyII:      Galaxy II
@@ -140,8 +141,8 @@ Chess:              Chess
 Chip8:              CHIP-8
 FlappyBird:         Flappy Bird
 GameOfLife:         Game of Life
-Hack:               Nand2Tetris Hack
                    |                  |         |                         |
+Hack:               Nand2Tetris Hack
 mandelbrot:         Mandelbrot Zoom
 240pSuite:          240p Test Suite
 SlugCross:          Slug Cross
@@ -151,8 +152,8 @@ InputTest:          Gamepad Input Test
 jtsdram48:          SDRAM Test 48 MHz
 jtsdram96:          SDRAM Test 96 MHz
 memtest:            SDRAM Test
-Gameboy_LLAPI:      GB/GBC #LLAPI
                    |                  |         |                         |
+Gameboy_LLAPI:      GB/GBC #LLAPI
 GBA_LLAPI:          GBA #LLAPI
 Genesis_LLAPI:      Genesis #LLAPI
 MegaCD_LLAPI:       SEGA CD #LLAPI
@@ -162,8 +163,8 @@ Pacman_LLAPI:       Pac-Man #LLAPI
 SMS_LLAPI:          SMS #LLAPI
 SNES_LLAPI:         SNES #LLAPI
 TurboGrafx16_LLAPI: TGFX-16/CD #LLAPI
-arcade_SMS:         SEGA System E
                    |                  |         |                         |
+arcade_SMS:         SEGA System E
 arcade_NeoGeo:      SNK NeoGeo MVS
 Alpha68k:           SNK Alpha 68000
 
