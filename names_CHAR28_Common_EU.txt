@@ -117,9 +117,10 @@ NES:                NES
 NES3D:              NES 3D
 Odyssey2:           Videopac G7000
 PICO:               Kids Computer Pico
+Pocket Challenge V2:Pocket Challenge V2
 PokemonMini:        Pokemon mini
-PSX:                PlayStation
                    |                  |         |                         |
+PSX:                PlayStation
 S32X:               Mega Drive 32X
 Saturn:             Saturn
 SGB:                Super Game Boy
@@ -129,8 +130,8 @@ SNES:               Super NES
 SuperVision:        SuperVision
 Super_Vision_8000:  Super Vision 8000
 TurboGrafx16:       PC Engine Duo
-VC4000:             Video Computer 4000
                    |                  |         |                         |
+VC4000:             Video Computer 4000
 Vectrex:            Vectrex
 WonderSwan:         WonderSwan
 WonderSwan Color:   WonderSwan Color
@@ -140,8 +141,8 @@ Arduboy:            Arduboy
 Chess:              Chess
 Chip8:              CHIP-8
 FlappyBird:         Flappy Bird
-GameOfLife:         Game of Life
                    |                  |         |                         |
+GameOfLife:         Game of Life
 Hack:               Nand2Tetris Hack
 mandelbrot:         Mandelbrot Fractal Generator
 240pSuite:          240p Test Suite
@@ -151,8 +152,8 @@ ADCTest:            ADC Input and Signal Test
 InputTest:          Controller Input Tester
 jtsdram48:          SDRAM Test 48 MHz
 jtsdram96:          SDRAM Test 96 MHz
-memtest:            SDRAM Test
                    |                  |         |                         |
+memtest:            SDRAM Test
 Gameboy_LLAPI:      Game Boy/Color #LLAPI
 GBA_LLAPI:          Game Boy Advance #LLAPI
 Genesis_LLAPI:      Mega Drive #LLAPI
@@ -162,8 +163,8 @@ NES_LLAPI:          NES #LLAPI
 Pacman_LLAPI:       Namco - Pac-Man #LLAPI
 SMS_LLAPI:          Master System #LLAPI
 SNES_LLAPI:         Super NES #LLAPI
-TurboGrafx16_LLAPI: PC Engine Duo #LLAPI
                    |                  |         |                         |
+TurboGrafx16_LLAPI: PC Engine Duo #LLAPI
 arcade_SMS:         SEGA System E
 arcade_NeoGeo:      SNK NeoGeo MVS
 Alpha68k:           SNK Alpha 68000

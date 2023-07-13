@@ -117,9 +117,10 @@ NES:                Famicom
 NES3D:              Famicom 3D
 Odyssey2:           Magnavox Odyssey2
 PICO:               Kids Computer Pico
+Pocket Challenge V2:Pocket Challenge 2
 PokemonMini:        Pokemon mini
-PSX:                PlayStation
                    |                  |         |                         |
+PSX:                PlayStation
 S32X:               Super 32X
 Saturn:             Saturn
 SGB:                Super Game Boy
@@ -129,8 +130,8 @@ SNES:               Super Famicom
 SuperVision:        SuperVision
 Super_Vision_8000:  Super Vision 8000
 TurboGrafx16:       PC Engine Duo
-VC4000:             VC 4000
                    |                  |         |                         |
+VC4000:             VC 4000
 Vectrex:            Vectrex
 WonderSwan:         WonderSwan
 WonderSwan Color:   WonderSwan Color
@@ -140,8 +141,8 @@ Arduboy:            Arduboy
 Chess:              Chess
 Chip8:              CHIP-8
 FlappyBird:         Flappy Bird
-GameOfLife:         Game of Life
                    |                  |         |                         |
+GameOfLife:         Game of Life
 Hack:               Nand2Tetris Hack
 mandelbrot:         Mandelbrot Zoom
 240pSuite:          240p Test Suite
@@ -151,8 +152,8 @@ ADCTest:            ADC Input Test
 InputTest:          Gamepad Input Test
 jtsdram48:          SDRAM Test 48 MHz
 jtsdram96:          SDRAM Test 96 MHz
-memtest:            SDRAM Test
                    |                  |         |                         |
+memtest:            SDRAM Test
 Gameboy_LLAPI:      GB/GBC #LLAPI
 GBA_LLAPI:          GBA #LLAPI
 Genesis_LLAPI:      Mega Drive #LLAPI
@@ -162,8 +163,8 @@ NES_LLAPI:          Famicom #LLAPI
 Pacman_LLAPI:       Puck Man #LLAPI
 SMS_LLAPI:          MS & GG #LLAPI
 SNES_LLAPI:         SFC #LLAPI
-TurboGrafx16_LLAPI: PC Engine #LLAPI
                    |                  |         |                         |
+TurboGrafx16_LLAPI: PC Engine #LLAPI
 arcade_SMS:         SEGA System E
 arcade_NeoGeo:      SNK NeoGeo MVS
 Alpha68k:           SNK Alpha 68000
