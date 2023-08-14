@@ -113,7 +113,7 @@ Konix:              Konix Multisystem
 MegaCD:             SEGA CD
 Mega Duck:          Welb. Mega Duck
 MyVision:           Nichi. My Vision
-N64:                Nintendo 64
+N64:                Nint. 64
 NeoGeo:             SNK Neo Geo
 NES:                Nint. NES
 NES3D:              Nint. NES 3D
