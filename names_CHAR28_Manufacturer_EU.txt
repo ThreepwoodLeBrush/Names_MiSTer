@@ -99,6 +99,7 @@ Gameboy2P:          Nintendo Game Boy/Color 2P
 Gameboy2Pultrawide: Nintendo Game Boy/Color 2PW
                    |                  |         |                         |
 Game Gear:          SEGA Game Gear
+GameAndWatch:       Nintendo Game & Watch
 GBA:                Nintendo Game Boy Advance
 GBA2P:              Nintendo Game Boy Advance 2P
 Genesis:            SEGA Mega Drive
@@ -107,19 +108,20 @@ GnW:                Nintendo Game & Watch
 Intellivision:      Mattel Intellivision
 Intv:               Mattel Intellivision
 Jaguar:             Atari Jaguar
-Konix:              Konix Multisystem
                    |                  |         |                         |
+Konix:              Konix Multisystem
 MegaCD:             SEGA Mega-CD
 Mega Duck:          Welback Holdings Mega Duck
 MyVision:           Nichibutsu My Vision
+N64:                Nintendo 64
 NeoGeo:             SNK Neo Geo MVS/AES
 NES:                Nintendo NES
 NES3D:              Nintendo NES 3D
 Odyssey2:           Philips Videopac G7000
 PICO:               SEGA Pico
+                   |                  |         |                         |
 Pocket Challenge V2:Benesse Pocket Challenge V2
 PokemonMini:        Nintendo Pokemon mini
-                   |                  |         |                         |
 PSX:                Sony PlayStation
 S32X:               SEGA Mega Drive 32X
 Saturn:             SEGA Saturn
@@ -128,9 +130,9 @@ SMS:                SEGA Master System
 SMS3D:              SEGA Master System 3D
 SNES:               Nintendo Super NES
 SuperVision:        Watara/Quickshot SuperVision
+                   |                  |         |                         |
 Super_Vision_8000:  Bandai Super Vision 8000
 TurboGrafx16:       NEC PC Engine Duo
-                   |                  |         |                         |
 VC4000:             Interton Video Computer 4000
 Vectrex:            GCE Vectrex
 WonderSwan:         Bandai WonderSwan
@@ -139,9 +141,9 @@ EpochGalaxyII:      Epoch Galaxy II
 TomyScramble:       Tomytronic Scramble
 Arduboy:            Arduboy
 Chess:              Chess
+                   |                  |         |                         |
 Chip8:              CHIP-8
 FlappyBird:         Flappy Bird
-                   |                  |         |                         |
 GameOfLife:         Conway's Game of Life
 Hack:               Nand2Tetris Hack Computer
 mandelbrot:         Mandelbrot Fractal Generator
@@ -150,9 +152,9 @@ SlugCross:          Slug Cross
 SuperJacob:         Super Jacob Homebrew Core
 ADCTest:            ADC Input and Signal Test
 InputTest:          Controller Input Tester
+                   |                  |         |                         |
 jtsdram48:          Jotego SDRAM Test 48 MHz
 jtsdram96:          Jotego SDRAM Test 96 MHz
-                   |                  |         |                         |
 memtest:            SDRAM Test
 Gameboy_LLAPI:      Nintendo GB/GBC (LLAPI)
 GBA_LLAPI:          Nintendo GBA (LLAPI)
@@ -161,9 +163,9 @@ MegaCD_LLAPI:       SEGA Mega-CD (LLAPI)
 NeoGeo_LLAPI:       SNK Neo Geo (LLAPI)
 NES_LLAPI:          Nintendo NES (LLAPI)
 Pacman_LLAPI:       Pac-Man (LLAPI)
+                   |                  |         |                         |
 SMS_LLAPI:          SEGA Master System (LLAPI)
 SNES_LLAPI:         Nintendo SNES (LLAPI)
-                   |                  |         |                         |
 TurboGrafx16_LLAPI: NEC PC Engine Duo (LLAPI)
 arcade_SMS:         SEGA System E
 arcade_NeoGeo:      SNK NeoGeo MVS

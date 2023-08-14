@@ -99,6 +99,7 @@ Gameboy2P:          Game Boy/Color 2P
 Gameboy2Pultrawide: Game Boy/Color 2PW
                    |                  |         |                         |
 Game Gear:          Game Gear
+GameAndWatch:       Game & Watch
 GBA:                Game Boy Advance
 GBA2P:              Game Boy Adv. 2P
 Genesis:            Genesis
@@ -107,19 +108,20 @@ GnW:                Game & Watch
 Intellivision:      Intellivision
 Intv:               Intellivision
 Jaguar:             Atari Jaguar
-Konix:              Multisystem
                    |                  |         |                         |
+Konix:              Multisystem
 MegaCD:             SEGA CD
 Mega Duck:          Mega Duck
 MyVision:           My Vision
+N64:                N64
 NeoGeo:             Neo Geo MVS/AES
 NES:                NES
 NES3D:              NES 3D
 Odyssey2:           Magnavox Odyssey2
 PICO:               Kids Computer Pico
+                   |                  |         |                         |
 Pocket Challenge V2:Pocket Challenge 2
 PokemonMini:        Pokemon mini
-                   |                  |         |                         |
 PSX:                PlayStation
 S32X:               Genesis 32X
 Saturn:             Saturn
@@ -128,9 +130,9 @@ SMS:                Master System
 SMS3D:              Master System 3D
 SNES:               Super NES
 SuperVision:        SuperVision
+                   |                  |         |                         |
 Super_Vision_8000:  Super Vision 8000
 TurboGrafx16:       Turbo Duo
-                   |                  |         |                         |
 VC4000:             VC 4000
 Vectrex:            Vectrex
 WonderSwan:         WonderSwan
@@ -139,9 +141,9 @@ EpochGalaxyII:      Galaxy II
 TomyScramble:       Tomy Scramble
 Arduboy:            Arduboy
 Chess:              Chess
+                   |                  |         |                         |
 Chip8:              CHIP-8
 FlappyBird:         Flappy Bird
-                   |                  |         |                         |
 GameOfLife:         Game of Life
 Hack:               Nand2Tetris Hack
 mandelbrot:         Mandelbrot Zoom
@@ -150,9 +152,9 @@ SlugCross:          Slug Cross
 SuperJacob:         Super Jacob
 ADCTest:            ADC Input Test
 InputTest:          Gamepad Input Test
+                   |                  |         |                         |
 jtsdram48:          SDRAM Test 48 MHz
 jtsdram96:          SDRAM Test 96 MHz
-                   |                  |         |                         |
 memtest:            SDRAM Test
 Gameboy_LLAPI:      GB/GBC #LLAPI
 GBA_LLAPI:          GBA #LLAPI
@@ -161,9 +163,9 @@ MegaCD_LLAPI:       SEGA CD #LLAPI
 NeoGeo_LLAPI:       Neo Geo #LLAPI
 NES_LLAPI:          NES #LLAPI
 Pacman_LLAPI:       Pac-Man #LLAPI
+                   |                  |         |                         |
 SMS_LLAPI:          SMS #LLAPI
 SNES_LLAPI:         SNES #LLAPI
-                   |                  |         |                         |
 TurboGrafx16_LLAPI: TGFX-16/CD #LLAPI
 arcade_SMS:         SEGA System E
 arcade_NeoGeo:      SNK NeoGeo MVS

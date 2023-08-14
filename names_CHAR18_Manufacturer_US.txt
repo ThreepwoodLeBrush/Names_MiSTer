@@ -99,6 +99,7 @@ Gameboy2P:          Nint. GB / GBC 2P
 Gameboy2Pultrawide: Nint. GB / GBC 2PW
                    |                  |         |                         |
 Game Gear:          SEGA Game Gear
+GameAndWatch:       Nint. Game & Watch
 GBA:                Nint. GBA
 GBA2P:              Nint. GBA 2 Player
 Genesis:            SEGA Genesis
@@ -107,19 +108,20 @@ GnW:                Nint. Game & Watch
 Intellivision:      Mattel Intelliv.
 Intv:               Mattel Intelliv.
 Jaguar:             Atari Jaguar
-Konix:              Konix Multisystem
                    |                  |         |                         |
+Konix:              Konix Multisystem
 MegaCD:             SEGA CD
 Mega Duck:          Welb. Mega Duck
 MyVision:           Nichi. My Vision
+N64:                Nintendo 64
 NeoGeo:             SNK Neo Geo
 NES:                Nint. NES
 NES3D:              Nint. NES 3D
 Odyssey2:           Magn. Odyssey2
 PICO:               SEGA Pico
+                   |                  |         |                         |
 Pocket Challenge V2:Benn. Pocket Ch. 2
 PokemonMini:        Nint. Pokemon mini
-                   |                  |         |                         |
 PSX:                Sony PlayStation
 S32X:               SEGA Genesis 32X
 Saturn:             SEGA Saturn
@@ -128,9 +130,9 @@ SMS:                SEGA Master System
 SMS3D:              SEGA Master Sys 3D
 SNES:               Nint. Super NES
 SuperVision:        Wata. SuperVision
+                   |                  |         |                         |
 Super_Vision_8000:  Band. SVision 8000
 TurboGrafx16:       NEC TurboGrafx-16
-                   |                  |         |                         |
 VC4000:             Interton VC 4000
 Vectrex:            GCE Vectrex
 WonderSwan:         Bandai WonderSwan
@@ -139,9 +141,9 @@ EpochGalaxyII:      Epoch Galaxy II
 TomyScramble:       Tomy Scramble
 Arduboy:            Arduboy
 Chess:              Chess
+                   |                  |         |                         |
 Chip8:              CHIP-8
 FlappyBird:         Flappy Bird
-                   |                  |         |                         |
 GameOfLife:         Game of Life
 Hack:               Nand2Tetris Hack
 mandelbrot:         Mandelbrot Zoom
@@ -150,9 +152,9 @@ SlugCross:          Slug Cross
 SuperJacob:         Super Jacob
 ADCTest:            ADC Input Test
 InputTest:          Gamepad Input Test
+                   |                  |         |                         |
 jtsdram48:          SDRAM Test 48 MHz
 jtsdram96:          SDRAM Test 96 MHz
-                   |                  |         |                         |
 memtest:            SDRAM Test
 Gameboy_LLAPI:      Nint. GB/C #LLAPI
 GBA_LLAPI:          Nint. GBA #LLAPI
@@ -161,9 +163,9 @@ MegaCD_LLAPI:       SEGA CD #LLAPI
 NeoGeo_LLAPI:       SNK Neo Geo #LLAPI
 NES_LLAPI:          Nint. NES #LLAPI
 Pacman_LLAPI:       Pac-Man #LLAPI
+                   |                  |         |                         |
 SMS_LLAPI:          SEGA MS #LLAPI
 SNES_LLAPI:         Nint. SNES #LLAPI
-                   |                  |         |                         |
 TurboGrafx16_LLAPI: NEC TGFX16 #LLAPI
 arcade_SMS:         SEGA System E
 arcade_NeoGeo:      SNK NeoGeo MVS
