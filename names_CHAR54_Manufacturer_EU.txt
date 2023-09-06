@@ -111,7 +111,7 @@ Jaguar:             Atari Jaguar
                    |                  |         |                         |
 Konix:              Konix Multisystem
 MegaCD:             SEGA Mega-CD
-MegaDrive:          SEGA Mega Drive N.
+MegaDrive:          SEGA Mega Drive (Nuked-MD)
 Mega Duck:          Welback Holdings Mega Duck
 MyVision:           Nichibutsu My Vision
 N64:                Nintendo 64
