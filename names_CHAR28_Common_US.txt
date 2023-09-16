@@ -114,7 +114,7 @@ MegaCD:             SEGA CD
 MegaDrive:          Genesis (Nuked-MD)
 Mega Duck:          Mega Duck
 MyVision:           My Vision
-N64:                N64
+N64:                Nintendo 64
 NeoGeo:             Neo Geo MVS/AES
 NES:                NES
 NES3D:              NES 3D
