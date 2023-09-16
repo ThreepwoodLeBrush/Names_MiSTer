@@ -114,7 +114,7 @@ MegaCD:             SEGA CD
 MegaDrive:          Genesis (Nuked-MD)
 Mega Duck:          Mega Duck
 MyVision:           My Vision
-N64:                N64
+N64:                Nintendo 64
 NeoGeo:             Neo Geo MVS/AES
 NES:                NES
 NES3D:              NES 3D
@@ -122,7 +122,7 @@ Odyssey2:           Magnavox Odyssey2
                    |                  |         |                         |
 PICO:               Kids Computer Pico
 Pocket Challenge V2:Pocket Challenge 2
-PokemonMini:        Pokemon mini
+PokemonMini:        Pokemon Mini
 PSX:                PlayStation
 S32X:               Genesis 32X
 Saturn:             Saturn
