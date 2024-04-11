@@ -102,7 +102,7 @@ Game Gear:          SEGA Game Gear
 GameAndWatch:       Nintendo Game & Watch agg32
 GBA:                Nintendo Game Boy Advance
 GBA2P:              Nintendo Game Boy Advance 2P
-Genesis:            SEGA Mega Drive
+Genesis:            SEGA MD (old)
 Genesis3D:          SEGA Mega Drive 3D
 GnW:                Nintendo Game & Watch
 Intellivision:      Mattel Intellivision
@@ -111,7 +111,7 @@ Jaguar:             Atari Jaguar
                    |                  |         |                         |
 Konix:              Konix Multisystem
 MegaCD:             SEGA Mega-CD
-MegaDrive:          SEGA Mega Drive (Nuked-MD)
+MegaDrive:          SEGA Mega Drive
 Mega Duck:          Welback Holdings Mega Duck
 MyVision:           Nichibutsu My Vision
 N64:                Nintendo 64

@@ -102,7 +102,7 @@ Game Gear:          SEGA Game Gear
 GameAndWatch:       Nint. G&W agg32
 GBA:                Nint. GBA
 GBA2P:              Nint. GBA 2 Player
-Genesis:            SEGA Mega Drive
+Genesis:            SEGA MD (old)
 Genesis3D:          SEGA Mega Drive 3D
 GnW:                Nint. Game & Watch
 Intellivision:      Mattel Intelliv.
@@ -111,7 +111,7 @@ Jaguar:             Atari Jaguar
                    |                  |         |                         |
 Konix:              Konix Multisystem
 MegaCD:             SEGA Mega-CD
-MegaDrive:          SEGA Mega Drive N.
+MegaDrive:          SEGA Mega Drive
 Mega Duck:          Welb. Mega Duck
 MyVision:           Nichi. My Vision
 N64:                Nint. 64

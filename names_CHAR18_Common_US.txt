@@ -102,7 +102,7 @@ Game Gear:          Game Gear
 GameAndWatch:       Game & Watch agg32
 GBA:                Game Boy Advance
 GBA2P:              Game Boy Adv. 2P
-Genesis:            Genesis
+Genesis:            Genesis (old)
 Genesis3D:          Genesis 3D
 GnW:                Game & Watch
 Intellivision:      Intellivision
@@ -111,7 +111,7 @@ Jaguar:             Atari Jaguar
                    |                  |         |                         |
 Konix:              Multisystem
 MegaCD:             SEGA CD
-MegaDrive:          Genesis (Nuked-MD)
+MegaDrive:          Genesis
 Mega Duck:          Mega Duck
 MyVision:           My Vision
 N64:                N64
