@@ -102,8 +102,8 @@ Game Gear:          SEGA Game Gear
 GameAndWatch:       Nintendo Game & Watch agg32
 GBA:                Nintendo Game Boy Advance
 GBA2P:              Nintendo Game Boy Advance 2P
-Genesis:            SEGA MD (old)
-Genesis3D:          SEGA Mega Drive 3D
+Genesis:            SEGA Mega Drive (old)
+Genesis3D:          SEGA MD 3D (old)
 GnW:                Nintendo Game & Watch
 Intellivision:      Mattel Intellivision
 Intv:               Mattel Intellivision

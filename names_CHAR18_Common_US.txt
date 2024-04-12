@@ -103,7 +103,7 @@ GameAndWatch:       Game & Watch agg32
 GBA:                Game Boy Advance
 GBA2P:              Game Boy Adv. 2P
 Genesis:            Genesis (old)
-Genesis3D:          Genesis 3D
+Genesis3D:          Genesis 3D (old)
 GnW:                Game & Watch
 Intellivision:      Intellivision
 Intv:               Intellivision

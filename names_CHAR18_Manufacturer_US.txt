@@ -103,7 +103,7 @@ GameAndWatch:       Nint. G&W agg32
 GBA:                Nint. GBA
 GBA2P:              Nint. GBA 2 Player
 Genesis:            SEGA Genesis (old)
-Genesis3D:          SEGA Genesis 3D
+Genesis3D:          SEGA Gen. 3D (old)
 GnW:                Nint. Game & Watch
 Intellivision:      Mattel Intelliv.
 Intv:               Mattel Intelliv.
