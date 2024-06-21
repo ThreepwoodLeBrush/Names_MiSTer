@@ -1,0 +1,18 @@
+{
+    "base_files_url": "",
+    "db_files": [],
+    "db_id": "names_txt",
+    "db_url": "https://raw.githubusercontent.com/ThreepwoodLeBrush/Names_MiSTer/dbs/names_CHAR28_Common_US.json",
+    "default_options": {},
+    "files": {
+        "names.txt": {
+            "hash": "08434d6a22a885a8554f9ac263ec0940",
+            "reboot": true,
+            "size": 6530,
+            "url": "https://raw.githubusercontent.com/ThreepwoodLeBrush/Names_MiSTer/173e2b2c1598ec748b03407483c92d70f0745307/names_CHAR28_Common_US.txt"
+        }
+    },
+    "folders": {},
+    "timestamp": 1718974742,
+    "zips": {}
+}
