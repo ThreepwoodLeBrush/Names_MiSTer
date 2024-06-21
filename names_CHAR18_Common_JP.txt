@@ -157,13 +157,14 @@ InputTest:          Gamepad Input Test
 jtsdram48:          SDRAM Test 48 MHz
 jtsdram96:          SDRAM Test 96 MHz
 memtest:            SDRAM Test
+MiSTerLaggy:        MiSTer Laggy
 Gameboy_LLAPI:      GB/GBC #LLAPI
 GBA_LLAPI:          GBA #LLAPI
 Genesis_LLAPI:      Mega Drive #LLAPI
 MegaCD_LLAPI:       Mega-CD #LLAPI
 NeoGeo_LLAPI:       Neo Geo #LLAPI
-NES_LLAPI:          Famicom #LLAPI
                    |                  |         |                         |
+NES_LLAPI:          Famicom #LLAPI
 Pacman_LLAPI:       Puck Man #LLAPI
 SMS_LLAPI:          MS & GG #LLAPI
 SNES_LLAPI:         SFC #LLAPI

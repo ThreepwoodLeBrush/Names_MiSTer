@@ -157,13 +157,14 @@ InputTest:          Controller Input Tester
 jtsdram48:          SDRAM Test 48 MHz
 jtsdram96:          SDRAM Test 96 MHz
 memtest:            SDRAM Test
+MiSTerLaggy:        MiSTer Laggy
 Gameboy_LLAPI:      Game Boy/Color #LLAPI
 GBA_LLAPI:          Game Boy Advance #LLAPI
 Genesis_LLAPI:      Mega Drive #LLAPI
 MegaCD_LLAPI:       Mega-CD #LLAPI
 NeoGeo_LLAPI:       Neo Geo MVS/AES #LLAPI
-NES_LLAPI:          NES #LLAPI
                    |                  |         |                         |
+NES_LLAPI:          NES #LLAPI
 Pacman_LLAPI:       Namco - Pac-Man #LLAPI
 SMS_LLAPI:          Master System #LLAPI
 SNES_LLAPI:         Super NES #LLAPI
