@@ -99,7 +99,7 @@ Gameboy2P:          Game Boy/Color 2P
 Gameboy2Pultrawide: Game Boy/Color 2PW
                    |                  |         |                         |
 Game Gear:          Game Gear
-GameAndWatch:       Game & Watch agg32
+GameAndWatch:       Game & Watch agg23
 GBA:                Game Boy Advance
 GBA2P:              Game Boy Adv. 2P
 Genesis:            Genesis (old)

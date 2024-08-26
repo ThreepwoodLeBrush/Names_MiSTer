@@ -99,7 +99,7 @@ Gameboy2P:          Nintendo Game Boy 2 Player          Game Boy Color
 Gameboy2Pultrawide: Nintendo Game Boy 2 Player W        Game Boy Color (Ultrawide)
                    |                  |         |                         |
 Game Gear:          SEGA Game Gear
-GameAndWatch:       Nintendo Game & Watch agg32
+GameAndWatch:       Nintendo Game & Watch agg23
 GBA:                Nintendo Game Boy Advance
 GBA2P:              Nintendo Game Boy Advance           2 Player
 Genesis:            SEGA Mega Drive (old)
