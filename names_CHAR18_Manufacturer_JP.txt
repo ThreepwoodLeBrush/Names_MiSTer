@@ -99,7 +99,7 @@ Gameboy2P:          Nint. GB / GBC 2P
 Gameboy2Pultrawide: Nint. GB / GBC 2PW
                    |                  |         |                         |
 Game Gear:          SEGA Game Gear
-GameAndWatch:       Nint. G&W agg32
+GameAndWatch:       Nint. G&W agg23
 GBA:                Nint. GBA
 GBA2P:              Nint. GBA 2 Player
 Genesis:            SEGA MD (old)

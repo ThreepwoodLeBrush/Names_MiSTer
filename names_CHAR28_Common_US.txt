@@ -99,7 +99,7 @@ Gameboy2P:          Game Boy/Color 2 Player
 Gameboy2Pultrawide: Game Boy/Color 2 Player Wide
                    |                  |         |                         |
 Game Gear:          Game Gear
-GameAndWatch:       Game & Watch agg32
+GameAndWatch:       Game & Watch agg23
 GBA:                Game Boy Advance
 GBA2P:              Game Boy Advance 2 Player
 Genesis:            Genesis (old)
