@@ -126,11 +126,12 @@ PokemonMini:        Pokemon mini
 PSX:                PlayStation
 S32X:               Genesis 32X
 Saturn:             Saturn
+SCV:                Super Cassette Vision
 SGB:                Super Game Boy
 SMS:                Master System
 SMS3D:              Master System 3D
-SNES:               Super NES
                    |                  |         |                         |
+SNES:               Super NES
 SuperVision:        SuperVision
 Super_Vision_8000:  Super Vision 8000
 TurboGrafx16:       Turbo Duo
@@ -140,8 +141,8 @@ WonderSwan:         WonderSwan
 WonderSwan Color:   WonderSwan Color
 EpochGalaxyII:      Galaxy II
 TomyScramble:       Tomy Scramble
-Arduboy:            Arduboy
                    |                  |         |                         |
+Arduboy:            Arduboy
 Chess:              Chess
 Chip8:              CHIP-8
 FlappyBird:         Flappy Bird
@@ -151,8 +152,8 @@ mandelbrot:         Mandelbrot Fractal Generator
 240pSuite:          240p Test Suite
 SlugCross:          Slug Cross
 SuperJacob:         Super Jacob
-ADCTest:            ADC Input and Signal Test
                    |                  |         |                         |
+ADCTest:            ADC Input and Signal Test
 InputTest:          Controller Input Tester
 jtsdram48:          SDRAM Test 48 MHz
 jtsdram96:          SDRAM Test 96 MHz
@@ -162,8 +163,8 @@ Gameboy_LLAPI:      Game Boy/Color #LLAPI
 GBA_LLAPI:          Game Boy Advance #LLAPI
 Genesis_LLAPI:      Mega Drive #LLAPI
 MegaCD_LLAPI:       Mega-CD #LLAPI
-NeoGeo_LLAPI:       Neo Geo MVS/AES #LLAPI
                    |                  |         |                         |
+NeoGeo_LLAPI:       Neo Geo MVS/AES #LLAPI
 NES_LLAPI:          NES #LLAPI
 Pacman_LLAPI:       Namco - Pac-Man #LLAPI
 SMS_LLAPI:          Master System #LLAPI
