@@ -116,10 +116,11 @@ Mega Duck:          Mega Duck
 MyVision:           My Vision
 N64:                N64
 NeoGeo:             Neo Geo MVS/AES
+NeoGeoPocket:       Neo Geo Pocket Color
 NES:                NES
 NES3D:              NES 3D
-Odyssey2:           Magnavox Odyssey2
                    |                  |         |                         |
+Odyssey2:           Magnavox Odyssey2
 PICO:               Kids Computer Pico
 Pocket Challenge V2:Pocket Challenge V2
 PokemonMini:        Pokemon mini
@@ -129,8 +130,8 @@ Saturn:             Saturn
 SCV:                Super Cassette Vision
 SGB:                Super Game Boy
 SMS:                Master System
-SMS3D:              Master System 3D
                    |                  |         |                         |
+SMS3D:              Master System 3D
 SNES:               Super NES
 SuperVision:        SuperVision
 Super_Vision_8000:  Super Vision 8000
@@ -140,8 +141,8 @@ Vectrex:            Vectrex
 WonderSwan:         WonderSwan
 WonderSwan Color:   WonderSwan Color
 EpochGalaxyII:      Galaxy II
-TomyScramble:       Tomy Scramble
                    |                  |         |                         |
+TomyScramble:       Tomy Scramble
 Arduboy:            Arduboy
 Chess:              Chess
 Chip8:              CHIP-8
@@ -151,8 +152,8 @@ Hack:               Nand2Tetris Hack
 mandelbrot:         Mandelbrot Fractal Generator
 240pSuite:          240p Test Suite
 SlugCross:          Slug Cross
-SuperJacob:         Super Jacob
                    |                  |         |                         |
+SuperJacob:         Super Jacob
 ADCTest:            ADC Input and Signal Test
 InputTest:          Controller Input Tester
 jtsdram48:          SDRAM Test 48 MHz
@@ -162,8 +163,8 @@ MiSTerLaggy:        MiSTer Laggy
 Gameboy_LLAPI:      Game Boy/Color #LLAPI
 GBA_LLAPI:          Game Boy Advance #LLAPI
 Genesis_LLAPI:      Mega Drive #LLAPI
-MegaCD_LLAPI:       Mega-CD #LLAPI
                    |                  |         |                         |
+MegaCD_LLAPI:       Mega-CD #LLAPI
 NeoGeo_LLAPI:       Neo Geo MVS/AES #LLAPI
 NES_LLAPI:          NES #LLAPI
 Pacman_LLAPI:       Namco - Pac-Man #LLAPI

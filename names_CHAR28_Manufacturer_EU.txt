@@ -116,10 +116,11 @@ Mega Duck:          Welback Holdings Mega Duck
 MyVision:           Nichibutsu My Vision
 N64:                Nintendo 64
 NeoGeo:             SNK Neo Geo MVS/AES
+NeoGeoPocket:       SNK Neo Geo Pocket Color
 NES:                Nintendo NES
 NES3D:              Nintendo NES 3D
-Odyssey2:           Philips Videopac G7000
                    |                  |         |                         |
+Odyssey2:           Philips Videopac G7000
 PICO:               SEGA Pico
 Pocket Challenge V2:Benesse Pocket Challenge V2
 PokemonMini:        Nintendo Pokemon mini
@@ -129,8 +130,8 @@ Saturn:             SEGA Saturn
 SCV:                Epoch Super Cassette Vision
 SGB:                Nintendo Super Game Boy
 SMS:                SEGA Master System
-SMS3D:              SEGA Master System 3D
                    |                  |         |                         |
+SMS3D:              SEGA Master System 3D
 SNES:               Nintendo Super NES
 SuperVision:        Watara/Quickshot SuperVision
 Super_Vision_8000:  Bandai Super Vision 8000
@@ -140,8 +141,8 @@ Vectrex:            GCE Vectrex
 WonderSwan:         Bandai WonderSwan
 WonderSwan Color:   Bandai WonderSwan Color
 EpochGalaxyII:      Epoch Galaxy II
-TomyScramble:       Tomytronic Scramble
                    |                  |         |                         |
+TomyScramble:       Tomytronic Scramble
 Arduboy:            Arduboy
 Chess:              Chess
 Chip8:              CHIP-8
@@ -151,8 +152,8 @@ Hack:               Nand2Tetris Hack Computer
 mandelbrot:         Mandelbrot Fractal Generator
 240pSuite:          240p Test Suite
 SlugCross:          Slug Cross
-SuperJacob:         Super Jacob Homebrew Core
                    |                  |         |                         |
+SuperJacob:         Super Jacob Homebrew Core
 ADCTest:            ADC Input and Signal Test
 InputTest:          Controller Input Tester
 jtsdram48:          Jotego SDRAM Test 48 MHz
@@ -162,8 +163,8 @@ MiSTerLaggy:        MiSTer Laggy
 Gameboy_LLAPI:      Nintendo GB/GBC (LLAPI)
 GBA_LLAPI:          Nintendo GBA (LLAPI)
 Genesis_LLAPI:      SEGA Mega Drive (LLAPI)
-MegaCD_LLAPI:       SEGA Mega-CD (LLAPI)
                    |                  |         |                         |
+MegaCD_LLAPI:       SEGA Mega-CD (LLAPI)
 NeoGeo_LLAPI:       SNK Neo Geo (LLAPI)
 NES_LLAPI:          Nintendo NES (LLAPI)
 Pacman_LLAPI:       Pac-Man (LLAPI)
