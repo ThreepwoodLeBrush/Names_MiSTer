@@ -73,9 +73,10 @@ TSConf:             ZX Evo. TS-Config
 UK101:              Compukit UK101
 Vector-06C:         Vector-06C
 VIC20:              Commodore VIC-20
+VT52:               VT52 Terminal
 X68000:             Sharp X68000
-zet98:              NEC PC-9800
                    |                  |         |                         |
+zet98:              NEC PC-9800
 ZX-Spectrum:        Sinc. ZX Spectrum
 zx48:               Sinc. ZX48
 ZX81:               Sinc. ZX81
@@ -85,8 +86,9 @@ Astrocade:          Bally Astrocade
 Atari 2600:         Atari 2600
 Atari5200:          Atari 5200
 Atari7800:          Atari 7800
-AtariLynx:          Atari Lynx
                    |                  |         |                         |
+Atari7800_Sinden:   Atari 7800 (S)
+AtariLynx:          Atari Lynx
 AY-3-8500:          GI Pong AY-3-8500
 BBCBridgeCompanion: BBC Bridge Companion
 C2650:              Arcadia 2001
@@ -95,44 +97,52 @@ ColecoVision:       ColecoVision
 Gamate:             Bit Corp. Gamate
 Gameboy:            Nint. Game Boy
 GameboyColor:       Nint. GB Color
+                   |                  |         |                         |
 Gameboy2P:          Nint. GB / GBC 2P
 Gameboy2Pultrawide: Nint. GB / GBC 2PW
-                   |                  |         |                         |
 Game Gear:          SEGA Game Gear
 GameAndWatch:       Nint. G&W agg23
 GBA:                Nint. GBA
 GBA2P:              Nint. GBA 2 Player
 Genesis:            SEGA MD (old)
+Genesis_Sinden:     SEGA MD (old S)
 Genesis3D:          SEGA MD 3D (old)
 GnW:                Nint. Game & Watch
+                   |                  |         |                         |
 Intellivision:      Mattel Intelliv.
 Intv:               Mattel Intelliv.
 Jaguar:             Atari Jaguar
-                   |                  |         |                         |
 Konix:              Konix Multisystem
 MegaCD:             SEGA Mega-CD
+MegaCD_Sinden:      SEGA Mega-CD (S)
 MegaDrive:          SEGA Mega Drive
+MegaDrive_Sinden:   SEGA Mega Drive S
 Mega Duck:          Welb. Mega Duck
 MyVision:           Nichi. My Vision
+                   |                  |         |                         |
 N64:                Nint. 64
 NeoGeo:             SNK Neo Geo
 NeoGeoPocket:       SNK Neo Geo Pocket
 NES:                Nint. Famicom
-NES3D:              Nint. Famicom 3D
-                   |                  |         |                         |
+NES_Sinden:         Nint. Famicom (S)
+NES3D:              Nint. Famicom (3D)
 Odyssey2:           Magn. Odyssey2
 PICO:               SEGA Pico
 Pocket Challenge V2:Benn. Pocket Ch. 2
 PokemonMini:        Nint. Pokemon mini
+                   |                  |         |                         |
 PSX:                Sony PlayStation
+PSX_Sinden:         Sony PlayStation S
 S32X:               SEGA Super 32X
 Saturn:             SEGA Saturn
 SCV:                Epoch SCV
 SGB:                Nint. Super GB
 SMS:                SEGA Mark III
-                   |                  |         |                         |
+SMS_Sinden:         SEGA Mark III (S)
 SMS3D:              SEGA Mark III 3D
 SNES:               Nint Super Famicom
+                   |                  |         |                         |
+SNES_Sinden:        Nint Super Fami. S
 SuperVision:        Wata. SuperVision
 Super_Vision_8000:  Band. SVision 8000
 TurboGrafx16:       NEC PC Engine/CD
@@ -141,8 +151,8 @@ Vectrex:            GCE Vectrex
 WonderSwan:         Bandai WonderSwan
 WonderSwan Color:   Bandai WS Color
 EpochGalaxyII:      Epoch Galaxy II
-                   |                  |         |                         |
 TomyScramble:       Tomy Scramble
+                   |                  |         |                         |
 Arduboy:            Arduboy
 Chess:              Chess
 Chip8:              CHIP-8
@@ -152,10 +162,11 @@ Hack:               Nand2Tetris Hack
 mandelbrot:         Mandelbrot Zoom
 240pSuite:          240p Test Suite
 SlugCross:          Slug Cross
-                   |                  |         |                         |
 SuperJacob:         Super Jacob
+                   |                  |         |                         |
 ADCTest:            ADC Input Test
-InputTest:          Gamepad Input Test
+InputTest:          Input Test
+InputTest_Sinden:   InputTest:18_Common_EU
 jtsdram48:          SDRAM Test 48 MHz
 jtsdram96:          SDRAM Test 96 MHz
 memtest:            SDRAM Test
