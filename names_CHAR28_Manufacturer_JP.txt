@@ -166,7 +166,7 @@ SuperJacob:         Super Jacob Homebrew Core
                    |                  |         |                         |
 ADCTest:            ADC Input and Signal Test
 InputTest:          Controller Input Tester
-InputTest_Sinden:   Controller Input Tester
+InputTest_Sinden:   Controller Input Tester (S)
 jtsdram48:          Jotego SDRAM Test 48 MHz
 jtsdram96:          Jotego SDRAM Test 96 MHz
 memtest:            SDRAM Test
