@@ -166,7 +166,7 @@ SuperJacob:         Super Jacob
                    |                  |         |                         |
 ADCTest:            ADC Input Test
 InputTest:          Input Test
-InputTest_Sinden:   InputTest:18_Common_EU
+InputTest_Sinden:   Input Test (S)
 jtsdram48:          SDRAM Test 48 MHz
 jtsdram96:          SDRAM Test 96 MHz
 memtest:            SDRAM Test
