@@ -81,7 +81,6 @@ class NamesCsvGenerator:
         self.writing = True
 
         file = self.options["output_names_csv"]
-        cores_column_name = self.options["cores_column_name"]
         format_line_every = self.options["format_line_every"]
         straight_line_every = self.options["straight_line_every"]
 
