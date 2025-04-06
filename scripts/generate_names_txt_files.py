@@ -26,7 +26,7 @@ class NamesCSVReader:
 
                 if len(row) <= 1:
                     continue
-                
+
                 if self.headers == None:
                     self.headers = row
 
@@ -40,7 +40,7 @@ class NamesCSVReader:
                     raise ValueError("Wrong len at line {}, should have {} columns, but has {}.".format(row_count, row_len, len(row)))
 
                 self.read_columns(row)
-            
+
         return {
             "cores": self.cores,
             "names_files": self.names_files
@@ -56,7 +56,7 @@ class NamesCSVReader:
             variation = self.headers[index]
             if variation not in self.names_files:
                 self.names_files[variation] = {}
-            
+
             if core in self.names_files[variation]:
                 raise ValueError("Core {}, was already in {}.".format(core, variation))
 
@@ -65,7 +65,7 @@ class NamesCSVReader:
                 column = self.names_files[maybe_reference][core]
 
             self.names_files[variation][core] = column
-        
+
         self.cores.append(core)
 
 class NamesTXTWriter:
@@ -98,7 +98,7 @@ class NamesTXTWriter:
                     namesfile.write(formatter_line)
 
                 namesfile.write("{}{}\n".format(self.format_core(core), self.context["names_dict"][core]))
-        
+
         return self.context
 
     def make_formatter_line(self):

@@ -29,7 +29,7 @@ class MultipleNamesTXTReader:
         lengths = {}
         for file in self.sorted_names_files:
             lengths[len(self.names_dicts[file])] = True
-        
+
         if len(lengths) != 1:
             self.error = True
             print("ERROR: different quantity of cores in some files: {}".format(lengths))
@@ -113,7 +113,7 @@ class NamesCsvGenerator:
                 if line_index % format_line_every == 0:
                     csvfile.write(formatter_line)
 
-                csvwriter.writerow(self.make_names_row(core))        
+                csvwriter.writerow(self.make_names_row(core))
 
     def format_core(self, core):
         return core.ljust(self.options["cores_column_rightpadding_csv"], self.options["padding_char"])
