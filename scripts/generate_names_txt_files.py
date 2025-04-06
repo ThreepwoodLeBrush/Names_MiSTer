@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 # Copyright (c) 2021 José Manuel Barroso Galindo <theypsilon@gmail.com>
 
-import re
 import csv
 import common
 
