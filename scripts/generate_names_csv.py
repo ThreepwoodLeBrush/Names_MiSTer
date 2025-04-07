@@ -51,13 +51,13 @@ class MultipleNamesTXTReader:
         with open(path) as fp:
             for cnt, line in enumerate(fp):
 
-                if re.match('^\s*$', line):
+                if re.match(r'^\s*$', line):
                     continue
 
-                if re.match('^(\s*\|\s*)*$', line):
+                if re.match(r'^(\s*\|\s*)*$', line):
                     continue
 
-                splits = re.search('^([^\:]+)\:(.+)$', line)
+                splits = re.search(r'^([^\:]+)\:(.+)$', line)
                 if splits:
                     groups = splits.groups()
                     core = groups[0].strip()
