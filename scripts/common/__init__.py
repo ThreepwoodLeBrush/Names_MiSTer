@@ -29,6 +29,4 @@ def options():
         "cores_column_rightpadding_txt": 19,
         "cores_column_name": "Cores",
         "stip_from_reference": "names_CHAR",
-        "big_space_before_core": "Arkanoid",
-        "big_space_line_quantity": 10,
     }

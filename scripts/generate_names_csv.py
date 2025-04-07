@@ -88,29 +88,18 @@ class NamesCsvGenerator:
         formatter_line = self.make_formatter_line()
         straight_line = self.make_straight_line(file, first_row)
 
-        big_space_index = 0
-
         with open(file, 'w+') as csvfile:
             csvwriter = csv.writer(csvfile, delimiter=self.options["csv_separator"], quotechar=self.options["csv_quote_char"], quoting=csv.QUOTE_MINIMAL)
             for cnt, core in enumerate(self.context["sorted_cores"]):
-
-                if core == self.options["big_space_before_core"]:
-                    big_space_index = cnt
-                    for x in range(0, self.options["big_space_line_quantity"]):
-                        csvfile.write("\n")
-
-                line_index = cnt - big_space_index
-
-                if line_index % straight_line_every == 0:
-
-                    if line_index != 0:
+                if cnt % straight_line_every == 0:
+                    if cnt != 0:
                         csvfile.write("\n")
 
                     csvfile.write(straight_line)
                     csvwriter.writerow(first_row)
                     csvfile.write(straight_line)
 
-                if line_index % format_line_every == 0:
+                if cnt % format_line_every == 0:
                     csvfile.write(formatter_line)
 
                 csvwriter.writerow(self.make_names_row(core))

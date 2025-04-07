@@ -82,19 +82,9 @@ class NamesTXTWriter:
 
         formatter_line = self.make_formatter_line()
 
-        big_space_index = 0
-
         with open(self.context["output_file"], 'w+') as namesfile:
             for cnt, core in enumerate(self.context["cores"]):
-
-                if core == self.options["big_space_before_core"]:
-                    big_space_index = cnt
-                    for x in range(0, self.options["big_space_line_quantity"]):
-                        namesfile.write("\n")
-
-                line_index = cnt - big_space_index
-
-                if line_index % self.options["format_line_every"] == 0:
+                if cnt % self.options["format_line_every"] == 0:
                     namesfile.write(formatter_line)
 
                 namesfile.write("{}{}\n".format(self.format_core(core), self.context["names_dict"][core]))
