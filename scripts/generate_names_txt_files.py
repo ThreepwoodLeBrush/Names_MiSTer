@@ -85,7 +85,7 @@ class NamesTXTWriter:
 
         big_space_index = 0
 
-        with open(self.context["output_file"], 'w+') as namesfile:
+        with open(self.context["output_file"], 'w+', newline='\n') as namesfile:
             for cnt, core in enumerate(self.context["cores"]):
 
                 if core == self.options["big_space_before_core"]:

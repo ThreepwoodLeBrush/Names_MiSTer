@@ -65,7 +65,7 @@ def main(sha):
         run_successfully('git rm -rf .github .gitattributes * || true')
 
     for db_name, db in dbs:
-        with open(db_name, 'w+') as f:
+        with open(db_name, 'w+', newline='\n') as f:
             json.dump(db, f, indent=4, sort_keys=True)
 
         if git_push:
