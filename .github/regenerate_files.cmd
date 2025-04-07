@@ -26,17 +26,22 @@ if not "!ERRORLEVEL!" == "0" (
     echo There are changes to commit.
     echo.
 
-    echo git commit -m "BOT: Regenerated files."
-    echo git push origin master
-    for /F "usebackq delims=" %%s in (`git rev-parse --verify HEAD`) do set SHA=%%s
-
-    echo.
-    echo New files deployed ^(!SHA!^).
+    if "!GIT_PUSH!" == "true" (
+        echo git commit -m "BOT: Regenerated files."
+        echo git push origin master
+        for /F "usebackq delims=" %%s in (`git rev-parse --verify HEAD`) do set SHA=%%s
+        echo.
+        echo New files deployed ^(!SHA!^).
+    ) else (
+        set SHA=
+    )
 
     call ".\scripts\generate_dbs.cmd" "!SHA!" || set "RETURN_CODE=!ERRORLEVEL!" && goto :ERROR
 
-    echo.
-    echo New dbs deployed.
+    if "!GIT_PUSH!" == "true" (
+        echo.
+        echo New dbs deployed.
+    )
 ) else (
     echo Nothing to be updated.
 )

@@ -24,17 +24,23 @@ git add names*
 if ! git diff --staged --quiet --exit-code --ignore-space-at-eol names*; then
     echo "There are changes to commit."
     echo
-    git commit -m "BOT: Regenerated files."
-    git push origin master
-    SHA=$(git rev-parse --verify HEAD)
 
-    echo
-    echo "New files deployed (${SHA})."
+    if [[ "$GIT_PUSH" == "true" ]]; then
+        git commit -m "BOT: Regenerated files."
+        git push origin master
+        SHA=$(git rev-parse --verify HEAD)
+        echo
+        echo "New files deployed (${SHA})."
+    else
+        SHA=
+    fi
 
     ./scripts/generate_dbs.sh "${SHA}"
 
-    echo
-    echo "New dbs deployed."
+    if [[ "$GIT_PUSH" == "true" ]]; then
+        echo
+        echo "New dbs deployed."
+    fi
 else
     echo "Nothing to be updated."
 fi
