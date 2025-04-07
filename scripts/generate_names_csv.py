@@ -91,8 +91,8 @@ class NamesCsvGenerator:
 
         big_space_index = 0
 
-        with open(file, 'w+') as csvfile:
-            csvwriter = csv.writer(csvfile, delimiter=self.options["csv_separator"], quotechar=self.options["csv_quote_char"], quoting=csv.QUOTE_MINIMAL)
+        with open(file, 'w+', newline='\n') as csvfile:
+            csvwriter = csv.writer(csvfile, delimiter=self.options["csv_separator"], quotechar=self.options["csv_quote_char"], quoting=csv.QUOTE_MINIMAL, lineterminator='\n')
             for cnt, core in enumerate(self.context["sorted_cores"]):
 
                 if core == self.options["big_space_before_core"]:
@@ -124,7 +124,7 @@ class NamesCsvGenerator:
         return name.ljust(charlimit * 2, self.options["padding_char"])
 
     def count_firstline(self, file, first_row):
-        with open(file, 'w') as csvfile:
+        with open(file, 'w', newline='\n') as csvfile:
             csvwriter = csv.writer(csvfile, delimiter=self.options["csv_separator"], quotechar=self.options["csv_quote_char"], quoting=csv.QUOTE_MINIMAL)
             csvwriter.writerow(first_row)
 
