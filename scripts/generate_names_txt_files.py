@@ -4,6 +4,11 @@ import csv
 from common import options
 from typing import Optional
 
+class NamesCSVContent:
+    def __init__(self, cores: list[str], names_files: dict[str, dict[str, str]]) -> None:
+        self.cores = cores
+        self.names_files = names_files
+
 class NamesCSVReader:
     def __init__(self) -> None:
         self.reading = False
@@ -11,7 +16,7 @@ class NamesCSVReader:
         self.cores: list[str] = []
         self.headers: Optional[list[str]] = None
 
-    def read_input_names_csv(self) -> dict:
+    def read_input_names_csv(self) -> NamesCSVContent:
         if self.reading == True:
             raise ValueError("NamesCSVReader can read only once.")
 
@@ -40,10 +45,7 @@ class NamesCSVReader:
 
                 self.read_columns(row)
 
-        return {
-            "cores": self.cores,
-            "names_files": self.names_files
-        }
+        return NamesCSVContent(self.cores, self.names_files)
 
     def read_columns(self, row: list[str]) -> None:
         core = None
@@ -71,11 +73,12 @@ class NamesCSVReader:
             self.cores.append(core)
 
 class NamesTXTWriter:
-    def __init__(self, context: dict) -> None:
-        self.context = context
+    def __init__(self, content: NamesCSVContent) -> None:
+        self.content = content
         self.reading = False
 
-    def write_names_txt(self) -> dict:
+    def write_names_txt(self, variation: str) -> None:
+        output_file = "{}.txt".format(variation)
         if self.reading == True:
             raise ValueError("NamesTXTWriter can read only once.")
 
@@ -83,14 +86,14 @@ class NamesTXTWriter:
 
         formatter_line = self.make_formatter_line()
 
-        with open(self.context["output_file"], 'w+', newline='\n') as namesfile:
-            for cnt, core in enumerate(self.context["cores"]):
+        with open(output_file, 'w+', newline='\n') as namesfile:
+            for cnt, core in enumerate(self.content.cores):
                 if cnt % options.format_line_every == 0:
                     namesfile.write(formatter_line)
 
-                namesfile.write("{}{}\n".format(self.format_core(core), self.context["names_dict"][core]))
+                namesfile.write("{}{}\n".format(self.format_core(core), self.content.names_files[variation][core]))
 
-        return self.context
+        print("File '{}' generated.".format(output_file))
 
     def make_formatter_line(self) -> str:
         return "{}\n".format(options.formatter_line_names_txt)
@@ -101,15 +104,10 @@ class NamesTXTWriter:
 def run() -> None:
     print("Reading {}".format(options.input_names_csv))
     content = NamesCSVReader().read_input_names_csv()
-    print("Found {} names variations for {} cores.".format(len(content["names_files"]), len(content["cores"])))
-    for variation in content["names_files"].keys():
-        context = {
-            "output_file": "{}.txt".format(variation),
-            "names_dict": content["names_files"][variation],
-            "cores": content["cores"]
-        }
-        NamesTXTWriter(context).write_names_txt()
-        print("File '{}' generated.".format(context["output_file"]))
+    print("Found {} names variations for {} cores.".format(len(content.names_files), len(content.cores)))
+    for variation in content.names_files.keys():
+        NamesTXTWriter(content).write_names_txt(variation)
+        
     print("DONE.")
 
 if __name__ == "__main__":
