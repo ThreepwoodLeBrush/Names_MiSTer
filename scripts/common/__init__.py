@@ -28,5 +28,5 @@ def options():
         "cores_column_rightpadding_csv": 30,
         "cores_column_rightpadding_txt": 19,
         "cores_column_name": "Cores",
-        "stip_from_reference": "names_CHAR",
+        "strip_from_reference": "names_CHAR",
     }

@@ -60,7 +60,7 @@ class NamesCSVReader:
             if core in self.names_files[variation]:
                 raise ValueError("Core {}, was already in {}.".format(core, variation))
 
-            maybe_reference = "{}{}".format(self.options["stip_from_reference"], column.replace(core + ":", ""))
+            maybe_reference = "{}{}".format(self.options["strip_from_reference"], column.replace(core + ":", ""))
             if maybe_reference in self.headers:
                 column = self.names_files[maybe_reference][core]
 
