@@ -82,7 +82,7 @@ class NamesTXTWriter:
 
         formatter_line = self.make_formatter_line()
 
-        with open(self.context["output_file"], 'w+') as namesfile:
+        with open(self.context["output_file"], 'w+', newline='\n') as namesfile:
             for cnt, core in enumerate(self.context["cores"]):
                 if cnt % self.options["format_line_every"] == 0:
                     namesfile.write(formatter_line)

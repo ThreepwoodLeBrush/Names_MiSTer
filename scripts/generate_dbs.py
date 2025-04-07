@@ -9,7 +9,9 @@ import time
 import subprocess
 import sys
 import os
+from pathlib import Path
 import tempfile
+import urllib.request
 
 def main(sha):
     print('sha: %s' % sha)
@@ -63,7 +65,7 @@ def main(sha):
         run_successfully('git rm -rf .github .gitattributes * || true')
 
     for db_name, db in dbs:
-        with open(db_name, 'w+') as f:
+        with open(db_name, 'w+', newline='\n') as f:
             json.dump(db, f, indent=4, sort_keys=True)
 
         if git_push:
@@ -76,12 +78,13 @@ def main(sha):
 
 def get_db_from_db_url(db_url):
     try:
-        with tempfile.NamedTemporaryFile(delete=True) as tmp_file:
-            print('Downloading %s to %s' % (db_url, tmp_file.name))
-            run_successfully('curl --show-error --fail --location -o %s %s' % (tmp_file.name, db_url))
-            json_str = run_stdout("unzip -p %s" % tmp_file.name)
-            return json.loads(json_str)
-    except:
+        with tempfile.TemporaryDirectory(delete=True) as tmp_dir:
+            tmp_file = Path(tmp_dir) / 'db.json'
+            print('Downloading %s to %s' % (db_url, str(tmp_file)))
+            urllib.request.urlretrieve(db_url, str(tmp_file))
+            return json.loads(tmp_file.read_text())
+    except Exception as e:
+        print(e)
         return None
 
 def dbs_are_different(input_db1, input_db2):

@@ -26,6 +26,8 @@ class MultipleNamesTXTReader:
             except BaseException as e:
                 print("ERROR: {} {}".format(file, e))
 
+        self.sorted_cores = sorted(self.sorted_cores, key=str.casefold)
+
         lengths = {}
         for file in self.sorted_names_files:
             lengths[len(self.names_dicts[file])] = True
@@ -51,13 +53,13 @@ class MultipleNamesTXTReader:
         with open(path) as fp:
             for cnt, line in enumerate(fp):
 
-                if re.match('^\s*$', line):
+                if re.match(r'^\s*$', line):
                     continue
 
-                if re.match('^(\s*\|\s*)*$', line):
+                if re.match(r'^(\s*\|\s*)*$', line):
                     continue
 
-                splits = re.search('^([^\:]+)\:(.+)$', line)
+                splits = re.search(r'^([^\:]+)\:(.+)$', line)
                 if splits:
                     groups = splits.groups()
                     core = groups[0].strip()
@@ -88,8 +90,8 @@ class NamesCsvGenerator:
         formatter_line = self.make_formatter_line()
         straight_line = self.make_straight_line(file, first_row)
 
-        with open(file, 'w+') as csvfile:
-            csvwriter = csv.writer(csvfile, delimiter=self.options["csv_separator"], quotechar=self.options["csv_quote_char"], quoting=csv.QUOTE_MINIMAL)
+        with open(file, 'w+', newline='\n') as csvfile:
+            csvwriter = csv.writer(csvfile, delimiter=self.options["csv_separator"], quotechar=self.options["csv_quote_char"], quoting=csv.QUOTE_MINIMAL, lineterminator='\n')
             for cnt, core in enumerate(self.context["sorted_cores"]):
                 if cnt % straight_line_every == 0:
                     if cnt != 0:
@@ -112,7 +114,7 @@ class NamesCsvGenerator:
         return name.ljust(charlimit * 2, self.options["padding_char"])
 
     def count_firstline(self, file, first_row):
-        with open(file, 'w') as csvfile:
+        with open(file, 'w', newline='\n') as csvfile:
             csvwriter = csv.writer(csvfile, delimiter=self.options["csv_separator"], quotechar=self.options["csv_quote_char"], quoting=csv.QUOTE_MINIMAL)
             csvwriter.writerow(first_row)
 
