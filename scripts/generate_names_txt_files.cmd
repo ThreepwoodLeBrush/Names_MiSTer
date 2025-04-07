@@ -1,8 +1,7 @@
 @echo off
 setlocal
 
-set SCRIPTS_DIR=%~dp0
-set SCRIPTS_DIR=%SCRIPTS_DIR:~0,-1%
+for /F "usebackq delims=" %%D in (`cd "%~dp0" ^& cd`) do set "SCRIPTS_DIR=%%~D"
 
 setlocal
 rem # NOTE: uv unsets SCRIPTS_DIR
