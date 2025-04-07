@@ -128,9 +128,8 @@ class NamesCsvGenerator:
             csvwriter.writerow(first_row)
 
         with open(file) as fp:
-            for cnt, line in enumerate(fp):
+            for _, line in enumerate(fp):
                 return len(line) - 1
-                break
         return 0
 
     def make_straight_line(self, file, first_row):
