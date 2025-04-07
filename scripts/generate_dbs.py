@@ -6,10 +6,8 @@ from pathlib import Path
 import hashlib
 import json
 import time
-import re
 import subprocess
 import sys
-from datetime import datetime
 import os
 from pathlib import Path
 import tempfile

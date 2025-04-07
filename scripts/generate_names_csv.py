@@ -31,7 +31,7 @@ class MultipleNamesTXTReader:
         lengths = {}
         for file in self.sorted_names_files:
             lengths[len(self.names_dicts[file])] = True
-        
+
         if len(lengths) != 1:
             self.error = True
             print("ERROR: different quantity of cores in some files: {}".format(lengths))
@@ -83,7 +83,6 @@ class NamesCsvGenerator:
         self.writing = True
 
         file = self.options["output_names_csv"]
-        cores_column_name = self.options["cores_column_name"]
         format_line_every = self.options["format_line_every"]
         straight_line_every = self.options["straight_line_every"]
 
@@ -91,32 +90,21 @@ class NamesCsvGenerator:
         formatter_line = self.make_formatter_line()
         straight_line = self.make_straight_line(file, first_row)
 
-        big_space_index = 0
-
         with open(file, 'w+', newline='\n') as csvfile:
             csvwriter = csv.writer(csvfile, delimiter=self.options["csv_separator"], quotechar=self.options["csv_quote_char"], quoting=csv.QUOTE_MINIMAL, lineterminator='\n')
             for cnt, core in enumerate(self.context["sorted_cores"]):
-
-                if core == self.options["big_space_before_core"]:
-                    big_space_index = cnt
-                    for x in range(0, self.options["big_space_line_quantity"]):
-                        csvfile.write("\n")
-
-                line_index = cnt - big_space_index
-
-                if line_index % straight_line_every == 0:
-
-                    if line_index != 0:
+                if cnt % straight_line_every == 0:
+                    if cnt != 0:
                         csvfile.write("\n")
 
                     csvfile.write(straight_line)
                     csvwriter.writerow(first_row)
                     csvfile.write(straight_line)
 
-                if line_index % format_line_every == 0:
+                if cnt % format_line_every == 0:
                     csvfile.write(formatter_line)
 
-                csvwriter.writerow(self.make_names_row(core))        
+                csvwriter.writerow(self.make_names_row(core))
 
     def format_core(self, core):
         return core.ljust(self.options["cores_column_rightpadding_csv"], self.options["padding_char"])
@@ -131,9 +119,8 @@ class NamesCsvGenerator:
             csvwriter.writerow(first_row)
 
         with open(file) as fp:
-            for cnt, line in enumerate(fp):
+            for _, line in enumerate(fp):
                 return len(line) - 1
-                break
         return 0
 
     def make_straight_line(self, file, first_row):
@@ -163,7 +150,7 @@ class NamesCsvGenerator:
             if term in temp_terms:
                 term = temp_terms[term]
             else:
-                temp_terms[term] = "{}:{}".format(core, file.replace(self.options["stip_from_reference"], ""))
+                temp_terms[term] = "{}:{}".format(core, file.replace(self.options["strip_from_reference"], ""))
             row.append(self.format_name(term, file))
         return row
 

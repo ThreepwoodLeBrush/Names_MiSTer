@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 # Copyright (c) 2021 José Manuel Barroso Galindo <theypsilon@gmail.com>
 
-import re
 import csv
 import common
 
@@ -27,7 +26,7 @@ class NamesCSVReader:
 
                 if len(row) <= 1:
                     continue
-                
+
                 if self.headers == None:
                     self.headers = row
 
@@ -41,7 +40,7 @@ class NamesCSVReader:
                     raise ValueError("Wrong len at line {}, should have {} columns, but has {}.".format(row_count, row_len, len(row)))
 
                 self.read_columns(row)
-            
+
         return {
             "cores": self.cores,
             "names_files": self.names_files
@@ -57,16 +56,16 @@ class NamesCSVReader:
             variation = self.headers[index]
             if variation not in self.names_files:
                 self.names_files[variation] = {}
-            
+
             if core in self.names_files[variation]:
                 raise ValueError("Core {}, was already in {}.".format(core, variation))
 
-            maybe_reference = "{}{}".format(self.options["stip_from_reference"], column.replace(core + ":", ""))
+            maybe_reference = "{}{}".format(self.options["strip_from_reference"], column.replace(core + ":", ""))
             if maybe_reference in self.headers:
                 column = self.names_files[maybe_reference][core]
 
             self.names_files[variation][core] = column
-        
+
         self.cores.append(core)
 
 class NamesTXTWriter:
@@ -83,23 +82,13 @@ class NamesTXTWriter:
 
         formatter_line = self.make_formatter_line()
 
-        big_space_index = 0
-
         with open(self.context["output_file"], 'w+', newline='\n') as namesfile:
             for cnt, core in enumerate(self.context["cores"]):
-
-                if core == self.options["big_space_before_core"]:
-                    big_space_index = cnt
-                    for x in range(0, self.options["big_space_line_quantity"]):
-                        namesfile.write("\n")
-
-                line_index = cnt - big_space_index
-
-                if line_index % self.options["format_line_every"] == 0:
+                if cnt % self.options["format_line_every"] == 0:
                     namesfile.write(formatter_line)
 
                 namesfile.write("{}{}\n".format(self.format_core(core), self.context["names_dict"][core]))
-        
+
         return self.context
 
     def make_formatter_line(self):
