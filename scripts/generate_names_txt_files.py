@@ -2,16 +2,17 @@
 
 import csv
 import common
+from typing import Optional
 
 class NamesCSVReader:
-    def __init__(self, options):
+    def __init__(self, options: dict) -> None:
         self.options = options
         self.reading = False
-        self.names_files = {}
-        self.cores = []
-        self.headers = None
+        self.names_files: dict[str, dict[str, str]] = {}
+        self.cores: list[str] = []
+        self.headers: Optional[list[str]] = None
 
-    def read_input_names_csv(self):
+    def read_input_names_csv(self) -> dict:
         if self.reading == True:
             raise ValueError("NamesCSVReader can read only once.")
 
@@ -45,13 +46,15 @@ class NamesCSVReader:
             "names_files": self.names_files
         }
 
-    def read_columns(self, row):
+    def read_columns(self, row: list[str]) -> None:
         core = None
         for index, column in enumerate(row):
             if core == None:
                 core = column
                 continue
 
+            assert core is not None
+            assert self.headers is not None
             variation = self.headers[index]
             if variation not in self.names_files:
                 self.names_files[variation] = {}
@@ -65,15 +68,16 @@ class NamesCSVReader:
 
             self.names_files[variation][core] = column
 
-        self.cores.append(core)
+        if core is not None:
+            self.cores.append(core)
 
 class NamesTXTWriter:
-    def __init__(self, context, options):
+    def __init__(self, context: dict, options: dict) -> None:
         self.context = context
         self.options = options
         self.reading = False
 
-    def write_names_txt(self):
+    def write_names_txt(self) -> dict:
         if self.reading == True:
             raise ValueError("NamesTXTWriter can read only once.")
 
@@ -90,13 +94,13 @@ class NamesTXTWriter:
 
         return self.context
 
-    def make_formatter_line(self):
+    def make_formatter_line(self) -> str:
         return "{}\n".format(self.options["formatter_line_names_txt"])
 
-    def format_core(self, core):
+    def format_core(self, core: str) -> str:
         return (core + ":").ljust(self.options["cores_column_rightpadding_txt"] + 1, self.options["padding_char"])
 
-def run(options):
+def run(options: dict) -> None:
     print("Reading {}".format(options["input_names_csv"]))
     content = NamesCSVReader(options).read_input_names_csv()
     print("Found {} names variations for {} cores.".format(len(content["names_files"]), len(content["cores"])))

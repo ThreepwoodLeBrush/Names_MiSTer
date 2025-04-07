@@ -5,15 +5,15 @@ import csv
 import common
 
 class MultipleNamesTXTReader:
-    def __init__(self, options):
+    def __init__(self, options: dict) -> None:
         self.options = options
-        self.names_dicts = {}
-        self.sorted_cores = []
+        self.names_dicts: dict[str, dict[str, str]] = {}
+        self.sorted_cores: list[str] = []
         self.sorted_names_files = sorted(self.options["names_files"].keys())
         self.reading = False
         self.error = False
 
-    def read_input_names_txt_files(self):
+    def read_input_names_txt_files(self) -> dict:
         if self.reading == True:
             raise ValueError("MultipleNamesTXTReader can read only once.")
 
@@ -44,7 +44,7 @@ class MultipleNamesTXTReader:
             "sorted_names_files": self.sorted_names_files
         }
 
-    def __process_file(self, file):
+    def __process_file(self, file: str) -> None:
         self.names_dicts[file] = {}
 
         path = file + ".txt"
@@ -70,12 +70,12 @@ class MultipleNamesTXTReader:
                     print("Ignored line {}:{}\n{}".format(path, cnt, line))
 
 class NamesCsvGenerator:
-    def __init__(self, context, options):
+    def __init__(self, context: dict, options: dict) -> None:
         self.context = context
         self.options = options
         self.writing = False
 
-    def write_output_names_csv(self):
+    def write_output_names_csv(self) -> None:
         if self.writing == True:
             raise ValueError("NamesCsvGenerator can write only once.")
 
@@ -105,14 +105,14 @@ class NamesCsvGenerator:
 
                 csvwriter.writerow(self.make_names_row(core))
 
-    def format_core(self, core):
+    def format_core(self, core: str) -> str:
         return core.ljust(self.options["cores_column_rightpadding_csv"], self.options["padding_char"])
 
-    def format_name(self, name, file):
+    def format_name(self, name: str, file: str) -> str:
         charlimit = self.options["names_files"][file]
         return name.ljust(charlimit * 2, self.options["padding_char"])
 
-    def count_firstline(self, file, first_row):
+    def count_firstline(self, file: str, first_row: list[str]) -> int:
         with open(file, 'w', newline='\n') as csvfile:
             csvwriter = csv.writer(csvfile, delimiter=self.options["csv_separator"], quotechar=self.options["csv_quote_char"], quoting=csv.QUOTE_MINIMAL)
             csvwriter.writerow(first_row)
@@ -122,7 +122,7 @@ class NamesCsvGenerator:
                 return len(line) - 1
         return 0
 
-    def make_straight_line(self, file, first_row):
+    def make_straight_line(self, file: str, first_row: list[str]) -> str:
         straight_line = self.options["straight_line_char"] * self.count_firstline(file, first_row) + "\n"
 
         if len(straight_line) < 20:
@@ -130,7 +130,7 @@ class NamesCsvGenerator:
 
         return straight_line
 
-    def make_formatter_line(self):
+    def make_formatter_line(self) -> str:
         padding_char = self.options["padding_char"]
         format_line_separator = self.options["format_line_separator"]
 
@@ -141,9 +141,9 @@ class NamesCsvGenerator:
         return formatter_line + "\n"
 
 
-    def make_names_row(self, core):
+    def make_names_row(self, core: str) -> list[str]:
         row = [self.format_core(core)]
-        temp_terms = {}
+        temp_terms: dict[str, str] = {}
         for file in self.context["sorted_names_files"]:
             term = self.context["names_dicts"][file][core]
             if term in temp_terms:
@@ -153,7 +153,7 @@ class NamesCsvGenerator:
             row.append(self.format_name(term, file))
         return row
 
-def run(options):
+def run(options: dict) -> None:
     files = list(map(lambda a: "'{}.txt'".format(a), options["names_files"].keys()))
     print("Reading core names from files: {}".format(", ".join(files)))
     context = MultipleNamesTXTReader(options).read_input_names_txt_files()

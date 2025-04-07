@@ -1,4 +1,4 @@
-def options():
+def options() -> dict:
     return {
         "names_files": {
             "names_CHAR18_Manufacturer_EU": 18,

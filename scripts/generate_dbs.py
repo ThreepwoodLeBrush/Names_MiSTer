@@ -12,13 +12,13 @@ from pathlib import Path
 import tempfile
 import urllib.request
 
-def main(sha):
+def main(sha: str) -> None:
     print('sha: %s' % sha)
 
-    url_base = envvar('URL_BASE')
+    url_base = envvar('URL_BASE', '')
     git_push = envvar('GIT_PUSH', 'false') == 'true'
 
-    dbs = []
+    dbs: list[tuple[str, dict]] = []
 
     for entry in os.scandir('.'):
         if not entry.is_file():
@@ -75,7 +75,7 @@ def main(sha):
         run_successfully('git fetch origin')
         run_successfully('git push --force origin dbs')
 
-def get_db_from_db_url(db_url):
+def get_db_from_db_url(db_url: str) -> dict:
     try:
         with tempfile.TemporaryDirectory(delete=True) as tmp_dir:
             tmp_file = Path(tmp_dir) / 'db.json'
@@ -84,9 +84,9 @@ def get_db_from_db_url(db_url):
             return json.loads(tmp_file.read_text())
     except Exception as e:
         print(e)
-        return None
+        return {}
 
-def dbs_are_different(input_db1, input_db2):
+def dbs_are_different(input_db1: dict, input_db2: dict) -> bool:
     if input_db1 is None or input_db2 is None:
         return True
 
@@ -107,12 +107,12 @@ def dbs_are_different(input_db1, input_db2):
 
     return str1 != str2
 
-def envvar(var, backup=None):
-    result = os.getenv(var, backup)
+def envvar(var: str, default: str) -> str:
+    result = os.getenv(var, default)
     print("{} = {}".format(var, result))
     return result
 
-def hash(file):
+def hash(file: str) -> str:
     with open(file, "rb") as f:
         file_hash = hashlib.md5()
         chunk = f.read(8192)
@@ -121,10 +121,10 @@ def hash(file):
             chunk = f.read(8192)
         return file_hash.hexdigest()
 
-def size(file):
+def size(file: str) -> int:
     return os.path.getsize(file)
 
-def run_successfully(command):
+def run_successfully(command: str) -> None:
     result = subprocess.run(command, shell=True, stderr=subprocess.PIPE, stdout=subprocess.PIPE)
 
     stdout = result.stdout.decode()
@@ -138,7 +138,7 @@ def run_successfully(command):
     if result.returncode != 0:
         raise Exception("subprocess.run %s Return Code was '%d'" % (command, result.returncode))
 
-def run_stdout(command):
+def run_stdout(command: str) -> str:
     result = subprocess.run(command, shell=True, stderr=subprocess.PIPE, stdout=subprocess.PIPE)
 
     if result.returncode != 0:
