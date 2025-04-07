@@ -19,7 +19,7 @@ echo
 
 git add names*
 
-if ! git diff --staged --quiet --exit-code --ignore-space-at-eol ; then
+if ! git diff --staged --quiet --exit-code --ignore-space-at-eol names*; then
     echo "There are changes to commit."
     echo
     git commit -m "BOT: Regenerated files."
