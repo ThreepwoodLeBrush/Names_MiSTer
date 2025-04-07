@@ -26,6 +26,8 @@ class MultipleNamesTXTReader:
             except BaseException as e:
                 print("ERROR: {} {}".format(file, e))
 
+        self.sorted_cores = sorted(self.sorted_cores, key=str.casefold)
+
         lengths = {}
         for file in self.sorted_names_files:
             lengths[len(self.names_dicts[file])] = True
