@@ -4,14 +4,25 @@ import re
 import csv
 from common import options
 
-class MultipleNamesTXTReader:
+class MultipleNamesTXTContent:
     def __init__(self) -> None:
         self.names_dicts: dict[str, dict[str, str]] = {}
-        self.sorted_cores: list[str] = []
+        self._unsorted_cores: list[str] = []
+
+    def add_core(self, core: str) -> None:
+        self._unsorted_cores.append(core)
+
+    @property
+    def sorted_cores(self) -> list[str]:
+        return sorted(self._unsorted_cores, key=str.casefold)
+
+class MultipleNamesTXTReader:
+    def __init__(self) -> None:
+        self.content = MultipleNamesTXTContent()
         self.reading = False
         self.error = False
 
-    def read_input_names_txt_files(self) -> dict:
+    def read_input_names_txt_files(self) -> MultipleNamesTXTContent:
         if self.reading == True:
             raise ValueError("MultipleNamesTXTReader can read only once.")
 
@@ -23,11 +34,9 @@ class MultipleNamesTXTReader:
             except BaseException as e:
                 print("ERROR: {} {}".format(file, e))
 
-        self.sorted_cores = sorted(self.sorted_cores, key=str.casefold)
-
         lengths = {}
         for file in options.sorted_names_files:
-            lengths[len(self.names_dicts[file])] = True
+            lengths[len(self.content.names_dicts[file])] = True
 
         if len(lengths) != 1:
             self.error = True
@@ -36,13 +45,10 @@ class MultipleNamesTXTReader:
         if self.error == True:
             raise ValueError("Something bad happened. Check previous logs.")
 
-        return {
-            "names_dicts": self.names_dicts,
-            "sorted_cores": self.sorted_cores,
-        }
+        return self.content
 
     def __process_file(self, file: str) -> None:
-        self.names_dicts[file] = {}
+        self.content.names_dicts[file] = {}
 
         path = file + ".txt"
 
@@ -60,15 +66,15 @@ class MultipleNamesTXTReader:
                     groups = splits.groups()
                     core = groups[0].strip()
                     name_term = groups[1].strip()
-                    self.names_dicts[file][core] = name_term
+                    self.content.names_dicts[file][core] = name_term
                     if file == options.sorted_names_files[0]:
-                        self.sorted_cores.append(core)
+                        self.content.add_core(core)
                 else:
                     print("Ignored line {}:{}\n{}".format(path, cnt, line))
 
 class NamesCsvGenerator:
-    def __init__(self, context: dict) -> None:
-        self.context = context
+    def __init__(self, content: MultipleNamesTXTContent) -> None:
+        self.content = content
         self.writing = False
 
     def write_output_names_csv(self) -> None:
@@ -87,7 +93,7 @@ class NamesCsvGenerator:
 
         with open(file, 'w+', newline='\n') as csvfile:
             csvwriter = csv.writer(csvfile, delimiter=options.csv_separator, quotechar=options.csv_quote_char, quoting=csv.QUOTE_MINIMAL, lineterminator='\n')
-            for cnt, core in enumerate(self.context["sorted_cores"]):
+            for cnt, core in enumerate(self.content.sorted_cores):
                 if cnt % straight_line_every == 0:
                     if cnt != 0:
                         csvfile.write("\n")
@@ -141,7 +147,7 @@ class NamesCsvGenerator:
         row = [self.format_core(core)]
         temp_terms: dict[str, str] = {}
         for file in options.sorted_names_files:
-            term = self.context["names_dicts"][file][core]
+            term = self.content.names_dicts[file][core]
             if term in temp_terms:
                 term = temp_terms[term]
             else:
@@ -152,10 +158,10 @@ class NamesCsvGenerator:
 def run() -> None:
     files = list(map(lambda a: "'{}.txt'".format(a), options.names_files.keys()))
     print("Reading core names from files: {}".format(", ".join(files)))
-    context = MultipleNamesTXTReader().read_input_names_txt_files()
-    print("Found {} names for cores in {} different versions.".format(len(context["sorted_cores"]), len(files)))
+    content = MultipleNamesTXTReader().read_input_names_txt_files()
+    print("Found {} names for cores in {} different versions.".format(len(content.sorted_cores), len(files)))
     print("Generating {} file...".format(options.output_names_csv))
-    NamesCsvGenerator(context).write_output_names_csv()
+    NamesCsvGenerator(content).write_output_names_csv()
     print("DONE.")
 
 if __name__ == "__main__":
