@@ -1,12 +1,11 @@
 # Copyright (c) 2021 José Manuel Barroso Galindo <theypsilon@gmail.com>
 
 import csv
-import common
+from common import options
 from typing import Optional
 
 class NamesCSVReader:
-    def __init__(self, options: dict) -> None:
-        self.options = options
+    def __init__(self) -> None:
         self.reading = False
         self.names_files: dict[str, dict[str, str]] = {}
         self.cores: list[str] = []
@@ -18,8 +17,8 @@ class NamesCSVReader:
 
         self.reading = True
 
-        with open(self.options["input_names_csv"]) as csvfile:
-            csvrows = list(csv.reader(csvfile, delimiter=self.options["csv_separator"], quotechar=self.options["csv_quote_char"], quoting=csv.QUOTE_MINIMAL))
+        with open(options.input_names_csv) as csvfile:
+            csvrows = list(csv.reader(csvfile, delimiter=options.csv_separator, quotechar=options.csv_quote_char, quoting=csv.QUOTE_MINIMAL))
             row_len = None
             for row_count, raw_row in enumerate(csvrows):
                 row = list(map(lambda h: h.strip(), raw_row))
@@ -62,7 +61,7 @@ class NamesCSVReader:
             if core in self.names_files[variation]:
                 raise ValueError("Core {}, was already in {}.".format(core, variation))
 
-            maybe_reference = "{}{}".format(self.options["strip_from_reference"], column.replace(core + ":", ""))
+            maybe_reference = "{}{}".format(options.strip_from_reference, column.replace(core + ":", ""))
             if maybe_reference in self.headers:
                 column = self.names_files[maybe_reference][core]
 
@@ -72,9 +71,8 @@ class NamesCSVReader:
             self.cores.append(core)
 
 class NamesTXTWriter:
-    def __init__(self, context: dict, options: dict) -> None:
+    def __init__(self, context: dict) -> None:
         self.context = context
-        self.options = options
         self.reading = False
 
     def write_names_txt(self) -> dict:
@@ -87,7 +85,7 @@ class NamesTXTWriter:
 
         with open(self.context["output_file"], 'w+', newline='\n') as namesfile:
             for cnt, core in enumerate(self.context["cores"]):
-                if cnt % self.options["format_line_every"] == 0:
+                if cnt % options.format_line_every == 0:
                     namesfile.write(formatter_line)
 
                 namesfile.write("{}{}\n".format(self.format_core(core), self.context["names_dict"][core]))
@@ -95,14 +93,14 @@ class NamesTXTWriter:
         return self.context
 
     def make_formatter_line(self) -> str:
-        return "{}\n".format(self.options["formatter_line_names_txt"])
+        return "{}\n".format(options.formatter_line_names_txt)
 
     def format_core(self, core: str) -> str:
-        return (core + ":").ljust(self.options["cores_column_rightpadding_txt"] + 1, self.options["padding_char"])
+        return (core + ":").ljust(options.cores_column_rightpadding_txt + 1, options.padding_char)
 
-def run(options: dict) -> None:
-    print("Reading {}".format(options["input_names_csv"]))
-    content = NamesCSVReader(options).read_input_names_csv()
+def run() -> None:
+    print("Reading {}".format(options.input_names_csv))
+    content = NamesCSVReader().read_input_names_csv()
     print("Found {} names variations for {} cores.".format(len(content["names_files"]), len(content["cores"])))
     for variation in content["names_files"].keys():
         context = {
@@ -110,9 +108,9 @@ def run(options: dict) -> None:
             "names_dict": content["names_files"][variation],
             "cores": content["cores"]
         }
-        NamesTXTWriter(context, options).write_names_txt()
+        NamesTXTWriter(context).write_names_txt()
         print("File '{}' generated.".format(context["output_file"]))
     print("DONE.")
 
 if __name__ == "__main__":
-    run(common.options())
+    run()
