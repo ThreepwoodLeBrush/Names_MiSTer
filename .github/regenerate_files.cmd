@@ -5,6 +5,13 @@ rem # Please keep this script in sync with the corresponding Bash script.
 
 cd "%~dp0.."
 
+echo Running mypy
+rem # Switch to 'scripts' folder so mypy will find pyproject.toml
+pushd .\scripts > nul
+call .\uv\uv.cmd -q run -- python -m mypy .\ || set "RETURN_CODE=!ERRORLEVEL!" && goto :ERROR
+popd > nul
+echo.
+
 set GIT_MERGE_AUTOEDIT=no
 
 echo Regenerating Names TXT files:

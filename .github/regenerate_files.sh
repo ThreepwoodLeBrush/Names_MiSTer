@@ -5,6 +5,13 @@ set -euo pipefail
 
 pushd "${0%/*}/.." > /dev/null
 
+echo "Running mypy"
+# Switch to 'scripts' folder so mypy will find pyproject.toml
+pushd ./scripts > /dev/null
+./uv/uv.sh -q run -- python3 -m mypy ./
+popd > /dev/null
+echo
+
 export GIT_MERGE_AUTOEDIT=no
 
 echo "Regenerating Names TXT files:"
