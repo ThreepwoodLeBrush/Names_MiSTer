@@ -1,187 +1,377 @@
                    |                  |         |                         |
 240pSuite:          240p Test Suite
+240pSuite_unstable: 240p Test Suite
 AcornAtom:          Atom
+AcornAtom_unstable: Atom
 AcornElectron:      Electron
+AcornElectron_unstable:Electron
 ADCTest:            ADC Input Test
+ADCTest_unstable:   ADC Input Test
 AdventureVision:    Adventure Vision
+AdventureVision_unstable:Adventure Vision
+                   |                  |         |                         |
 AliceMC10:          Alice 4k
+AliceMC10_unstable: Alice 4k
 Alpha68k:           SNK Alpha 68000
+Alpha68k_unstable:  SNK Alpha 68000
 Altair8800:         Altair 8800
+Altair8800_unstable:Altair 8800
 Amstrad:            Amstrad CPC
 Amstrad-PCW:        Amstrad PCW
+Amstrad-PCW_unstable:Amstrad PCW
+Amstrad_unstable:   Amstrad CPC
                    |                  |         |                         |
 ao486:              PC (486SX)
+ao486_unstable:     PC (486SX)
 Apogee:             Apogee BK-01
+Apogee_unstable:    Apogee BK-01
 Apple-I:            Apple I
+Apple-I_unstable:   Apple I
 Apple-II:           Apple IIe
+Apple-II_unstable:  Apple IIe
 Aquarius:           Mattel Aquarius
+Aquarius_unstable:  Mattel Aquarius
+                   |                  |         |                         |
 arcade_NeoGeo:      SNK NeoGeo MVS
+arcade_NeoGeo_unstable:SNK NeoGeo MVS
 arcade_SMS:         SEGA System E
+arcade_SMS_unstable:SEGA System E
 Arcadia:            Arcadia 2001
+Arcadia_unstable:   Arcadia 2001
 Archie:             Acorn Archimedes
+Archie_unstable:    Acorn Archimedes
 Arduboy:            Arduboy
+Arduboy_unstable:   Arduboy
                    |                  |         |                         |
 Astrocade:          Bally Astrocade
+Astrocade_unstable: Bally Astrocade
 Atari 2600:         Atari 2600
+Atari 2600_unstable:Atari 2600
 Atari5200:          Atari 5200
+Atari5200_unstable: Atari 5200
 Atari7800:          Atari 7800
 Atari7800_Sinden:   Atari 7800 (S)
+Atari7800_Sinden_unstable:Atari 7800 (S)
+Atari7800_unstable: Atari 7800
+                   |                  |         |                         |
 Atari800:           Atari 800XL/...
+Atari800_unstable:  Atari 800XL/...
 AtariLynx:          Atari Lynx
+AtariLynx_unstable: Atari Lynx
 AtariST:            Atari ST/STE
+AtariST_unstable:   Atari ST/STE
 AY-3-8500:          AY-3-8500
+AY-3-8500_unstable: AY-3-8500
 BBCBridgeCompanion: Bridge Companion
+BBCBridgeCompanion_unstable:Bridge Companion
                    |                  |         |                         |
 BBCMicro:           BBC Micro/Master
+BBCMicro_unstable:  BBC Micro/Master
 BK0011M:            BK0011M
+BK0011M_unstable:   BK0011M
 C128:               Commodore 128
+C128_unstable:      Commodore 128
 C16:                Commodore 16
+C16_unstable:       Commodore 16
 C2650:              Arcadia 2001
+C2650_unstable:     Arcadia 2001
+                   |                  |         |                         |
 C64:                Commodore 64
+C64_unstable:       Commodore 64
 Casio_PV-1000:      PV-1000
+Casio_PV-1000_unstable:PV-1000
 Casio_PV-2000:      PV-2000
+Casio_PV-2000_unstable:PV-2000
 ChannelF:           Channel F
+ChannelF_unstable:  Channel F
 Chess:              Chess
+Chess_unstable:     Chess
                    |                  |         |                         |
 Chip8:              CHIP-8
+Chip8_unstable:     CHIP-8
 CoCo2:              Dragon 32
+CoCo2_unstable:     Dragon 32
 CoCo3:              TRS-80 CoCo 3
+CoCo3_unstable:     TRS-80 CoCo 3
 ColecoAdam:         Coleco Adam
+ColecoAdam_unstable:Coleco Adam
 ColecoVision:       ColecoVision
+ColecoVision_unstable:ColecoVision
+                   |                  |         |                         |
 CreatiVision:       CreatiVision
+CreatiVision_unstable:CreatiVision
 EDSAC:              EDSAC
+EDSAC_unstable:     EDSAC
 eg2000:             EG2000
+eg2000_unstable:    EG2000
 EpochGalaxyII:      Galaxy II
+EpochGalaxyII_unstable:Galaxy II
 F68kMiSTer:         X68000
+F68kMiSTer_unstable:X68000
                    |                  |         |                         |
 FlappyBird:         Flappy Bird
+FlappyBird_unstable:Flappy Bird
 Galaksija:          Galaksija
+Galaksija_unstable: Galaksija
 Gamate:             Gamate
+Gamate_unstable:    Gamate
 Game Gear:          Game Gear
+Game Gear_unstable: Game Gear
 GameAndWatch:       Game & Watch agg23
+GameAndWatch_unstable:Game & Watch agg23
+                   |                  |         |                         |
 Gameboy:            Game Boy
 Gameboy2P:          Game Boy/Color 2P
+Gameboy2P_unstable: Game Boy/Color 2P
 Gameboy2Pultrawide: Game Boy/Color 2PW
+Gameboy2Pultrawide_unstable:Game Boy/Color 2PW
 Gameboy_LLAPI:      GB/GBC #LLAPI
+Gameboy_LLAPI_unstable:GB/GBC #LLAPI
+Gameboy_unstable:   Game Boy
 GameboyColor:       Game Boy Color
+GameboyColor_unstable:Game Boy Color
                    |                  |         |                         |
 GameOfLife:         Game of Life
+GameOfLife_unstable:Game of Life
 GBA:                Game Boy Advance
 GBA2P:              Game Boy Adv. 2P
+GBA2P_unstable:     Game Boy Adv. 2P
 GBA_LLAPI:          GBA #LLAPI
+GBA_LLAPI_unstable: GBA #LLAPI
+GBA_unstable:       Game Boy Advance
 Genesis:            Mega Drive (old)
 Genesis3D:          MD 3D (old)
+                   |                  |         |                         |
+Genesis3D_unstable: MD 3D (old)
 Genesis_LLAPI:      Mega Drive #LLAPI
+Genesis_LLAPI_unstable:Mega Drive #LLAPI
 Genesis_Sinden:     Mega Drive (old S)
+Genesis_Sinden_unstable:Mega Drive (old S)
+Genesis_unstable:   Mega Drive (old)
 GnW:                Game & Watch
+GnW_unstable:       Game & Watch
 Hack:               Nand2Tetris Hack
+Hack_unstable:      Nand2Tetris Hack
                    |                  |         |                         |
 Homelab:            Homelab Series
+Homelab_unstable:   Homelab Series
 InputTest:          Input Test
 InputTest_Sinden:   Input Test (S)
+InputTest_Sinden_unstable:Input Test (S)
+InputTest_unstable: Input Test
 Intellivision:      Intellivision
+Intellivision_unstable:Intellivision
 Interact:           Interact
+Interact_unstable:  Interact
+                   |                  |         |                         |
 Intv:               Intellivision
+Intv_unstable:      Intellivision
 Jaguar:             Atari Jaguar
+Jaguar_unstable:    Atari Jaguar
 jtsdram48:          SDRAM Test 48 MHz
+jtsdram48_unstable: SDRAM Test 48 MHz
 jtsdram96:          SDRAM Test 96 MHz
+jtsdram96_unstable: SDRAM Test 96 MHz
 Jupiter:            Jupiter Ace
+Jupiter_unstable:   Jupiter Ace
                    |                  |         |                         |
 KC87:               Robotron KC 87
+KC87_unstable:      Robotron KC 87
 Konix:              Multisystem
+Konix_unstable:     Multisystem
 Laser310:           Laser 350/500/700
+Laser310_unstable:  Laser 350/500/700
 Lynx48:             Lynx 48/96K
+Lynx48_unstable:    Lynx 48/96K
 MacPlus:            Macintosh Plus
+MacPlus_unstable:   Macintosh Plus
+                   |                  |         |                         |
 mandelbrot:         Mandelbrot Zoom
+mandelbrot_unstable:Mandelbrot Zoom
 Mega Duck:          Mega Duck
+Mega Duck_unstable: Mega Duck
 MegaCD:             Mega-CD
 MegaCD_LLAPI:       Mega-CD #LLAPI
+MegaCD_LLAPI_unstable:Mega-CD #LLAPI
 MegaCD_Sinden:      Mega-CD (S)
+MegaCD_Sinden_unstable:Mega-CD (S)
+MegaCD_unstable:    Mega-CD
                    |                  |         |                         |
 MegaDrive:          Mega Drive
 MegaDrive_Sinden:   Mega Drive (S)
+MegaDrive_Sinden_unstable:Mega Drive (S)
+MegaDrive_unstable: Mega Drive
 Memotech-MTX:       Memotech MTX
+Memotech-MTX_unstable:Memotech MTX
 memtest:            SDRAM Test
+memtest_unstable:   SDRAM Test
 Minimig:            Commodore Amiga
+Minimig_unstable:   Commodore Amiga
+                   |                  |         |                         |
 mister_coco:        TRS-80 CoCo 3
+mister_coco_unstable:TRS-80 CoCo 3
 MiSTerLaggy:        MiSTer Laggy
+MiSTerLaggy_unstable:MiSTer Laggy
 MSX:                MSX (1chipMSX)
 MSX1:               MSX1
+MSX1_unstable:      MSX1
+MSX_unstable:       MSX (1chipMSX)
 MultiComp:          MultiComp
+MultiComp_unstable: MultiComp
                    |                  |         |                         |
 MyVision:           My Vision
+MyVision_unstable:  My Vision
 N64:                N64
+N64_80MHz:          N64 #TURBO
+N64_80MHz_unstable: N64 #TURBO
+N64_unstable:       N64
 NeoGeo:             Neo Geo MVS/AES
 NeoGeo_LLAPI:       Neo Geo #LLAPI
+NeoGeo_LLAPI_unstable:Neo Geo #LLAPI
+NeoGeo_unstable:    Neo Geo MVS/AES
+                   |                  |         |                         |
 NeoGeoPocket:       Neo Geo Pocket
+NeoGeoPocket_unstable:Neo Geo Pocket
 NES:                NES
 NES3D:              NES (3D)
+NES3D_unstable:     NES (3D)
 NES_LLAPI:          NES #LLAPI
+NES_LLAPI_unstable: NES #LLAPI
 NES_Sinden:         NES (S)
+NES_Sinden_unstable:NES (S)
+NES_unstable:       NES
+                   |                  |         |                         |
 Odyssey2:           Videopac G7000
-                   |                  |         |                         |
+Odyssey2_unstable:  Videopac G7000
 Ondra_SPO186:       Ondra SPO 186
+Ondra_SPO186_unstable:Ondra SPO 186
 ORAO:               Orao
+ORAO_unstable:      Orao
 Oric:               Oric
+Oric_unstable:      Oric
 Pacman_LLAPI:       Pac-Man #LLAPI
-PC88:               PC-8801
-PCXT:               PC/XT
-PDP1:               PDP-1
-PET2001:            Commodore PET 2001
-PICO:               Kids Computer Pico
-PMD85:              PMD 85-2A
+Pacman_LLAPI_unstable:Pac-Man #LLAPI
                    |                  |         |                         |
+PC88:               PC-8801
+PC88_unstable:      PC-8801
+PCXT:               PC/XT
+PCXT_unstable:      PC/XT
+PDP1:               PDP-1
+PDP1_unstable:      PDP-1
+PET2001:            Commodore PET 2001
+PET2001_unstable:   Commodore PET 2001
+PICO:               Kids Computer Pico
+PICO_unstable:      Kids Computer Pico
+                   |                  |         |                         |
+PMD85:              PMD 85-2A
+PMD85_unstable:     PMD 85-2A
 Pocket Challenge V2:Pocket Challenge 2
+Pocket Challenge V2_unstable:Pocket Challenge 2
 PokemonMini:        Pokemon mini
+PokemonMini_unstable:Pokemon mini
 PSX:                PlayStation
 PSX_Sinden:         PlayStation (S)
-QL:                 Sinclair QL
-RX78:               RX-78 Gundam
-S32X:               Mega Drive 32X
-SAMCoupe:           SAM Coupe
-Saturn:             Saturn
-SCV:                SCV
+PSX_Sinden_unstable:PlayStation (S)
+PSX_unstable:       PlayStation
                    |                  |         |                         |
+QL:                 Sinclair QL
+QL_unstable:        Sinclair QL
+RX78:               RX-78 Gundam
+RX78_unstable:      RX-78 Gundam
+S32X:               Mega Drive 32X
+S32X_unstable:      Mega Drive 32X
+SAMCoupe:           SAM Coupe
+SAMCoupe_unstable:  SAM Coupe
+Saturn:             Saturn
+Saturn_unstable:    Saturn
+                   |                  |         |                         |
+SCV:                SCV
+SCV_unstable:       SCV
 SGB:                Super Game Boy
+SGB_unstable:       Super Game Boy
 SharpMZ:            Sharp MZ
+SharpMZ_unstable:   Sharp MZ
 SlugCross:          Slug Cross
+SlugCross_unstable: Slug Cross
 SMS:                Master System
 SMS3D:              Master System 3D
+                   |                  |         |                         |
+SMS3D_unstable:     Master System 3D
 SMS_LLAPI:          SMS #LLAPI
+SMS_LLAPI_unstable: SMS #LLAPI
 SMS_Sinden:         Master System (S)
+SMS_Sinden_unstable:Master System (S)
+SMS_unstable:       Master System
 SNES:               Super NES
 SNES_LLAPI:         SNES #LLAPI
+SNES_LLAPI_unstable:SNES #LLAPI
 SNES_Sinden:        Super NES (S)
                    |                  |         |                         |
+SNES_Sinden_unstable:Super NES (S)
+SNES_unstable:      Super NES
 SordM5:             M5
+SordM5_unstable:    M5
 Specialist:         Specialist/MX
+Specialist_unstable:Specialist/MX
 SS:                 SPARCstation
+SS_unstable:        SPARCstation
 Super_Vision_8000:  Super Vision 8000
-SuperJacob:         Super Jacob
-SuperVision:        SuperVision
-Svi328:             SV-328
-System1:            System 1
-TatungEinstein:     Einstein
-Ti994a:             TI-99/4A
+Super_Vision_8000_unstable:Super Vision 8000
                    |                  |         |                         |
+SuperJacob:         Super Jacob
+SuperJacob_unstable:Super Jacob
+SuperVision:        SuperVision
+SuperVision_unstable:SuperVision
+Svi328:             SV-328
+Svi328_unstable:    SV-328
+System1:            System 1
+System1_unstable:   System 1
+TatungEinstein:     Einstein
+TatungEinstein_unstable:Einstein
+                   |                  |         |                         |
+Ti994a:             TI-99/4A
+Ti994a_unstable:    TI-99/4A
 TomyScramble:       Tomy Scramble
+TomyScramble_unstable:Tomy Scramble
 TomyTutor:          Tutor
+TomyTutor_unstable: Tutor
 TRS-80:             TRS-80
+TRS-80_unstable:    TRS-80
 TSConf:             TS-Config
+TSConf_unstable:    TS-Config
+                   |                  |         |                         |
 TurboGrafx16:       PC Engine Duo
 TurboGrafx16_LLAPI: PC Engine #LLAPI
+TurboGrafx16_LLAPI_unstable:PC Engine #LLAPI
+TurboGrafx16_unstable:PC Engine Duo
 UK101:              UK101
+UK101_unstable:     UK101
 VC4000:             VC 4000
+VC4000_unstable:    VC 4000
 Vector-06C:         Vector-06C
-Vectrex:            Vectrex
+Vector-06C_unstable:Vector-06C
                    |                  |         |                         |
+Vectrex:            Vectrex
+Vectrex_unstable:   Vectrex
 VIC20:              Commodore VIC-20
+VIC20_unstable:     Commodore VIC-20
 VT52:               VT52 Terminal
+VT52_unstable:      VT52 Terminal
 WonderSwan:         WonderSwan
 WonderSwan Color:   WonderSwan Color
+WonderSwan Color_unstable:WonderSwan Color
+WonderSwan_unstable:WonderSwan
+                   |                  |         |                         |
 X68000:             X68000
+X68000_unstable:    X68000
 zet98:              PC-98
+zet98_unstable:     PC-98
 ZX-Spectrum:        ZX Spectrum
+ZX-Spectrum_unstable:ZX Spectrum
 zx48:               ZX48
+zx48_unstable:      ZX48
 ZX81:               ZX81
+ZX81_unstable:      ZX81
+                   |                  |         |                         |
 ZXNext:             ZX Spectrum Next
+ZXNext_unstable:    ZX Spectrum Next

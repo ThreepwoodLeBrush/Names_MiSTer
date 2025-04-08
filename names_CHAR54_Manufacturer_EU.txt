@@ -1,187 +1,377 @@
                    |                  |         |                         |
 240pSuite:          240p Test Suite
+240pSuite_unstable: 240p Test Suite
 AcornAtom:          Acorn Atom
+AcornAtom_unstable: Acorn Atom
 AcornElectron:      Acorn Electron
+AcornElectron_unstable:AcornElectron:18_Manufacturer_EU
 ADCTest:            ADC Input and Signal Test
+ADCTest_unstable:   ADCTest:28_Common_EU
 AdventureVision:    Entex Adventure Vision
+AdventureVision_unstable:AdventureVision:28_Manufacturer_EU
+                   |                  |         |                         |
 AliceMC10:          Matra-Hachette Alice 4k      Tandy TRS-80 MC-10
+AliceMC10_unstable: Matra-Hachette Alice 4k      Tandy TRS-80 MC-10
 Alpha68k:           SNK Alpha 68000
+Alpha68k_unstable:  Alpha68k:18_Common_EU
 Altair8800:         MITS Altair 8800
+Altair8800_unstable:Altair8800:18_Manufacturer_EU
 Amstrad:            Amstrad CPC 664/6128
 Amstrad-PCW:        Amstrad PCW
+Amstrad-PCW_unstable:Amstrad-PCW:18_Common_EU
+Amstrad_unstable:   Amstrad:28_Common_EU
                    |                  |         |                         |
 ao486:              IBM PC Compatible (486SX)
+ao486_unstable:     ao486:28_Manufacturer_EU
 Apogee:             Apogee BK-01
+Apogee_unstable:    Apogee:18_Common_EU
 Apple-I:            Apple I
+Apple-I_unstable:   Apple-I:18_Common_EU
 Apple-II:           Apple IIe
+Apple-II_unstable:  Apple-II:18_Common_EU
 Aquarius:           Mattel Aquarius
+Aquarius_unstable:  Aquarius:18_Common_EU
+                   |                  |         |                         |
 arcade_NeoGeo:      SNK NeoGeo MVS
+arcade_NeoGeo_unstable:arcade_NeoGeo:18_Common_EU
 arcade_SMS:         SEGA System E
+arcade_SMS_unstable:arcade_SMS:18_Common_EU
 Arcadia:            Emerson Arcadia 2001
+Arcadia_unstable:   Arcadia:28_Manufacturer_EU
 Archie:             Acorn Archimedes
+Archie_unstable:    Archie:18_Common_EU
 Arduboy:            Arduboy
+Arduboy_unstable:   Arduboy:18_Common_EU
                    |                  |         |                         |
 Astrocade:          Bally Astrocade
+Astrocade_unstable: Astrocade:18_Common_EU
 Atari 2600:         Atari 2600
+Atari 2600_unstable:Atari 2600:18_Common_EU
 Atari5200:          Atari 5200
+Atari5200_unstable: Atari5200:18_Common_EU
 Atari7800:          Atari 7800
 Atari7800_Sinden:   Atari 7800                   Sinden Lightgun
+Atari7800_Sinden_unstable:Atari 7800                   Sinden Lightgun
+Atari7800_unstable: Atari7800:18_Common_EU
+                   |                  |         |                         |
 Atari800:           Atari 800XL/65XE/130XE
+Atari800_unstable:  Atari800:28_Manufacturer_EU
 AtariLynx:          Atari Lynx
+AtariLynx_unstable: AtariLynx:18_Common_EU
 AtariST:            Atari ST/STE
+AtariST_unstable:   AtariST:18_Common_EU
 AY-3-8500:          GI Pong (AY-3-8500)
+AY-3-8500_unstable: AY-3-8500:28_Manufacturer_EU
 BBCBridgeCompanion: BBC Bridge Companion
+BBCBridgeCompanion_unstable:BBCBridgeCompanion:18_Manufacturer_EU
                    |                  |         |                         |
 BBCMicro:           BBC Micro B/Master 128
+BBCMicro_unstable:  BBCMicro:28_Common_EU
 BK0011M:            Electronika BK-0011M
+BK0011M_unstable:   BK0011M:28_Manufacturer_EU
 C128:               Commodore 128
+C128_unstable:      C128:18_Common_EU
 C16:                Commodore 16 & Plus/4
+C16_unstable:       C16:28_Common_EU
 C2650:              Arcadia 2001 & VC 4000
+C2650_unstable:     C2650:28_Manufacturer_EU
+                   |                  |         |                         |
 C64:                Commodore 64
+C64_unstable:       C64:18_Common_EU
 Casio_PV-1000:      Casio PV-1000
+Casio_PV-1000_unstable:Casio_PV-1000:18_Manufacturer_EU
 Casio_PV-2000:      Casio PV-2000
+Casio_PV-2000_unstable:Casio_PV-2000:18_Manufacturer_EU
 ChannelF:           Fairchild Channel F
+ChannelF_unstable:  ChannelF:28_Manufacturer_EU
 Chess:              Chess
+Chess_unstable:     Chess:18_Common_EU
                    |                  |         |                         |
 Chip8:              CHIP-8
+Chip8_unstable:     Chip8:18_Common_EU
 CoCo2:              Dragon Data Ltd. Dragon 32  Tandy TRS-80 Color Comp. 2
+CoCo2_unstable:     Dragon Data Ltd. Dragon 32  Tandy TRS-80 Color Comp. 2
 CoCo3:              Tandy TRS-80 Color Comp. 3
+CoCo3_unstable:     CoCo3:28_Common_EU
 ColecoAdam:         Coleco Adam
+ColecoAdam_unstable:ColecoAdam:18_Common_EU
 ColecoVision:       ColecoVision & SEGA SG-1000
+ColecoVision_unstable:ColecoVision:28_Manufacturer_EU
+                   |                  |         |                         |
 CreatiVision:       VTech CreatiVision
+CreatiVision_unstable:CreatiVision:18_Manufacturer_EU
 EDSAC:              EDSAC
+EDSAC_unstable:     EDSAC:18_Common_EU
 eg2000:             EACA EG2000 Colour Genie
+eg2000_unstable:    eg2000:28_Manufacturer_EU
 EpochGalaxyII:      Epoch Galaxy II
+EpochGalaxyII_unstable:EpochGalaxyII:18_Manufacturer_EU
 F68kMiSTer:         Sharp X68000
+F68kMiSTer_unstable:F68kMiSTer:18_Manufacturer_EU
                    |                  |         |                         |
 FlappyBird:         Flappy Bird
+FlappyBird_unstable:FlappyBird:18_Common_EU
 Galaksija:          Galaksija
+Galaksija_unstable: Galaksija:18_Common_EU
 Gamate:             Bit Corp./UMC Gamate
+Gamate_unstable:    Gamate:28_Manufacturer_EU
 Game Gear:          SEGA Game Gear
+Game Gear_unstable: Game Gear:18_Manufacturer_EU
 GameAndWatch:       Nintendo Game & Watch agg23
+GameAndWatch_unstable:GameAndWatch:28_Manufacturer_EU
+                   |                  |         |                         |
 Gameboy:            Nintendo Game Boy
 Gameboy2P:          Nintendo Game Boy 2 Player          Game Boy Color
+Gameboy2P_unstable: Nintendo Game Boy 2 Player          Game Boy Color
 Gameboy2Pultrawide: Nintendo Game Boy 2 Player W        Game Boy Color (Ultrawide)
+Gameboy2Pultrawide_unstable:Nintendo Game Boy 2 Player W        Game Boy Color (Ultrawide)
 Gameboy_LLAPI:      Nintendo GB/GBC (LLAPI)
+Gameboy_LLAPI_unstable:Gameboy_LLAPI:28_Manufacturer_EU
+Gameboy_unstable:   Gameboy:28_Manufacturer_EU
 GameboyColor:       Nintendo Game Boy Color
+GameboyColor_unstable:GameboyColor:28_Manufacturer_EU
                    |                  |         |                         |
 GameOfLife:         Conway's Game of Life
+GameOfLife_unstable:GameOfLife:28_Manufacturer_EU
 GBA:                Nintendo Game Boy Advance
 GBA2P:              Nintendo Game Boy Advance           2 Player
+GBA2P_unstable:     Nintendo Game Boy Advance           2 Player
 GBA_LLAPI:          Nintendo GBA (LLAPI)
+GBA_LLAPI_unstable: GBA_LLAPI:28_Manufacturer_EU
+GBA_unstable:       GBA:28_Manufacturer_EU
 Genesis:            SEGA Mega Drive (old)
 Genesis3D:          SEGA MD 3D (old)
+                   |                  |         |                         |
+Genesis3D_unstable: Genesis3D:18_Manufacturer_EU
 Genesis_LLAPI:      SEGA Mega Drive (LLAPI)
+Genesis_LLAPI_unstable:Genesis_LLAPI:28_Manufacturer_EU
 Genesis_Sinden:     SEGA Mega Drive              Sinden Lightgun
+Genesis_Sinden_unstable:SEGA Mega Drive              Sinden Lightgun
+Genesis_unstable:   Genesis:28_Manufacturer_EU
 GnW:                Nintendo Game & Watch
+GnW_unstable:       GnW:28_Manufacturer_EU
 Hack:               Nand2Tetris Hack Computer
+Hack_unstable:      Hack:28_Manufacturer_EU
                    |                  |         |                         |
 Homelab:            Homelab Series
+Homelab_unstable:   Homelab:18_Common_EU
 InputTest:          Controller Input Tester
 InputTest_Sinden:   Controller Input Tester      Sinden Lightgun
+InputTest_Sinden_unstable:Controller Input Tester      Sinden Lightgun
+InputTest_unstable: InputTest:28_Common_EU
 Intellivision:      Mattel Intellivision
+Intellivision_unstable:Intellivision:28_Manufacturer_EU
 Interact:           Interact                            Home Computer System
+Interact_unstable:  Interact                            Home Computer System
+                   |                  |         |                         |
 Intv:               Mattel Intellivision
+Intv_unstable:      Intv:28_Manufacturer_EU
 Jaguar:             Atari Jaguar
+Jaguar_unstable:    Jaguar:18_Common_EU
 jtsdram48:          Jotego SDRAM Test 48 MHz
+jtsdram48_unstable: jtsdram48:28_Manufacturer_EU
 jtsdram96:          Jotego SDRAM Test 96 MHz
+jtsdram96_unstable: jtsdram96:28_Manufacturer_EU
 Jupiter:            Jupiter Ace
+Jupiter_unstable:   Jupiter:18_Common_EU
                    |                  |         |                         |
 KC87:               Robotron KC 87
+KC87_unstable:      KC87:18_Common_EU
 Konix:              Konix Multisystem
+Konix_unstable:     Konix:18_Manufacturer_EU
 Laser310:           VTech Laser 350/500/700
+Laser310_unstable:  Laser310:28_Manufacturer_EU
 Lynx48:             Camputers Lynx 48/96K
+Lynx48_unstable:    Lynx48:28_Manufacturer_EU
 MacPlus:            Apple Macintosh Plus
+MacPlus_unstable:   MacPlus:28_Manufacturer_EU
+                   |                  |         |                         |
 mandelbrot:         Mandelbrot Fractal Generator
+mandelbrot_unstable:mandelbrot:28_Common_EU
 Mega Duck:          Welback Holdings Mega Duck
+Mega Duck_unstable: Mega Duck:28_Manufacturer_EU
 MegaCD:             SEGA Mega-CD
 MegaCD_LLAPI:       SEGA Mega-CD (LLAPI)
+MegaCD_LLAPI_unstable:MegaCD_LLAPI:28_Manufacturer_EU
 MegaCD_Sinden:      SEGA Mega-CD                 Sinden Lightgun
+MegaCD_Sinden_unstable:SEGA Mega-CD                 Sinden Lightgun
+MegaCD_unstable:    MegaCD:18_Manufacturer_EU
                    |                  |         |                         |
 MegaDrive:          SEGA Mega Drive
 MegaDrive_Sinden:   SEGA Mega Drive              Sinden Lightgun
+MegaDrive_Sinden_unstable:SEGA Mega Drive              Sinden Lightgun
+MegaDrive_unstable: MegaDrive:18_Manufacturer_EU
 Memotech-MTX:       Memotech MTX
+Memotech-MTX_unstable:Memotech-MTX:18_Common_EU
 memtest:            SDRAM Test
+memtest_unstable:   memtest:18_Common_EU
 Minimig:            Commodore Amiga
+Minimig_unstable:   Minimig:18_Common_EU
+                   |                  |         |                         |
 mister_coco:        Tandy TRS-80 Color Comp. 3
+mister_coco_unstable:mister_coco:28_Common_EU
 MiSTerLaggy:        MiSTer Laggy
+MiSTerLaggy_unstable:MiSTerLaggy:18_Common_EU
 MSX:                MSX (1chipMSX)
 MSX1:               MSX1
+MSX1_unstable:      MSX1:18_Common_EU
+MSX_unstable:       MSX:18_Common_EU
 MultiComp:          MultiComp (Z80/6502/6809)
+MultiComp_unstable: MultiComp:28_Common_EU
                    |                  |         |                         |
 MyVision:           Nichibutsu My Vision
+MyVision_unstable:  MyVision:28_Manufacturer_EU
 N64:                Nintendo 64
+N64_80MHz:          N64:28_Manufacturer_EU
+N64_80MHz_unstable: N64_80MHz:28_Manufacturer_JP
+N64_unstable:       N64:28_Manufacturer_EU
 NeoGeo:             SNK Neo Geo MVS/AES
 NeoGeo_LLAPI:       SNK Neo Geo (LLAPI)
+NeoGeo_LLAPI_unstable:NeoGeo_LLAPI:28_Manufacturer_EU
+NeoGeo_unstable:    NeoGeo:28_Manufacturer_EU
+                   |                  |         |                         |
 NeoGeoPocket:       SNK Neo Geo Pocket Color
+NeoGeoPocket_unstable:NeoGeoPocket:28_Manufacturer_EU
 NES:                Nintendo NES                 Famicom Disk System
 NES3D:              Nintendo NES 3D              Famicom Disk System
+NES3D_unstable:     Nintendo NES 3D              Famicom Disk System
 NES_LLAPI:          Nintendo NES (LLAPI)
+NES_LLAPI_unstable: NES_LLAPI:28_Manufacturer_EU
 NES_Sinden:         Nintendo NES                 Sinden Lightgun
+NES_Sinden_unstable:Nintendo NES                 Sinden Lightgun
+NES_unstable:       Nintendo NES                 Famicom Disk System
+                   |                  |         |                         |
 Odyssey2:           Philips Videopac G7000
-                   |                  |         |                         |
+Odyssey2_unstable:  Odyssey2:28_Manufacturer_EU
 Ondra_SPO186:       Tesla Ondra SPO 186
+Ondra_SPO186_unstable:Ondra_SPO186:28_Manufacturer_EU
 ORAO:               Velebit Informatika Orao
+ORAO_unstable:      ORAO:28_Manufacturer_EU
 Oric:               Oric-1/Atmos
+Oric_unstable:      Oric:18_Manufacturer_EU
 Pacman_LLAPI:       Pac-Man (LLAPI)
-PC88:               NEC PC-8801
-PCXT:               IBM Personal Computer XT
-PDP1:               DEC PDP-1
-PET2001:            Commodore PET 2001
-PICO:               SEGA Pico
-PMD85:              Tesla PMD 85-2A
+Pacman_LLAPI_unstable:Pacman_LLAPI:28_Manufacturer_EU
                    |                  |         |                         |
+PC88:               NEC PC-8801
+PC88_unstable:      PC88:18_Manufacturer_EU
+PCXT:               IBM Personal Computer XT
+PCXT_unstable:      PCXT:28_Manufacturer_EU
+PDP1:               DEC PDP-1
+PDP1_unstable:      PDP1:18_Manufacturer_EU
+PET2001:            Commodore PET 2001
+PET2001_unstable:   PET2001:18_Common_EU
+PICO:               SEGA Pico
+PICO_unstable:      PICO:18_Manufacturer_EU
+                   |                  |         |                         |
+PMD85:              Tesla PMD 85-2A
+PMD85_unstable:     PMD85:18_Manufacturer_EU
 Pocket Challenge V2:Benesse Pocket Challenge V2
+Pocket Challenge V2_unstable:Pocket Challenge V2:28_Manufacturer_EU
 PokemonMini:        Nintendo Pokemon mini
+PokemonMini_unstable:PokemonMini:28_Manufacturer_EU
 PSX:                Sony PlayStation
 PSX_Sinden:         Sony PlayStation             Sinden Lightgun
-QL:                 Sinclair QL
-RX78:               Bandai RX-78 Gundam
-S32X:               SEGA Mega Drive 32X
-SAMCoupe:           SAM Coupe
-Saturn:             SEGA Saturn
-SCV:                Epoch Super Cassette Vision
+PSX_Sinden_unstable:Sony PlayStation             Sinden Lightgun
+PSX_unstable:       PSX:18_Manufacturer_EU
                    |                  |         |                         |
+QL:                 Sinclair QL
+QL_unstable:        QL:18_Common_EU
+RX78:               Bandai RX-78 Gundam
+RX78_unstable:      RX78:28_Manufacturer_EU
+S32X:               SEGA Mega Drive 32X
+S32X_unstable:      S32X:18_Manufacturer_EU
+SAMCoupe:           SAM Coupe
+SAMCoupe_unstable:  SAMCoupe:18_Common_EU
+Saturn:             SEGA Saturn
+Saturn_unstable:    Saturn:18_Manufacturer_EU
+                   |                  |         |                         |
+SCV:                Epoch Super Cassette Vision
+SCV_unstable:       SCV:28_Manufacturer_EU
 SGB:                Nintendo Super Game Boy
+SGB_unstable:       SGB:28_Manufacturer_EU
 SharpMZ:            Sharp MZ Series
+SharpMZ_unstable:   SharpMZ:18_Manufacturer_EU
 SlugCross:          Slug Cross
+SlugCross_unstable: SlugCross:18_Common_EU
 SMS:                SEGA Master System
 SMS3D:              SEGA Master System 3D
+                   |                  |         |                         |
+SMS3D_unstable:     SMS3D:28_Manufacturer_EU
 SMS_LLAPI:          SEGA Master System (LLAPI)
+SMS_LLAPI_unstable: SMS_LLAPI:28_Manufacturer_EU
 SMS_Sinden:         SEGA Master System           Sinden Lightgun
+SMS_Sinden_unstable:SEGA Master System           Sinden Lightgun
+SMS_unstable:       SMS:18_Manufacturer_EU
 SNES:               Nintendo Super NES
 SNES_LLAPI:         Nintendo SNES (LLAPI)
+SNES_LLAPI_unstable:SNES_LLAPI:28_Manufacturer_EU
 SNES_Sinden:        Nintendo Super NES           Sinden Lightgun
                    |                  |         |                         |
+SNES_Sinden_unstable:Nintendo Super NES           Sinden Lightgun
+SNES_unstable:      SNES:28_Manufacturer_EU
 SordM5:             CGL M5
+SordM5_unstable:    SordM5:18_Manufacturer_EU
 Specialist:         Specialist/MX
+Specialist_unstable:Specialist:18_Common_EU
 SS:                 Sun SparcStation (NeXT)
+SS_unstable:        SS:28_Manufacturer_EU
 Super_Vision_8000:  Bandai Super Vision            TV Jack 8000
-SuperJacob:         Super Jacob Homebrew Core
-SuperVision:        Watara/Quickshot SuperVision
-Svi328:             Spectravideo SV-328
-System1:            Acorn System 1
-TatungEinstein:     Tatung Einstein TC-01
-Ti994a:             Texas Instruments TI-99/4A
+Super_Vision_8000_unstable:Bandai Super Vision            TV Jack 8000
                    |                  |         |                         |
+SuperJacob:         Super Jacob Homebrew Core
+SuperJacob_unstable:SuperJacob:28_Manufacturer_EU
+SuperVision:        Watara/Quickshot SuperVision
+SuperVision_unstable:SuperVision:28_Manufacturer_EU
+Svi328:             Spectravideo SV-328
+Svi328_unstable:    Svi328:28_Manufacturer_EU
+System1:            Acorn System 1
+System1_unstable:   System1:18_Manufacturer_EU
+TatungEinstein:     Tatung Einstein TC-01
+TatungEinstein_unstable:TatungEinstein:28_Manufacturer_EU
+                   |                  |         |                         |
+Ti994a:             Texas Instruments TI-99/4A
+Ti994a_unstable:    Ti994a:28_Manufacturer_EU
 TomyScramble:       Tomytronic Scramble
+TomyScramble_unstable:TomyScramble:28_Manufacturer_EU
 TomyTutor:          Grandstand Tutor
+TomyTutor_unstable: TomyTutor:18_Manufacturer_EU
 TRS-80:             Tandy TRS-80 Model I
+TRS-80_unstable:    TRS-80:28_Manufacturer_EU
 TSConf:             ZX Evolution (TS-Config)
+TSConf_unstable:    TSConf:28_Manufacturer_EU
+                   |                  |         |                         |
 TurboGrafx16:       NEC PC Engine Duo              SuperGrafx
 TurboGrafx16_LLAPI: NEC PC Engine Duo (LLAPI)
+TurboGrafx16_LLAPI_unstable:TurboGrafx16_LLAPI:28_Manufacturer_EU
+TurboGrafx16_unstable:NEC PC Engine Duo              SuperGrafx
 UK101:              Compukit UK101
+UK101_unstable:     UK101:18_Manufacturer_EU
 VC4000:             Interton Video Computer 4000
+VC4000_unstable:    VC4000:28_Manufacturer_EU
 Vector-06C:         Vector-06C
-Vectrex:            GCE Vectrex
+Vector-06C_unstable:Vector-06C:18_Common_EU
                    |                  |         |                         |
+Vectrex:            GCE Vectrex
+Vectrex_unstable:   Vectrex:18_Manufacturer_EU
 VIC20:              Commodore VIC-20
+VIC20_unstable:     VIC20:18_Common_EU
 VT52:               VT52 Terminal
+VT52_unstable:      VT52:18_Common_EU
 WonderSwan:         Bandai WonderSwan
 WonderSwan Color:   Bandai WonderSwan Color
+WonderSwan Color_unstable:WonderSwan Color:28_Manufacturer_EU
+WonderSwan_unstable:WonderSwan:18_Manufacturer_EU
+                   |                  |         |                         |
 X68000:             Sharp X68000
+X68000_unstable:    X68000:18_Manufacturer_EU
 zet98:              NEC PC-9800
+zet98_unstable:     zet98:18_Manufacturer_EU
 ZX-Spectrum:        Sinclair ZX Spectrum
+ZX-Spectrum_unstable:ZX-Spectrum:28_Manufacturer_EU
 zx48:               Sinclair ZX48
+zx48_unstable:      zx48:28_Manufacturer_EU
 ZX81:               Sinclair ZX81
+ZX81_unstable:      ZX81:28_Manufacturer_EU
+                   |                  |         |                         |
 ZXNext:             ZX Spectrum Next
+ZXNext_unstable:    ZXNext:18_Common_EU

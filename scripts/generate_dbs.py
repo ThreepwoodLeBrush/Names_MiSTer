@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 # Copyright (c) 2021 José Manuel Barroso Galindo <theypsilon@gmail.com>
 
 import os
@@ -16,7 +15,7 @@ import urllib.request
 def main(sha):
     print('sha: %s' % sha)
 
-    url_base = envvar('URL_BASE')
+    url_base = envvar('URL_BASE', 'https://raw.githubusercontent.com/ThreepwoodLeBrush/Names_MiSTer/%s/')
     git_push = envvar('GIT_PUSH', 'false') == 'true'
 
     dbs = []
@@ -65,6 +64,7 @@ def main(sha):
         run_successfully('git rm -rf .github .gitattributes * || true')
 
     for db_name, db in dbs:
+        print(f"Updating db: {db_name}")
         with open(db_name, 'w+', newline='\n') as f:
             json.dump(db, f, indent=4, sort_keys=True)
 
@@ -148,4 +148,4 @@ def run_stdout(command):
     return result.stdout.decode()
 
 if __name__ == '__main__':
-    main(sys.argv[1])
+    main(sys.argv[1] or 'FAKE_SHA_FOR_LOCAL_TESTING')
