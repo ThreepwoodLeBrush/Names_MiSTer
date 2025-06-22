@@ -40,20 +40,22 @@ C2650:              Arcadia 2001
 C64:                Commodore 64
 Casio_PV-1000:      Casio PV-1000
 Casio_PV-2000:      Casio PV-2000
+CDi:                Philips CD-i
 ChannelF:           Fair. Channel F
-Chess:              Chess
                    |                  |         |                         |
+Chess:              Chess
 Chip8:              CHIP-8
 CoCo2:              Tandy TRS-80 CoCo2
 CoCo3:              Tandy TRS-80 CoCo3
 ColecoAdam:         Coleco Adam
 ColecoVision:       ColecoVision
 CreatiVision:       VTech CreatiVision
+Donut:              VGA Donut
 EDSAC:              EDSAC
 eg2000:             EACA EG2000
+                   |                  |         |                         |
 EpochGalaxyII:      Epoch Galaxy II
 F68kMiSTer:         Sharp X68000
-                   |                  |         |                         |
 FlappyBird:         Flappy Bird
 Galaksija:          Galaksija
 Gamate:             Bit Corp. Gamate
@@ -62,9 +64,9 @@ GameAndWatch:       Nint. G&W agg23
 Gameboy:            Nint. Game Boy
 Gameboy2P:          Nint. GB / GBC 2P
 Gameboy2Pultrawide: Nint. GB / GBC 2PW
+                   |                  |         |                         |
 Gameboy_LLAPI:      Nint. GB/C #LLAPI
 GameboyColor:       Nint. GB Color
-                   |                  |         |                         |
 GameOfLife:         Game of Life
 GBA:                Nint. GBA
 GBA2P:              Nint. GBA 2 Player
@@ -73,9 +75,9 @@ Genesis:            SEGA Genesis (old)
 Genesis3D:          SEGA Gen. 3D (old)
 Genesis_LLAPI:      SEGA Gen #LLAPI
 Genesis_Sinden:     SEGA Gen. (old S)
+                   |                  |         |                         |
 GnW:                Nint. Game & Watch
 Hack:               Nand2Tetris Hack
-                   |                  |         |                         |
 Homelab:            Homelab Series
 InputTest:          Input Test
 InputTest_Sinden:   Input Test (S)
@@ -84,9 +86,9 @@ Interact:           Interact
 Intv:               Mattel Intelliv.
 Jaguar:             Atari Jaguar
 jtsdram48:          SDRAM Test 48 MHz
+                   |                  |         |                         |
 jtsdram96:          SDRAM Test 96 MHz
 Jupiter:            Jupiter Ace
-                   |                  |         |                         |
 KC87:               Robotron KC 87
 Konix:              Konix Multisystem
 Laser310:           VTech Laser 350
@@ -95,9 +97,9 @@ MacPlus:            Apple Mac Plus
 mandelbrot:         Mandelbrot Zoom
 Mega Duck:          Welb. Mega Duck
 MegaCD:             SEGA CD
+                   |                  |         |                         |
 MegaCD_LLAPI:       SEGA CD #LLAPI
 MegaCD_Sinden:      SEGA CD (S)
-                   |                  |         |                         |
 MegaDrive:          SEGA Genesis
 MegaDrive_Sinden:   SEGA Genesis (S)
 Memotech-MTX:       Memotech MTX
@@ -106,9 +108,9 @@ Minimig:            Commodore Amiga
 mister_coco:        Tandy TRS-80 CoCo3
 MiSTerLaggy:        MiSTer Laggy
 MSX:                MSX (1chipMSX)
+                   |                  |         |                         |
 MSX1:               MSX1
 MultiComp:          MultiComp Z80/...
-                   |                  |         |                         |
 MyVision:           Nichi. My Vision
 N64:                Nint. 64
 NeoGeo:             SNK Neo Geo
@@ -117,9 +119,9 @@ NeoGeoPocket:       SNK Neo Geo Pocket
 NES:                Nint. NES
 NES3D:              Nint. NES (3D)
 NES_LLAPI:          Nint. NES #LLAPI
+                   |                  |         |                         |
 NES_Sinden:         Nint. NES (S)
 Odyssey2:           Magn. Odyssey2
-                   |                  |         |                         |
 Ondra_SPO186:       Tesla Ondra
 ORAO:               Velebit Orao
 Oric:               Oric-1/Atmos
@@ -128,9 +130,9 @@ PC88:               NEC PC-8801
 PCXT:               IBM PC/XT
 PDP1:               DEC PDP-1
 PET2001:            Commodore PET 2001
+                   |                  |         |                         |
 PICO:               SEGA Pico
 PMD85:              Tesla PMD 85-2A
-                   |                  |         |                         |
 Pocket Challenge V2:Benn. Pocket Ch. 2
 PokemonMini:        Nint. Pokemon mini
 PSX:                Sony PlayStation
@@ -139,9 +141,9 @@ QL:                 Sinc. QL
 RX78:               Bandai RX-78
 S32X:               SEGA Genesis 32X
 SAMCoupe:           SAM Coupe
+                   |                  |         |                         |
 Saturn:             SEGA Saturn
 SCV:                Epoch SCV
-                   |                  |         |                         |
 SGB:                Nint. Super GB
 SharpMZ:            Sharp MZ Series
 SlugCross:          Slug Cross
@@ -150,9 +152,9 @@ SMS3D:              SEGA Master Sys 3D
 SMS_LLAPI:          SEGA MS #LLAPI
 SMS_Sinden:         SEGA Master Sys. S
 SNES:               Nint. Super NES
+                   |                  |         |                         |
 SNES_LLAPI:         Nint. SNES #LLAPI
 SNES_Sinden:        Nint. Super NES S
-                   |                  |         |                         |
 SordM5:             Sord M5
 Specialist:         Specialist/MX
 SS:                 Sun SparcStation
@@ -161,9 +163,9 @@ SuperJacob:         Super Jacob
 SuperVision:        Wata. SuperVision
 Svi328:             Spec. SV-328
 System1:            Acorn System 1
+                   |                  |         |                         |
 TatungEinstein:     Tatung Einstein
 Ti994a:             Texa. TI-99/4A
-                   |                  |         |                         |
 TomyScramble:       Tomy Scramble
 TomyTutor:          Tomy Tutor
 TRS-80:             Tandy TRS-80
@@ -172,9 +174,9 @@ TurboGrafx16:       NEC TurboGrafx-16
 TurboGrafx16_LLAPI: NEC TGFX16 #LLAPI
 UK101:              Compukit UK101
 VC4000:             Interton VC 4000
+                   |                  |         |                         |
 Vector-06C:         Vector-06C
 Vectrex:            GCE Vectrex
-                   |                  |         |                         |
 VIC20:              Commodore VIC-20
 VT52:               VT52 Terminal
 WonderSwan:         Bandai WonderSwan
@@ -183,5 +185,6 @@ X68000:             Sharp X68000
 zet98:              NEC PC-9800
 ZX-Spectrum:        Sinc. ZX Spectrum
 zx48:               Sinc. ZX48
+                   |                  |         |                         |
 ZX81:               Timex TS-1500
 ZXNext:             ZX Spectrum Next

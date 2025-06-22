@@ -40,20 +40,22 @@ C2650:              Arcadia 2001 & VC 4000
 C64:                Commodore 64
 Casio_PV-1000:      Casio PV-1000
 Casio_PV-2000:      Casio PV-2000
+CDi:                Philips CD-i
 ChannelF:           Fairchild Channel F
-Chess:              Chess
                    |                  |         |                         |
+Chess:              Chess
 Chip8:              CHIP-8
 CoCo2:              Tandy Color 2 & Dragon 32
 CoCo3:              Tandy TRS-80 Color Comp. 3
 ColecoAdam:         Coleco Adam
 ColecoVision:       ColecoVision & SEGA SG-1000
 CreatiVision:       VTech CreatiVision
+Donut:              Tiny Tapeout VGA Donut
 EDSAC:              EDSAC
 eg2000:             EACA EG2000 Colour Genie
+                   |                  |         |                         |
 EpochGalaxyII:      Epoch Galaxy II
 F68kMiSTer:         Sharp X68000
-                   |                  |         |                         |
 FlappyBird:         Flappy Bird
 Galaksija:          Galaksija
 Gamate:             Bit Corp./UMC Gamate
@@ -62,9 +64,9 @@ GameAndWatch:       Nintendo Game & Watch agg23
 Gameboy:            Nintendo Game Boy
 Gameboy2P:          Nintendo Game Boy/Color 2P
 Gameboy2Pultrawide: Nintendo Game Boy/Color 2PW
+                   |                  |         |                         |
 Gameboy_LLAPI:      Nintendo GB/GBC (LLAPI)
 GameboyColor:       Nintendo Game Boy Color
-                   |                  |         |                         |
 GameOfLife:         Conway's Game of Life
 GBA:                Nintendo Game Boy Advance
 GBA2P:              Nintendo Game Boy Advance 2P
@@ -73,9 +75,9 @@ Genesis:            SEGA Mega Drive (old)
 Genesis3D:          SEGA MD 3D (old)
 Genesis_LLAPI:      SEGA Mega Drive (LLAPI)
 Genesis_Sinden:     SEGA Mega Drive (S)
+                   |                  |         |                         |
 GnW:                Nintendo Game & Watch
 Hack:               Nand2Tetris Hack Computer
-                   |                  |         |                         |
 Homelab:            Homelab Series
 InputTest:          Controller Input Tester
 InputTest_Sinden:   Controller Input Tester (S)
@@ -84,9 +86,9 @@ Interact:           Interact Home Computer Sys.
 Intv:               Mattel Intellivision
 Jaguar:             Atari Jaguar
 jtsdram48:          Jotego SDRAM Test 48 MHz
+                   |                  |         |                         |
 jtsdram96:          Jotego SDRAM Test 96 MHz
 Jupiter:            Jupiter Ace
-                   |                  |         |                         |
 KC87:               Robotron KC 87
 Konix:              Konix Multisystem
 Laser310:           VTech Laser 350/500/700
@@ -95,9 +97,9 @@ MacPlus:            Apple Macintosh Plus
 mandelbrot:         Mandelbrot Fractal Generator
 Mega Duck:          Welback Holdings Mega Duck
 MegaCD:             SEGA Mega-CD
+                   |                  |         |                         |
 MegaCD_LLAPI:       SEGA Mega-CD (LLAPI)
 MegaCD_Sinden:      SEGA Mega-CD (S)
-                   |                  |         |                         |
 MegaDrive:          SEGA Mega Drive
 MegaDrive_Sinden:   SEGA Mega Drive S
 Memotech-MTX:       Memotech MTX
@@ -106,9 +108,9 @@ Minimig:            Commodore Amiga
 mister_coco:        Tandy TRS-80 Color Comp. 3
 MiSTerLaggy:        MiSTer Laggy
 MSX:                MSX (1chipMSX)
+                   |                  |         |                         |
 MSX1:               MSX1
 MultiComp:          MultiComp (Z80/6502/6809)
-                   |                  |         |                         |
 MyVision:           Nichibutsu My Vision
 N64:                Nintendo 64
 NeoGeo:             SNK Neo Geo MVS/AES
@@ -117,9 +119,9 @@ NeoGeoPocket:       SNK Neo Geo Pocket Color
 NES:                Nintendo Famicom
 NES3D:              Nintendo Famicom (3D)
 NES_LLAPI:          Nintendo Famicom (LLAPI)
+                   |                  |         |                         |
 NES_Sinden:         Nintendo Famicom (S)
 Odyssey2:           Magnavox Odyssey2
-                   |                  |         |                         |
 Ondra_SPO186:       Tesla Ondra SPO 186
 ORAO:               Velebit Informatika Orao
 Oric:               Oric-1/Atmos
@@ -128,9 +130,9 @@ PC88:               NEC PC-8801
 PCXT:               IBM Personal Computer XT
 PDP1:               DEC PDP-1
 PET2001:            Commodore PET 2001
+                   |                  |         |                         |
 PICO:               SEGA Pico
 PMD85:              Tesla PMD 85-2A
-                   |                  |         |                         |
 Pocket Challenge V2:Benesse Pocket Challenge V2
 PokemonMini:        Nintendo Pokemon mini
 PSX:                Sony PlayStation
@@ -139,9 +141,9 @@ QL:                 Sinclair QL
 RX78:               Bandai RX-78 Gundam
 S32X:               SEGA Super 32X
 SAMCoupe:           SAM Coupe
+                   |                  |         |                         |
 Saturn:             SEGA Saturn
 SCV:                Epoch Super Cassette Vision
-                   |                  |         |                         |
 SGB:                Nintendo Super Game Boy
 SharpMZ:            Sharp MZ Series
 SlugCross:          Slug Cross
@@ -150,9 +152,9 @@ SMS3D:              SEGA Mark III 3D
 SMS_LLAPI:          SEGA Master System (LLAPI)
 SMS_Sinden:         SEGA Mark III (S)
 SNES:               Nintendo Super Famicom
+                   |                  |         |                         |
 SNES_LLAPI:         Nintendo SFC (LLAPI)
 SNES_Sinden:        Nintendo Super Famicom (S)
-                   |                  |         |                         |
 SordM5:             Sord M5
 Specialist:         Specialist/MX
 SS:                 Sun SparcStation (NeXT)
@@ -161,9 +163,9 @@ SuperJacob:         Super Jacob Homebrew Core
 SuperVision:        Watara/Quickshot SuperVision
 Svi328:             Spectravideo SV-328
 System1:            Acorn System 1
+                   |                  |         |                         |
 TatungEinstein:     Tatung Einstein TC-01
 Ti994a:             Texas Instruments TI-99/4A
-                   |                  |         |                         |
 TomyScramble:       Tomytronic Scramble
 TomyTutor:          Tomy Pyuta
 TRS-80:             Tandy TRS-80 Model I
@@ -172,9 +174,9 @@ TurboGrafx16:       NEC PC Engine Duo
 TurboGrafx16_LLAPI: NEC PC Engine Duo (LLAPI)
 UK101:              Compukit UK101
 VC4000:             Interton Video Computer 4000
+                   |                  |         |                         |
 Vector-06C:         Vector-06C
 Vectrex:            GCE Vectrex
-                   |                  |         |                         |
 VIC20:              Commodore VIC-20
 VT52:               VT52 Terminal
 WonderSwan:         Bandai WonderSwan
@@ -183,5 +185,6 @@ X68000:             Sharp X68000
 zet98:              NEC PC-9800
 ZX-Spectrum:        Sinclair ZX Spectrum
 zx48:               Sinclair ZX48
+                   |                  |         |                         |
 ZX81:               Sinclair ZX81
 ZXNext:             ZX Spectrum Next
