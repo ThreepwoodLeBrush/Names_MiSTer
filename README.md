@@ -14,6 +14,15 @@ Many thanks to https://github.com/theypsilon for creating scripts that make the 
 3. Copy the names.txt to the root of the MiSTer micro SD (same location as MiSTer.ini)
 4. [Optional] In MiSTer.ini set 'rbf_hide_datecode=1' to disable Date codes of cores in the MiSTer main menu (F2 toggles the display of Date Codes). This allows up to 28 characters to be displayed without scrolling.
 
+## Qualifiers
+Core names can have qualifiers appended to indicate different versions of cores or versions with special features:
+* +: Alternate version, often older version with more features, but less accuracy.
+* 2P: 2 Player Support
+* 3D: 3D Support
+* LLAPI: Low Latency API Support
+* S: Sinden Light Gun Support
+* W: Wide Screen
+
 ## Syntax
 The filenames are made up from "names_[CHAR18 or CHAR28 or CHAR54]_[sorting]_[country/continent].txt" and must be renamed to "names.txt" to be used.
 
