@@ -66,9 +66,9 @@ Gameboy_LLAPI:      Nint. GB/C LLAPI
 GameboyColor:       Nint. GB Color
                    |                  |         |                         |
 GameOfLife:         Game of Life
-GBA_accuracy:       Nint. GBA
 GBA:                Nint. GBA +
 GBA2P:              Nint. GBA + 2P
+GBA_accuracy:       Nint. GBA
 GBA_LLAPI:          Nint. GBA + LLAPI
 Genesis:            SEGA MD +
 Genesis3D:          SEGA MD + 3D
@@ -148,7 +148,7 @@ SharpMZ:            Sharp MZ Series
 SlugCross:          Slug Cross
 SMS:                SEGA Mark III
 SMS3D:              SEGA Mark III 3D
-SMS_LLAPI:          SEGA MS LLAPI
+SMS_LLAPI:          SEGA MK III LLAPI
 SMS_Sinden:         SEGA Mark III S
 SNES:               Nint Super Famicom
 SNES_LLAPI:         Nint. SFC LLAPI
