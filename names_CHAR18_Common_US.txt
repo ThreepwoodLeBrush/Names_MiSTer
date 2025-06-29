@@ -66,9 +66,9 @@ Gameboy_LLAPI:      GB/GBC LLAPI
 GameboyColor:       Game Boy Color
                    |                  |         |                         |
 GameOfLife:         Game of Life
-GBA_accuracy:       Game Boy Advance
 GBA:                Game Boy Adv. +
 GBA2P:              Game Boy Adv. + 2P
+GBA_accuracy:       Game Boy Advance
 GBA_LLAPI:          GBA + LLAPI
 Genesis:            Genesis +
 Genesis3D:          Genesis + 3D

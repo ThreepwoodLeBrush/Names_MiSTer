@@ -66,9 +66,9 @@ Gameboy_LLAPI:      Nintendo Game Boy LLAPI             Game Boy Color (LLAPI En
 GameboyColor:       Nintendo Game Boy Color
                    |                  |         |                         |
 GameOfLife:         Conway's Game of Life
-GBA_accuracy:       Nintendo Game Boy Advance     (Less Features, More Accurate)
 GBA:                Nintendo Game Boy Advance +   (More Features, Less Accurate)
 GBA2P:              Nintendo Game Boy Adv. + 2P   (2 Player, More Features, Less Accurate)
+GBA_accuracy:       Nintendo Game Boy Advance     (Less Features, More Accurate)
 GBA_LLAPI:          Nintendo GBA + LLAPI          (LLAPI-Enabled, More Features, Less Accurate)
 Genesis:            SEGA Mega Drive +             (Deprecated, Turbo, Adaptive Composite Blend, Less Accurate)
 Genesis3D:          SEGA Mega Drive + 3D          (3D Enabled, Deprecated, Turbo, Less Accurate)

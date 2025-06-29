@@ -66,13 +66,13 @@ Gameboy_LLAPI:      Game Boy/Color LLAPI
 GameboyColor:       Game Boy Color
                    |                  |         |                         |
 GameOfLife:         Game of Life
-GBA_accuracy:       Game Boy Advance
 GBA:                Game Boy Advance +
 GBA2P:              Game Boy Advance + 2P
+GBA_accuracy:       Game Boy Advance
 GBA_LLAPI:          Game Boy Advance + LLAPI
 Genesis:            Genesis +
 Genesis3D:          Genesis + 3D
-Genesis_LLAPI:      Mega Drive + LLAPI
+Genesis_LLAPI:      Genesis + LLAPI
 Genesis_Sinden:     Genesis + S
 GnW:                Game & Watch
                    |                  |         |                         |
@@ -96,7 +96,7 @@ MacPlus:            Macintosh Plus
 mandelbrot:         Mandelbrot Fractal Generator
 Mega Duck:          Mega Duck
 MegaCD:             SEGA CD
-MegaCD_LLAPI:       Mega-CD LLAPI
+MegaCD_LLAPI:       SEGA CD LLAPI
                    |                  |         |                         |
 MegaCD_Sinden:      SEGA CD S
 MegaDrive:          Genesis

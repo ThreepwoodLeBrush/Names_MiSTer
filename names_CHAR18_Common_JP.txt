@@ -66,9 +66,9 @@ Gameboy_LLAPI:      GB/GBC LLAPI
 GameboyColor:       Game Boy Color
                    |                  |         |                         |
 GameOfLife:         Game of Life
-GBA_accuracy:       Game Boy Advance
 GBA:                Game Boy Adv. +
 GBA2P:              Game Boy Adv. + 2P
+GBA_accuracy:       Game Boy Advance
 GBA_LLAPI:          GBA + LLAPI
 Genesis:            Mega Drive +
 Genesis3D:          Mega Drive + 3D
@@ -147,8 +147,8 @@ SGB:                Super Game Boy
 SharpMZ:            Sharp MZ
 SlugCross:          Slug Cross
 SMS:                Mark III
-SMS3D:              Master System 3D
-SMS_LLAPI:          MS & GG LLAPI
+SMS3D:              Mark III 3D
+SMS_LLAPI:          MK III & GG LLAPI
 SMS_Sinden:         Mark III S
 SNES:               Super Famicom
 SNES_LLAPI:         SFC LLAPI
