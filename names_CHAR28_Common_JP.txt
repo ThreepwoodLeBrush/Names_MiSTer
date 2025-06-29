@@ -117,7 +117,7 @@ NeoGeo_LLAPI:       Neo Geo MVS/AES LLAPI
 NeoGeoPocket:       Neo Geo Pocket Color
 NES:                Famicom
 NES3D:              Famicom 3D
-NES_LLAPI:          NES LLAPI
+NES_LLAPI:          Famicom LLAPI
 NES_Sinden:         Famicom S
                    |                  |         |                         |
 Odyssey2:           Magnavox Odyssey2
@@ -151,7 +151,7 @@ SMS3D:              Mark III 3D
 SMS_LLAPI:          Mark III LLAPI
 SMS_Sinden:         Mark III S
 SNES:               Super Famicom
-SNES_LLAPI:         Super NES LLAPI
+SNES_LLAPI:         Super Famicom LLAPI
                    |                  |         |                         |
 SNES_Sinden:        Super Famicom S
 SordM5:             M5
