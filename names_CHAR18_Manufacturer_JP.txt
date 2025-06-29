@@ -15,25 +15,23 @@ Apogee:             Apogee BK-01
 Apple-I:            Apple I
 Apple-II:           Apple IIe
 Aquarius:           Mattel Aquarius
-arcade_NeoGeo:      SNK NeoGeo MVS
-arcade_SMS:         SEGA System E
 Arcadia:            Emerson Arcadia
 Archie:             Acorn Archimedes
 Arduboy:            Arduboy
-                   |                  |         |                         |
 Astrocade:          Bally Astrocade
 Atari 2600:         Atari 2600
+                   |                  |         |                         |
 Atari5200:          Atari 5200
 Atari7800:          Atari 7800
-Atari7800_Sinden:   Atari 7800 (S)
+Atari7800_Sinden:   Atari 7800 S
 Atari800:           Atari 800XL/...
 AtariLynx:          Atari Lynx
 AtariST:            Atari ST/STE
 AY-3-8500:          GI Pong AY-3-8500
 BBCBridgeCompanion: BBC Bridge Companion
-                   |                  |         |                         |
 BBCMicro:           BBC Micro/Master
 BK0011M:            Elec. BK-0011M
+                   |                  |         |                         |
 C128:               Commodore 128
 C16:                Commodore 16
 C2650:              Arcadia 2001
@@ -42,9 +40,9 @@ Casio_PV-1000:      Casio PV-1000
 Casio_PV-2000:      Casio PV-2000
 CDi:                Philips CD-i
 ChannelF:           Fair. Channel F
-                   |                  |         |                         |
 Chess:              Chess
 Chip8:              CHIP-8
+                   |                  |         |                         |
 CoCo2:              Tandy TRS-80 CoCo2
 CoCo3:              Tandy TRS-80 CoCo3
 ColecoAdam:         Coleco Adam
@@ -53,9 +51,9 @@ CreatiVision:       VTech CreatiVision
 Donut:              VGA Donut
 EDSAC:              EDSAC
 eg2000:             EACA EG2000
-                   |                  |         |                         |
 EpochGalaxyII:      Epoch Galaxy II
 F68kMiSTer:         Sharp X68000
+                   |                  |         |                         |
 FlappyBird:         Flappy Bird
 Galaksija:          Galaksija
 Gamate:             Bit Corp. Gamate
@@ -64,30 +62,31 @@ GameAndWatch:       Nint. G&W agg23
 Gameboy:            Nint. Game Boy
 Gameboy2P:          Nint. GB / GBC 2P
 Gameboy2Pultrawide: Nint. GB / GBC 2PW
-                   |                  |         |                         |
-Gameboy_LLAPI:      Nint. GB/C #LLAPI
+Gameboy_LLAPI:      Nint. GB/C LLAPI
 GameboyColor:       Nint. GB Color
-GameOfLife:         Game of Life
-GBA:                Nint. GBA
-GBA2P:              Nint. GBA 2 Player
-GBA_LLAPI:          Nint. GBA #LLAPI
-Genesis:            SEGA MD (old)
-Genesis3D:          SEGA MD 3D (old)
-Genesis_LLAPI:      SEGA MD #LLAPI
-Genesis_Sinden:     SEGA MD (old S)
                    |                  |         |                         |
+GameOfLife:         Game of Life
+GBA_accuracy:       Nint. GBA
+GBA:                Nint. GBA +
+GBA2P:              Nint. GBA + 2P
+GBA_LLAPI:          Nint. GBA + LLAPI
+Genesis:            SEGA MD +
+Genesis3D:          SEGA MD + 3D
+Genesis_LLAPI:      SEGA MD + LLAPI
+Genesis_Sinden:     SEGA MD + S
 GnW:                Nint. Game & Watch
+                   |                  |         |                         |
 Hack:               Nand2Tetris Hack
 Homelab:            Homelab Series
 InputTest:          Input Test
-InputTest_Sinden:   Input Test (S)
+InputTest_Sinden:   Input Test S
 Intellivision:      Mattel Intelliv.
 Interact:           Interact
 Intv:               Mattel Intelliv.
 Jaguar:             Atari Jaguar
 jtsdram48:          SDRAM Test 48 MHz
-                   |                  |         |                         |
 jtsdram96:          SDRAM Test 96 MHz
+                   |                  |         |                         |
 Jupiter:            Jupiter Ace
 KC87:               Robotron KC 87
 Konix:              Konix Multisystem
@@ -97,9 +96,9 @@ MacPlus:            Apple Mac Plus
 mandelbrot:         Mandelbrot Zoom
 Mega Duck:          Welb. Mega Duck
 MegaCD:             SEGA Mega-CD
+MegaCD_LLAPI:       SEGA Mega-CD LLAPI
                    |                  |         |                         |
-MegaCD_LLAPI:       SEGA MegaCD #LLAPI
-MegaCD_Sinden:      SEGA Mega-CD (S)
+MegaCD_Sinden:      SEGA Mega-CD S
 MegaDrive:          SEGA Mega Drive
 MegaDrive_Sinden:   SEGA Mega Drive S
 Memotech-MTX:       Memotech MTX
@@ -108,30 +107,30 @@ Minimig:            Commodore Amiga
 mister_coco:        Tandy TRS-80 CoCo3
 MiSTerLaggy:        MiSTer Laggy
 MSX:                MSX (1chipMSX)
-                   |                  |         |                         |
 MSX1:               MSX1
+                   |                  |         |                         |
 MultiComp:          MultiComp Z80/...
 MyVision:           Nichi. My Vision
 N64:                Nint. 64
 NeoGeo:             SNK Neo Geo
-NeoGeo_LLAPI:       SNK Neo Geo #LLAPI
+NeoGeo_LLAPI:       SNK Neo Geo LLAPI
 NeoGeoPocket:       SNK Neo Geo Pocket
 NES:                Nint. Famicom
-NES3D:              Nint. Famicom (3D)
-NES_LLAPI:          Nint. Fami. #LLAPI
+NES3D:              Nint. Famicom 3D
+NES_LLAPI:          Nint. Fami. LLAPI
+NES_Sinden:         Nint. Famicom S
                    |                  |         |                         |
-NES_Sinden:         Nint. Famicom (S)
 Odyssey2:           Magn. Odyssey2
 Ondra_SPO186:       Tesla Ondra
 ORAO:               Velebit Orao
 Oric:               Oric-1/Atmos
-Pacman_LLAPI:       Puck Man #LLAPI
+Pacman_LLAPI:       Puck Man LLAPI
 PC88:               NEC PC-8801
 PCXT:               IBM PC/XT
 PDP1:               DEC PDP-1
 PET2001:            Commodore PET 2001
-                   |                  |         |                         |
 PICO:               SEGA Pico
+                   |                  |         |                         |
 PMD85:              Tesla PMD 85-2A
 Pocket Challenge V2:Benn. Pocket Ch. 2
 PokemonMini:        Nint. Pokemon mini
@@ -141,19 +140,19 @@ QL:                 Sinc. QL
 RX78:               Bandai RX-78
 S32X:               SEGA Super 32X
 SAMCoupe:           SAM Coupe
-                   |                  |         |                         |
 Saturn:             SEGA Saturn
+                   |                  |         |                         |
 SCV:                Epoch SCV
 SGB:                Nint. Super GB
 SharpMZ:            Sharp MZ Series
 SlugCross:          Slug Cross
 SMS:                SEGA Mark III
 SMS3D:              SEGA Mark III 3D
-SMS_LLAPI:          SEGA MS #LLAPI
-SMS_Sinden:         SEGA Mark III (S)
+SMS_LLAPI:          SEGA MS LLAPI
+SMS_Sinden:         SEGA Mark III S
 SNES:               Nint Super Famicom
+SNES_LLAPI:         Nint. SFC LLAPI
                    |                  |         |                         |
-SNES_LLAPI:         Nint. SFC #LLAPI
 SNES_Sinden:        Nint Super Fami. S
 SordM5:             Sord M5
 Specialist:         Specialist/MX
@@ -163,19 +162,19 @@ SuperJacob:         Super Jacob
 SuperVision:        Wata. SuperVision
 Svi328:             Spec. SV-328
 System1:            Acorn System 1
-                   |                  |         |                         |
 TatungEinstein:     Tatung Einstein
+                   |                  |         |                         |
 Ti994a:             Texa. TI-99/4A
 TomyScramble:       Tomy Scramble
 TomyTutor:          Tomy Pyuta
 TRS-80:             Tandy TRS-80
 TSConf:             ZX Evo. TS-Config
 TurboGrafx16:       NEC PC Engine/CD
-TurboGrafx16_LLAPI: NEC PCE/CD #LLAPI
+TurboGrafx16_LLAPI: NEC PCE/CD LLAPI
 UK101:              Compukit UK101
 VC4000:             Interton VC 4000
-                   |                  |         |                         |
 Vector-06C:         Vector-06C
+                   |                  |         |                         |
 Vectrex:            GCE Vectrex
 VIC20:              Commodore VIC-20
 VT52:               VT52 Terminal
@@ -185,6 +184,6 @@ X68000:             Sharp X68000
 zet98:              NEC PC-9800
 ZX-Spectrum:        Sinc. ZX Spectrum
 zx48:               Sinc. ZX48
-                   |                  |         |                         |
 ZX81:               Sinc. ZX81
+                   |                  |         |                         |
 ZXNext:             ZX Spectrum Next
