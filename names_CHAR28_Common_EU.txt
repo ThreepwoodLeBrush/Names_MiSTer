@@ -87,6 +87,7 @@ Intellivision:      Intellivision
 Interact:           Interact Home Computer Sys.
 Intv:               Intellivision
                    |                  |         |                         |
+IQ151:              IQ 151
 Jaguar:             Atari Jaguar
 jtsdram48:          SDRAM Test 48 MHz
 jtsdram96:          SDRAM Test 96 MHz
@@ -96,8 +97,8 @@ Konix:              Multisystem
 Laser310:           Laser 350/500/700
 Lynx48:             Lynx 48/96K
 MacPlus:            Macintosh Plus
-mandelbrot:         Mandelbrot Fractal Generator
                    |                  |         |                         |
+mandelbrot:         Mandelbrot Fractal Generator
 Mega Duck:          Mega Duck
 MegaCD:             Mega-CD
 MegaCD_LLAPI:       Mega-CD LLAPI
@@ -107,8 +108,8 @@ MegaDrive_Sinden:   Mega Drive S
 Memotech-MTX:       Memotech MTX
 memtest:            SDRAM Test
 Minimig:            Commodore Amiga
-mister_coco:        Tandy TRS-80 Color Comp. 3
                    |                  |         |                         |
+mister_coco:        Tandy TRS-80 Color Comp. 3
 MiSTerLaggy:        MiSTer Laggy
 MSX:                MSX (1chipMSX)
 MSX1:               MSX1
@@ -118,8 +119,8 @@ N64:                N64
 N64_80MHz:          N64 + (80MHz Turbo)
 NeoGeo:             Neo Geo MVS/AES
 NeoGeo_LLAPI:       Neo Geo MVS/AES LLAPI
-NeoGeoPocket:       Neo Geo Pocket Color
                    |                  |         |                         |
+NeoGeoPocket:       Neo Geo Pocket Color
 NES:                NES
 NES3D:              NES 3D
 NES_LLAPI:          NES LLAPI
@@ -129,8 +130,8 @@ Ondra_SPO186:       Ondra SPO 186
 ORAO:               Orao
 Oric:               Oric
 Pacman_LLAPI:       Namco - Pac-Man LLAPI
-PC88:               PC-8801
                    |                  |         |                         |
+PC88:               PC-8801
 PCXT:               Personal Computer XT
 PDP1:               PDP-1
 PET2001:            Commodore PET 2001
@@ -140,8 +141,8 @@ Pocket Challenge V2:Pocket Challenge V2
 PokemonMini:        Pokemon mini
 PSX:                PlayStation
 PSX2XCPU:           PlayStation + (66MHz Turbo)
-PSX_Sinden:         PlayStation S
                    |                  |         |                         |
+PSX_Sinden:         PlayStation S
 QL:                 Sinclair QL
 RX78:               RX-78 Gundam
 S32X:               Mega Drive 32X
@@ -151,8 +152,8 @@ SCV:                Super Cassette Vision
 SGB:                Super Game Boy
 SharpMZ:            Sharp MZ
 SlugCross:          Slug Cross
-SMS:                Master System
                    |                  |         |                         |
+SMS:                Master System
 SMS3D:              Master System 3D
 SMS_LLAPI:          Master System LLAPI
 SMS_Sinden:         Master System S
@@ -162,8 +163,8 @@ SNES_Sinden:        Super NES S
 SordM5:             M5
 Specialist:         Specialist/MX
 SS:                 SPARCstation
-Super_Vision_8000:  Super Vision 8000
                    |                  |         |                         |
+Super_Vision_8000:  Super Vision 8000
 SuperJacob:         Super Jacob
 SuperVision:        SuperVision
 Svi328:             SV-328
@@ -173,8 +174,8 @@ Ti994a:             TI-99/4A
 TK2000:             TK 2000
 TomyScramble:       Tomy Scramble
 TomyTutor:          Tutor
-TRS-80:             TRS-80
                    |                  |         |                         |
+TRS-80:             TRS-80
 TSConf:             TS-Config
 TurboGrafx16:       PC Engine Duo
 TurboGrafx16_LLAPI: PC Engine Duo LLAPI
@@ -184,8 +185,8 @@ Vector-06C:         Vector-06C
 Vectrex:            Vectrex
 VIC20:              Commodore VIC-20
 VT52:               VT52 Terminal
-WonderSwan:         WonderSwan
                    |                  |         |                         |
+WonderSwan:         WonderSwan
 WonderSwan Color:   WonderSwan Color
 X68000:             X68000
 zet98:              PC-98
