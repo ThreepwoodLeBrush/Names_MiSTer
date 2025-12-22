@@ -1,95 +1,92 @@
                    |                  |         |                         |
-GBMidi:             Nint. GB Midi
-GenMidi:            SEGA MD Midi Mod.
-N64_80MHz:          Nint. 64 + (80MHz)
-PSX2XCPU:           Sony PlayStation +
-TK2000:             Microdigi. TK 2000
-Enterprise:         I.Soft. Enterprise
 240pSuite:          240p Test Suite
 AcornAtom:          Acorn Atom
 AcornElectron:      Acorn Electron
 ADCTest:            ADC Input Test
-                   |                  |         |                         |
 AdventureVision:    Entex Adv. Vision
 AliceMC10:          Matra Alice 4k
 Alpha68k:           SNK Alpha 68000
 Altair8800:         MITS Altair 8800
 Amstrad:            Amst. CPC 664/6128
 Amstrad-PCW:        Amstrad PCW
+                   |                  |         |                         |
 ao486:              IBM PC (486SX)
 Apogee:             Apogee BK-01
 Apple-I:            Apple I
 Apple-II:           Apple IIe
-                   |                  |         |                         |
 Aquarius:           Mattel Aquarius
 Arcadia:            Emerson Arcadia
 Archie:             Acorn Archimedes
 Arduboy:            Arduboy
 Astrocade:          Bally Astrocade
 Atari 2600:         Atari 2600
+                   |                  |         |                         |
 Atari5200:          Atari 5200
 Atari7800:          Atari 7800
 Atari7800_Sinden:   Atari 7800 S
 Atari800:           Atari 800XL/...
-                   |                  |         |                         |
 AtariLynx:          Atari Lynx
 AtariST:            Atari ST/STE
 AY-3-8500:          GI Pong AY-3-8500
 BBCBridgeCompanion: BBC Bridge Companion
 BBCMicro:           BBC Micro/Master
 BK0011M:            Elec. BK-0011M
+                   |                  |         |                         |
 C128:               Commodore 128
 C16:                Commodore 16
 C2650:              Arcadia 2001
 C64:                Commodore 64
-                   |                  |         |                         |
 Casio_PV-1000:      Casio PV-1000
 Casio_PV-2000:      Casio PV-2000
 CDi:                Philips CD-i
 ChannelF:           Fair. Channel F
 Chess:              Chess
 Chip8:              CHIP-8
+                   |                  |         |                         |
 CoCo2:              Dragon 32
 CoCo3:              Tandy TRS-80 CoCo3
 ColecoAdam:         Coleco Adam
 ColecoVision:       ColecoVision
-                   |                  |         |                         |
 CreatiVision:       VTech CreatiVision
 Donut:              VGA Donut
 EDSAC:              EDSAC
 eg2000:             EACA EG2000
+Enterprise:         I.Soft. Enterprise
 EpochGalaxyII:      Epoch Galaxy II
+                   |                  |         |                         |
 F68kMiSTer:         Sharp X68000
 FlappyBird:         Flappy Bird
 Galaksija:          Galaksija
 Gamate:             Bit Corp. Gamate
 Game Gear:          SEGA Game Gear
-                   |                  |         |                         |
 GameAndWatch:       Nint. G&W agg23
 Gameboy:            Nint. Game Boy
 Gameboy2P:          Nint. GB / GBC 2P
 Gameboy2Pultrawide: Nint. GB / GBC 2PW
 Gameboy_LLAPI:      Nint. GB/C LLAPI
+                   |                  |         |                         |
 GameboyColor:       Nint. GB Color
 GameOfLife:         Game of Life
 GBA:                Nint. GBA +
 GBA2P:              Nint. GBA + 2P
 GBA_accuracy:       Nint. GBA
-                   |                  |         |                         |
 GBA_LLAPI:          Nint. GBA + LLAPI
+GBMidi:             Nint. GB Midi
 Genesis:            SEGA MD +
 Genesis3D:          SEGA MD + 3D
 Genesis_LLAPI:      SEGA MD + LLAPI
+                   |                  |         |                         |
 Genesis_Sinden:     SEGA MD + S
+GenMidi:            SEGA MD Midi Mod.
 GnW:                Nint. Game & Watch
 Hack:               Nand2Tetris Hack
 Homelab:            Homelab Series
 InputTest:          Input Test
 InputTest_Sinden:   Input Test S
-                   |                  |         |                         |
 Intellivision:      Mattel Intelliv.
 Interact:           Interact
 Intv:               Mattel Intelliv.
+                   |                  |         |                         |
 Jaguar:             Atari Jaguar
 jtsdram48:          SDRAM Test 48 MHz
 jtsdram96:          SDRAM Test 96 MHz
@@ -97,10 +94,10 @@ Jupiter:            Jupiter Ace
 KC87:               Robotron KC 87
 Konix:              Konix Multisystem
 Laser310:           VTech Laser 350
-                   |                  |         |                         |
 Lynx48:             Camp. Lynx 48/96K
 MacPlus:            Apple Mac Plus
 mandelbrot:         Mandelbrot Zoom
+                   |                  |         |                         |
 Mega Duck:          Welb. Mega Duck
 MegaCD:             SEGA Mega-CD
 MegaCD_LLAPI:       SEGA Mega-CD LLAPI
@@ -108,20 +105,21 @@ MegaCD_Sinden:      SEGA Mega-CD S
 MegaDrive:          SEGA Mega Drive
 MegaDrive_Sinden:   SEGA Mega Drive S
 Memotech-MTX:       Memotech MTX
-                   |                  |         |                         |
 memtest:            SDRAM Test
 Minimig:            Commodore Amiga
 mister_coco:        Tandy TRS-80 CoCo3
+                   |                  |         |                         |
 MiSTerLaggy:        MiSTer Laggy
 MSX:                MSX (1chipMSX)
 MSX1:               MSX1
 MultiComp:          MultiComp Z80/...
 MyVision:           Nichi. My Vision
 N64:                Nint. 64
+N64_80MHz:          Nint. 64 + (80MHz)
 NeoGeo:             SNK Neo Geo
-                   |                  |         |                         |
 NeoGeo_LLAPI:       SNK Neo Geo LLAPI
 NeoGeoPocket:       SNK Neo Geo Pocket
+                   |                  |         |                         |
 NES:                Nint. NES
 NES3D:              Nint. NES 3D
 NES_LLAPI:          Nint. NES LLAPI
@@ -130,9 +128,9 @@ Odyssey2:           Philips Videopac
 Ondra_SPO186:       Tesla Ondra
 ORAO:               Velebit Orao
 Oric:               Oric-1/Atmos
-                   |                  |         |                         |
 Pacman_LLAPI:       Pac-Man LLAPI
 PC88:               NEC PC-8801
+                   |                  |         |                         |
 PCXT:               IBM PC/XT
 PDP1:               DEC PDP-1
 PET2001:            Commodore PET 2001
@@ -141,8 +139,9 @@ PMD85:              Tesla PMD 85-2A
 Pocket Challenge V2:Benn. Pocket Ch. 2
 PokemonMini:        Nint. Pokemon mini
 PSX:                Sony PlayStation
-                   |                  |         |                         |
+PSX2XCPU:           Sony PlayStation +
 PSX_Sinden:         Sony PlayStation S
+                   |                  |         |                         |
 QL:                 Sinc. QL
 RX78:               Bandai RX-78
 S32X:               SEGA Mega Drive 32X
@@ -152,8 +151,8 @@ SCV:                Epoch SCV
 SGB:                Nint. Super GB
 SharpMZ:            Sharp MZ Series
 SlugCross:          Slug Cross
-                   |                  |         |                         |
 SMS:                SEGA Master System
+                   |                  |         |                         |
 SMS3D:              SEGA Master Sys 3D
 SMS_LLAPI:          SEGA MS LLAPI
 SMS_Sinden:         SEGA Master Sys S
@@ -163,14 +162,15 @@ SNES_Sinden:        Nint. Super NES S
 SordM5:             CGL M5
 Specialist:         Specialist/MX
 SS:                 Sun SparcStation
-                   |                  |         |                         |
 Super_Vision_8000:  Band. SVision 8000
+                   |                  |         |                         |
 SuperJacob:         Super Jacob
 SuperVision:        Quic. SuperVision
 Svi328:             Spec. SV-328
 System1:            Acorn System 1
 TatungEinstein:     Tatung Einstein
 Ti994a:             Texa. TI-99/4A
+TK2000:             Microdigi. TK 2000
 TomyScramble:       Tomy Scramble
 TomyTutor:          Grandstand Tutor
 TRS-80:             Tandy TRS-80
