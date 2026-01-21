@@ -3,17 +3,26 @@
 
 set -euo pipefail
 
+pushd "${0%/*}/.." > /dev/null
+
+echo "Running mypy"
+# Switch to 'scripts' folder so mypy will find pyproject.toml
+pushd ./scripts > /dev/null
+./uv/uv.sh -q run -- python3 -m mypy ./
+popd > /dev/null
+echo
+
 export GIT_MERGE_AUTOEDIT=no
 
 echo "Regenerating Names TXT files:"
 echo
-./scripts/generate_names_txt_files.py
+./scripts/generate_names_txt_files.sh
 echo
 echo
 
 echo "Regenerating Names CSV:"
 echo
-./scripts/generate_names_csv.py
+./scripts/generate_names_csv.sh
 echo
 echo
 
@@ -29,11 +38,12 @@ if ! git diff --staged --quiet --exit-code --ignore-space-at-eol names*; then
     echo
     echo "New files deployed (${SHA})."
 
-
-    ./scripts/generate_dbs.py "${SHA}"
+    ./scripts/generate_dbs.sh "${SHA}"
 
     echo
     echo "New dbs deployed."
 else
     echo "Nothing to be updated."
 fi
+
+popd > /dev/null

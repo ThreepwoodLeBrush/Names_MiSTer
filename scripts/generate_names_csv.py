@@ -1,36 +1,42 @@
-#!/usr/bin/env python3
 # Copyright (c) 2021 José Manuel Barroso Galindo <theypsilon@gmail.com>
 
 import re
 import csv
-import common
+from common import options
+
+class MultipleNamesTXTContent:
+    def __init__(self) -> None:
+        self.names_dicts: dict[str, dict[str, str]] = {}
+        self._unsorted_cores: list[str] = []
+
+    def add_core(self, core: str) -> None:
+        self._unsorted_cores.append(core)
+
+    @property
+    def sorted_cores(self) -> list[str]:
+        return sorted(self._unsorted_cores, key=str.casefold)
 
 class MultipleNamesTXTReader:
-    def __init__(self, options):
-        self.options = options
-        self.names_dicts = {}
-        self.sorted_cores = []
-        self.sorted_names_files = sorted(self.options["names_files"].keys())
+    def __init__(self) -> None:
+        self.content = MultipleNamesTXTContent()
         self.reading = False
         self.error = False
 
-    def read_input_names_txt_files(self):
+    def read_input_names_txt_files(self) -> MultipleNamesTXTContent:
         if self.reading == True:
             raise ValueError("MultipleNamesTXTReader can read only once.")
 
         self.reading = True
 
-        for file in self.sorted_names_files:
+        for file in options.sorted_names_files:
             try:
                 self.__process_file(file)
             except BaseException as e:
                 print("ERROR: {} {}".format(file, e))
 
-        self.sorted_cores = sorted(self.sorted_cores, key=str.casefold)
-
         lengths = {}
-        for file in self.sorted_names_files:
-            lengths[len(self.names_dicts[file])] = True
+        for file in options.sorted_names_files:
+            lengths[len(self.content.names_dicts[file])] = True
 
         if len(lengths) != 1:
             self.error = True
@@ -39,14 +45,10 @@ class MultipleNamesTXTReader:
         if self.error == True:
             raise ValueError("Something bad happened. Check previous logs.")
 
-        return {
-            "names_dicts": self.names_dicts,
-            "sorted_cores": self.sorted_cores,
-            "sorted_names_files": self.sorted_names_files
-        }
+        return self.content
 
-    def __process_file(self, file):
-        self.names_dicts[file] = {}
+    def __process_file(self, file: str) -> None:
+        self.content.names_dicts[file] = {}
 
         path = file + ".txt"
 
@@ -64,35 +66,34 @@ class MultipleNamesTXTReader:
                     groups = splits.groups()
                     core = groups[0].strip()
                     name_term = groups[1].strip()
-                    self.names_dicts[file][core] = name_term
-                    if file == self.sorted_names_files[0]:
-                        self.sorted_cores.append(core)
+                    self.content.names_dicts[file][core] = name_term
+                    if file == options.sorted_names_files[0]:
+                        self.content.add_core(core)
                 else:
                     print("Ignored line {}:{}\n{}".format(path, cnt, line))
 
 class NamesCsvGenerator:
-    def __init__(self, context, options):
-        self.context = context
-        self.options = options
+    def __init__(self, content: MultipleNamesTXTContent) -> None:
+        self.content = content
         self.writing = False
 
-    def write_output_names_csv(self):
+    def write_output_names_csv(self) -> None:
         if self.writing == True:
             raise ValueError("NamesCsvGenerator can write only once.")
 
         self.writing = True
 
-        file = self.options["output_names_csv"]
-        format_line_every = self.options["format_line_every"]
-        straight_line_every = self.options["straight_line_every"]
+        file = options.output_names_csv
+        format_line_every = options.format_line_every
+        straight_line_every = options.straight_line_every
 
-        first_row = [self.format_core(self.options["cores_column_name"])] + list(map(lambda f: self.format_name(f, f), self.context["sorted_names_files"]))
+        first_row = [self.format_core(options.cores_column_name)] + list(map(lambda f: self.format_name(f, f), options.sorted_names_files))
         formatter_line = self.make_formatter_line()
         straight_line = self.make_straight_line(file, first_row)
 
         with open(file, 'w+', newline='\n') as csvfile:
-            csvwriter = csv.writer(csvfile, delimiter=self.options["csv_separator"], quotechar=self.options["csv_quote_char"], quoting=csv.QUOTE_MINIMAL, lineterminator='\n')
-            for cnt, core in enumerate(self.context["sorted_cores"]):
+            csvwriter = csv.writer(csvfile, delimiter=options.csv_separator, quotechar=options.csv_quote_char, quoting=csv.QUOTE_MINIMAL, lineterminator='\n')
+            for cnt, core in enumerate(self.content.sorted_cores):
                 if cnt % straight_line_every == 0:
                     if cnt != 0:
                         csvfile.write("\n")
@@ -106,16 +107,16 @@ class NamesCsvGenerator:
 
                 csvwriter.writerow(self.make_names_row(core))
 
-    def format_core(self, core):
-        return core.ljust(self.options["cores_column_rightpadding_csv"], self.options["padding_char"])
+    def format_core(self, core: str) -> str:
+        return core.ljust(options.cores_column_rightpadding_csv, options.padding_char)
 
-    def format_name(self, name, file):
-        charlimit = self.options["names_files"][file]
-        return name.ljust(charlimit * 2, self.options["padding_char"])
+    def format_name(self, name: str, file: str) -> str:
+        charlimit = options.names_files[file]
+        return name.ljust(charlimit * 2, options.padding_char)
 
-    def count_firstline(self, file, first_row):
+    def count_firstline(self, file: str, first_row: list[str]) -> int:
         with open(file, 'w', newline='\n') as csvfile:
-            csvwriter = csv.writer(csvfile, delimiter=self.options["csv_separator"], quotechar=self.options["csv_quote_char"], quoting=csv.QUOTE_MINIMAL)
+            csvwriter = csv.writer(csvfile, delimiter=options.csv_separator, quotechar=options.csv_quote_char, quoting=csv.QUOTE_MINIMAL)
             csvwriter.writerow(first_row)
 
         with open(file) as fp:
@@ -123,45 +124,45 @@ class NamesCsvGenerator:
                 return len(line) - 1
         return 0
 
-    def make_straight_line(self, file, first_row):
-        straight_line = self.options["straight_line_char"] * self.count_firstline(file, first_row) + "\n"
+    def make_straight_line(self, file: str, first_row: list[str]) -> str:
+        straight_line = options.straight_line_char * self.count_firstline(file, first_row) + "\n"
 
         if len(straight_line) < 20:
             raise ValueError("ERROR: straight_line too short... weird: {}".format(straight_line))
 
         return straight_line
 
-    def make_formatter_line(self):
-        padding_char = self.options["padding_char"]
-        format_line_separator = self.options["format_line_separator"]
+    def make_formatter_line(self) -> str:
+        padding_char = options.padding_char
+        format_line_separator = options.format_line_separator
 
         formatter_line = self.format_core("") + format_line_separator
-        for file in self.context["sorted_names_files"]:
-            charcode = self.options["names_files"][file]
+        for file in options.sorted_names_files:
+            charcode = options.names_files[file]
             formatter_line = formatter_line + padding_char * charcode + format_line_separator + (charcode - 1) * padding_char + format_line_separator
         return formatter_line + "\n"
 
 
-    def make_names_row(self, core):
+    def make_names_row(self, core: str) -> list[str]:
         row = [self.format_core(core)]
-        temp_terms = {}
-        for file in self.context["sorted_names_files"]:
-            term = self.context["names_dicts"][file][core]
+        temp_terms: dict[str, str] = {}
+        for file in options.sorted_names_files:
+            term = self.content.names_dicts[file][core]
             if term in temp_terms:
                 term = temp_terms[term]
             else:
-                temp_terms[term] = "{}:{}".format(core, file.replace(self.options["strip_from_reference"], ""))
+                temp_terms[term] = "{}:{}".format(core, file.replace(options.strip_from_reference, ""))
             row.append(self.format_name(term, file))
         return row
 
-def run(options):
-    files = list(map(lambda a: "'{}.txt'".format(a), options["names_files"].keys()))
+def run() -> None:
+    files = list(map(lambda a: "'{}.txt'".format(a), options.names_files.keys()))
     print("Reading core names from files: {}".format(", ".join(files)))
-    context = MultipleNamesTXTReader(options).read_input_names_txt_files()
-    print("Found {} names for cores in {} different versions.".format(len(context["sorted_cores"]), len(files)))
-    print("Generating {} file...".format(options["output_names_csv"]))
-    NamesCsvGenerator(context, options).write_output_names_csv()
+    content = MultipleNamesTXTReader().read_input_names_txt_files()
+    print("Found {} names for cores in {} different versions.".format(len(content.sorted_cores), len(files)))
+    print("Generating {} file...".format(options.output_names_csv))
+    NamesCsvGenerator(content).write_output_names_csv()
     print("DONE.")
 
 if __name__ == "__main__":
-    run(common.options())
+    run()
