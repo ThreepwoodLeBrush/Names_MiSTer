@@ -1,0 +1,6 @@
+[project]
+name = "Names_MiSTer"
+version = "1.0.0"
+description = "proper system names in the OSD (main menu) of MiSTer FPGA"
+readme = "README.md"
+requires-python = ">=3.13.1"
