@@ -41,8 +41,7 @@ def main(sha):
                     'hash': hash(entry.name),
                     'size': size(entry.name),
                     'url': (url_base % sha) + entry.name,
-                    'tags': ['names'],
-                    'reboot': True
+                    'tags': ['namestxt']
                 }
             },
             'folders': {},
