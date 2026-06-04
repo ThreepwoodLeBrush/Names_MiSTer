@@ -59,7 +59,7 @@ FlappyBird:         Flappy Bird
 Galaksija:          Galaksija
 Gamate:             Bit Corp./UMC Gamate
 Game Gear:          SEGA Game Gear
-GameAndWatch:       Nintendo Game & Watch agg23
+GameAndWatch:       Nintendo Game & Watch
 Gameboy:            Nintendo Game Boy
 Gameboy2P:          Nintendo Game Boy/Color 2P
 Gameboy2Pultrawide: Nintendo Game Boy/Color 2PW
@@ -78,7 +78,7 @@ Genesis_LLAPI:      SEGA Genesis + LLAPI
                    |                  |         |                         |
 Genesis_Sinden:     SEGA Genesis + Sinden
 GenMidi:            SEGA Genesis Midi Module
-GnW:                Nintendo Game & Watch
+GnW:                (Nintendo GnW)
 Hack:               Nand2Tetris Hack Computer
 Homelab:            Homelab Series
 InputTest:          Controller Input Tester
@@ -132,16 +132,18 @@ Oric:               Oric-1/Atmos
 Pacman_LLAPI:       Pac-Man LLAPI
                    |                  |         |                         |
 PC88:               NEC PC-8801
+PCFX:               NEC PC-FX
 PCXT:               IBM Personal Computer XT
 PDP1:               DEC PDP-1
 PET2001:            Commodore PET 2001
 PICO:               SEGA Pico
+PCjr:               IBM PCjr
 PMD85:              Tesla PMD 85-2A
 Pocket Challenge V2:Benesse Pocket Challenge V2
 PokemonMini:        Nintendo Pokemon mini
+                   |                  |         |                         |
 PSX:                Sony PlayStation
 PSX2XCPU:           Sony PlayStation + (66MHz)
-                   |                  |         |                         |
 PSX_Sinden:         Sony PlayStation S
 QL:                 Sinclair QL
 RX78:               Bandai RX-78 Gundam
@@ -150,9 +152,9 @@ SAMCoupe:           SAM Coupe
 Saturn:             SEGA Saturn
 SCV:                Epoch Super Cassette Vision
 SGB:                Nintendo Super Game Boy
+                   |                  |         |                         |
 SharpMZ:            Sharp MZ Series
 SlugCross:          Slug Cross
-                   |                  |         |                         |
 SMS:                SEGA Master System
 SMS3D:              SEGA Master System 3D
 SMS_LLAPI:          SEGA Master System LLAPI
@@ -161,9 +163,9 @@ SNES:               Nintendo Super NES
 SNES_LLAPI:         Nintendo SNES LLAPI
 SNES_Sinden:        Nintendo Super NES S
 SordM5:             Sord M5
+                   |                  |         |                         |
 Specialist:         Specialist/MX
 SS:                 Sun SparcStation (NeXT)
-                   |                  |         |                         |
 Super_Vision_8000:  Bandai Super Vision 8000
 SuperJacob:         Super Jacob Homebrew Core
 SuperVision:        Watara/Quickshot SuperVision
@@ -172,9 +174,9 @@ System1:            Acorn System 1
 TatungEinstein:     Tatung Einstein TC-01
 Ti994a:             Texas Instruments TI-99/4A
 TK2000:             Microdigital TK 2000
+                   |                  |         |                         |
 TomyScramble:       Tomytronic Scramble
 TomyTutor:          Tomy Tutor
-                   |                  |         |                         |
 TRS-80:             Tandy TRS-80 Model I
 TSConf:             ZX Evolution (TS-Config)
 TurboGrafx16:       NEC Turbo Duo
@@ -183,9 +185,9 @@ UK101:              Compukit UK101
 VC4000:             Interton Video Computer 4000
 Vector-06C:         Vector-06C
 Vectrex:            GCE Vectrex
+                   |                  |         |                         |
 VIC20:              Commodore VIC-20
 VT52:               VT52 Terminal
-                   |                  |         |                         |
 WonderSwan:         Bandai WonderSwan
 WonderSwan Color:   Bandai WonderSwan Color
 X68000:             Sharp X68000

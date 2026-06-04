@@ -59,7 +59,7 @@ FlappyBird:         Flappy Bird
 Galaksija:          Galaksija
 Gamate:             Gamate
 Game Gear:          Game Gear
-GameAndWatch:       Game & Watch agg23
+GameAndWatch:       Game & Watch
 Gameboy:            Game Boy
 Gameboy2P:          Game Boy/Color 2P
 Gameboy2Pultrawide: Game Boy/Color 2PW
@@ -78,7 +78,7 @@ Genesis_LLAPI:      Mega Drive + LLAPI
                    |                  |         |                         |
 Genesis_Sinden:     Mega Drive + S
 GenMidi:            Mega Drive Midi
-GnW:                Game & Watch
+GnW:                (Game & Watch)
 Hack:               Nand2Tetris Hack
 Homelab:            Homelab Series
 InputTest:          Input Test
@@ -132,16 +132,18 @@ Oric:               Oric
 Pacman_LLAPI:       Puck Man LLAPI
                    |                  |         |                         |
 PC88:               PC-8801
+PCFX:               PC-FX
 PCXT:               PC/XT
 PDP1:               PDP-1
 PET2001:            Commodore PET 2001
 PICO:               Kids Computer Pico
+PCjr:               PCjr
 PMD85:              PMD 85-2A
 Pocket Challenge V2:Pocket Challenge 2
 PokemonMini:        Pokemon mini
+                   |                  |         |                         |
 PSX:                PlayStation
 PSX2XCPU:           PlayStation + (2X)
-                   |                  |         |                         |
 PSX_Sinden:         PlayStation S
 QL:                 Sinclair QL
 RX78:               RX-78 Gundam
@@ -150,9 +152,9 @@ SAMCoupe:           SAM Coupe
 Saturn:             Saturn
 SCV:                SCV
 SGB:                Super Game Boy
+                   |                  |         |                         |
 SharpMZ:            Sharp MZ
 SlugCross:          Slug Cross
-                   |                  |         |                         |
 SMS:                Mark III
 SMS3D:              Mark III 3D
 SMS_LLAPI:          MK III & GG LLAPI
@@ -161,9 +163,9 @@ SNES:               Super Famicom
 SNES_LLAPI:         SFC LLAPI
 SNES_Sinden:        Super Famicom S
 SordM5:             M5
+                   |                  |         |                         |
 Specialist:         Specialist/MX
 SS:                 SPARCstation
-                   |                  |         |                         |
 Super_Vision_8000:  Super Vision 8000
 SuperJacob:         Super Jacob
 SuperVision:        SuperVision
@@ -172,9 +174,9 @@ System1:            System 1
 TatungEinstein:     Einstein
 Ti994a:             TI-99/4A
 TK2000:             TK 2000
+                   |                  |         |                         |
 TomyScramble:       Tomy Scramble
 TomyTutor:          Pyuta
-                   |                  |         |                         |
 TRS-80:             TRS-80
 TSConf:             TS-Config
 TurboGrafx16:       PC Engine Duo
@@ -183,9 +185,9 @@ UK101:              UK101
 VC4000:             VC 4000
 Vector-06C:         Vector-06C
 Vectrex:            Vectrex
+                   |                  |         |                         |
 VIC20:              Commodore VIC-20
 VT52:               VT52 Terminal
-                   |                  |         |                         |
 WonderSwan:         WonderSwan
 WonderSwan Color:   WonderSwan Color
 X68000:             X68000
