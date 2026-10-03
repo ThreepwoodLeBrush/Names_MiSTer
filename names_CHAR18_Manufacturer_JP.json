@@ -1,0 +1,20 @@
+{
+    "base_files_url": "",
+    "db_files": [],
+    "db_id": "names_txt",
+    "db_url": "https://raw.githubusercontent.com/ThreepwoodLeBrush/Names_MiSTer/dbs/names_CHAR18_Manufacturer_JP.json",
+    "default_options": {},
+    "files": {
+        "names.txt": {
+            "hash": "6c71bf17cdcfffa7863048afc8180d7e",
+            "size": 8269,
+            "tags": [
+                "namestxt"
+            ],
+            "url": "https://raw.githubusercontent.com/ThreepwoodLeBrush/Names_MiSTer/52fa8457de67603112c801aec814f799e91c4649/names_CHAR18_Manufacturer_JP.txt"
+        }
+    },
+    "folders": {},
+    "timestamp": 1791020105,
+    "zips": {}
+}
